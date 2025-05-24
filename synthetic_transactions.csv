@@ -1,0 +1,2001 @@
+TransactionID,Timestamp,Amount,MerchantCategory,UserID,Location,UserTxFreq24h,TimeSinceLastTxUserMin
+txn_normal_1860,2023-01-01 17:09:58,259.4116882864829,Supermercado,user_061,Curitiba,3,44
+txn_normal_0353,2023-01-01 08:16:23,345.03951173275084,Viagem,user_061,Rio de Janeiro,4,47
+txn_normal_1333,2023-01-01 08:28:09,160.0572301619162,Vestuário,user_095,Belo Horizonte,3,296
+txn_normal_0905,2023-01-01 21:41:53,434.12989784643463,Supermercado,user_049,Rio de Janeiro,2,154
+txn_normal_1289,2023-01-01 16:32:35,431.79732271650136,Viagem,user_093,Rio de Janeiro,2,245
+txn_normal_1273,2023-01-01 10:26:36,356.2548356569776,Eletrônicos,user_035,Curitiba,4,340
+txn_normal_0938,2023-01-01 19:38:17,161.64007905341444,Supermercado,user_074,Belo Horizonte,2,112
+txn_normal_1731,2023-01-01 11:38:27,183.41377693379036,Eletrônicos,user_019,Rio de Janeiro,4,167
+txn_normal_0065,2023-01-01 11:24:20,439.96128662825595,Viagem,user_036,Rio de Janeiro,1,196
+txn_normal_1323,2023-01-01 14:29:49,442.5630328169834,Viagem,user_061,Belo Horizonte,3,58
+txn_normal_0056,2023-01-01 21:27:04,17.052809428580375,Eletrônicos,user_094,Rio de Janeiro,2,208
+txn_normal_1292,2023-01-01 18:40:28,341.71860863240397,Vestuário,user_067,São Paulo,4,65
+txn_normal_1118,2023-01-01 20:43:26,354.13923991565633,Restaurante,user_062,Belo Horizonte,1,232
+txn_normal_0584,2023-01-01 15:19:57,491.81977184104903,Viagem,user_084,Curitiba,1,32
+txn_normal_0374,2023-01-01 10:32:19,489.7614196274257,Viagem,user_016,Rio de Janeiro,2,252
+txn_normal_0275,2023-01-01 11:25:37,411.16645798842404,Supermercado,user_032,Belo Horizonte,1,40
+txn_normal_0746,2023-01-01 08:09:36,339.4028367741554,Vestuário,user_094,Belo Horizonte,3,250
+txn_normal_0128,2023-01-01 16:16:32,256.3329911453148,Supermercado,user_078,São Paulo,4,108
+txn_normal_1646,2023-01-01 12:39:36,478.4496581384178,Restaurante,user_082,Rio de Janeiro,4,16
+txn_normal_1852,2023-01-01 22:19:43,224.19089413260608,Eletrônicos,user_059,São Paulo,3,346
+txn_normal_0674,2023-01-01 09:14:39,133.07294109871663,Supermercado,user_096,São Paulo,1,206
+txn_normal_1664,2023-01-01 11:57:38,21.076175286021048,Supermercado,user_008,São Paulo,1,348
+txn_anomaly_0081,2023-01-01 22:30:01,8540.259327664964,Restaurante,user_245,São Paulo,4,99
+txn_normal_1083,2023-01-01 12:58:46,313.59547048527253,Eletrônicos,user_010,Belo Horizonte,2,26
+txn_anomaly_0022,2023-01-01 11:49:24,22.672240526194756,Supermercado,user_238,Curitiba,14,7
+txn_normal_0099,2023-01-01 20:03:09,351.84451703179707,Eletrônicos,user_074,São Paulo,4,344
+txn_normal_1179,2023-01-01 12:05:29,165.0697041901343,Eletrônicos,user_075,Curitiba,4,134
+txn_normal_0964,2023-01-01 18:35:10,488.04494038675966,Supermercado,user_065,Belo Horizonte,3,295
+txn_normal_0792,2023-01-01 22:24:30,444.28122606330163,Supermercado,user_020,Curitiba,3,213
+txn_normal_0029,2023-01-01 10:19:31,260.9255985666477,Vestuário,user_033,Curitiba,4,43
+txn_normal_0628,2023-01-01 15:49:26,154.0350594982798,Viagem,user_023,Rio de Janeiro,4,268
+txn_normal_0944,2023-01-01 10:02:03,437.0770826025792,Eletrônicos,user_040,Curitiba,2,295
+txn_normal_0572,2023-01-01 10:02:53,167.36945479161722,Restaurante,user_055,Rio de Janeiro,4,64
+txn_normal_0907,2023-01-01 22:30:46,400.7232353748115,Restaurante,user_043,Rio de Janeiro,3,220
+txn_normal_1080,2023-01-01 14:45:33,336.25710554941264,Supermercado,user_019,Rio de Janeiro,1,308
+txn_normal_0450,2023-01-01 17:17:31,260.4532782262426,Eletrônicos,user_087,Curitiba,2,268
+txn_normal_1609,2023-01-01 12:47:56,261.556516677344,Supermercado,user_036,São Paulo,2,8
+txn_normal_1290,2023-01-01 18:32:21,75.75918889991163,Restaurante,user_087,São Paulo,1,155
+txn_normal_1078,2023-01-01 19:47:24,44.498627577231936,Vestuário,user_069,Belo Horizonte,4,227
+txn_normal_0254,2023-01-01 14:18:44,440.16666793025047,Restaurante,user_001,Curitiba,2,314
+txn_normal_0124,2023-01-01 18:08:33,467.13965287897776,Vestuário,user_099,Belo Horizonte,1,300
+txn_anomaly_0027,2023-01-01 15:14:02,120.00656526756217,Viagem,user_224,Cidade Pequena Distante,1,426
+txn_normal_0251,2023-01-01 21:52:47,115.68082467488142,Viagem,user_090,Rio de Janeiro,4,196
+txn_normal_0585,2023-01-01 12:21:05,116.4431343619753,Viagem,user_021,Curitiba,3,83
+txn_normal_1568,2023-01-01 13:25:20,335.26121210090747,Vestuário,user_100,Rio de Janeiro,2,268
+txn_normal_0824,2023-01-01 18:28:20,430.1899977984426,Supermercado,user_078,São Paulo,3,336
+txn_normal_0507,2023-01-01 17:09:31,213.09016061427823,Restaurante,user_034,Belo Horizonte,2,13
+txn_normal_0889,2023-01-01 17:11:01,284.0168845665445,Restaurante,user_028,Rio de Janeiro,1,262
+txn_normal_0070,2023-01-01 11:18:57,341.6172531679086,Viagem,user_069,Belo Horizonte,4,29
+txn_normal_1608,2023-01-01 16:03:35,362.5404133435568,Eletrônicos,user_036,Rio de Janeiro,4,353
+txn_normal_1532,2023-01-01 09:35:29,291.01479661825584,Viagem,user_025,Rio de Janeiro,4,104
+txn_normal_0247,2023-01-01 21:44:51,78.42911483059332,Supermercado,user_008,Rio de Janeiro,1,133
+txn_normal_1450,2023-01-01 19:37:40,354.9175788027728,Vestuário,user_081,Rio de Janeiro,3,218
+txn_normal_0212,2023-01-01 16:23:11,25.255700613410568,Supermercado,user_015,Curitiba,4,31
+txn_normal_0909,2023-01-01 13:49:56,351.61146460227167,Supermercado,user_049,Curitiba,3,316
+txn_normal_1741,2023-01-01 13:16:43,434.7143611227585,Eletrônicos,user_067,Rio de Janeiro,2,355
+txn_normal_1244,2023-01-01 17:24:30,387.9001594922978,Restaurante,user_002,São Paulo,1,202
+txn_normal_1696,2023-01-01 16:08:19,10.554422809226395,Viagem,user_096,Rio de Janeiro,4,49
+txn_normal_1182,2023-01-01 19:00:52,114.63336416313618,Supermercado,user_013,Belo Horizonte,1,12
+txn_normal_0361,2023-01-01 13:38:51,253.9281289368022,Eletrônicos,user_050,Belo Horizonte,3,201
+txn_normal_1473,2023-01-01 11:23:20,489.21677763173494,Eletrônicos,user_007,São Paulo,1,263
+txn_normal_0678,2023-01-01 19:22:13,498.83518290317886,Eletrônicos,user_018,São Paulo,3,237
+txn_normal_1621,2023-01-01 18:25:39,209.24650359949212,Eletrônicos,user_090,Curitiba,1,333
+txn_normal_1089,2023-01-01 14:14:52,200.8229932380599,Vestuário,user_025,Belo Horizonte,4,194
+txn_anomaly_0087,2023-01-01 21:58:51,4080.9278641231936,Supermercado,user_233,São Paulo,3,172
+txn_normal_1847,2023-01-01 10:24:49,446.8123978409272,Restaurante,user_069,Belo Horizonte,2,171
+txn_normal_0987,2023-01-01 09:22:06,454.00739270246487,Restaurante,user_039,Belo Horizonte,4,11
+txn_normal_1512,2023-01-01 11:16:23,451.3263812132279,Viagem,user_002,Belo Horizonte,4,229
+txn_normal_0111,2023-01-01 16:44:17,184.00110860685933,Vestuário,user_086,Rio de Janeiro,3,268
+txn_normal_1487,2023-01-01 09:18:02,115.74408301924974,Eletrônicos,user_100,Curitiba,3,53
+txn_normal_1453,2023-01-01 15:50:22,168.7498446079488,Vestuário,user_049,Rio de Janeiro,3,96
+txn_normal_0383,2023-01-01 20:35:39,354.8061289557899,Eletrônicos,user_030,São Paulo,4,165
+txn_normal_1395,2023-01-01 16:31:11,65.2704902446227,Viagem,user_092,São Paulo,3,330
+txn_normal_1054,2023-01-01 11:24:01,234.30466022502574,Eletrônicos,user_092,São Paulo,1,263
+txn_normal_0755,2023-01-01 10:05:11,129.63918827091499,Viagem,user_093,Belo Horizonte,3,12
+txn_normal_0324,2023-01-01 11:26:49,345.79602789677796,Restaurante,user_023,Curitiba,4,282
+txn_normal_1623,2023-01-01 12:23:23,277.8729549455056,Vestuário,user_060,Belo Horizonte,2,70
+txn_normal_0787,2023-01-01 09:46:01,286.6494130773971,Viagem,user_013,Curitiba,2,113
+txn_normal_0368,2023-01-01 17:30:58,498.5682969700142,Restaurante,user_069,São Paulo,3,357
+txn_normal_1819,2023-01-01 08:42:55,50.347659917393635,Supermercado,user_008,Rio de Janeiro,4,46
+txn_normal_0069,2023-01-01 19:40:18,200.70882257973992,Vestuário,user_009,Belo Horizonte,4,210
+txn_normal_0857,2023-01-01 19:05:15,376.9919439215953,Vestuário,user_080,Belo Horizonte,1,338
+txn_normal_1483,2023-01-01 21:41:43,212.46529461337087,Supermercado,user_063,Curitiba,3,97
+txn_normal_1555,2023-01-01 13:29:28,307.7774647976443,Vestuário,user_033,São Paulo,4,104
+txn_normal_1691,2023-01-01 16:56:52,495.9197958875223,Eletrônicos,user_059,Belo Horizonte,1,144
+txn_normal_1474,2023-01-01 22:30:53,218.00148801150223,Supermercado,user_093,Belo Horizonte,3,266
+txn_normal_1798,2023-01-01 10:39:32,38.21021399837059,Eletrônicos,user_078,Rio de Janeiro,2,32
+txn_normal_0478,2023-01-01 09:37:26,75.79467694211502,Supermercado,user_015,Curitiba,1,126
+txn_normal_0281,2023-01-01 22:56:54,321.13042233960624,Supermercado,user_062,Rio de Janeiro,1,59
+txn_normal_1647,2023-01-01 21:37:14,277.2737807423211,Supermercado,user_065,Rio de Janeiro,3,304
+txn_normal_1556,2023-01-01 20:06:07,326.24535041311765,Vestuário,user_045,Belo Horizonte,1,221
+txn_normal_1729,2023-01-01 17:42:58,175.02837943023232,Supermercado,user_015,Belo Horizonte,1,169
+txn_normal_0210,2023-01-01 20:20:46,25.33813373628296,Viagem,user_059,Curitiba,2,151
+txn_normal_0297,2023-01-01 09:30:55,247.4547776392437,Eletrônicos,user_087,Belo Horizonte,1,103
+txn_normal_1884,2023-01-01 09:55:16,306.9937039279568,Vestuário,user_089,Curitiba,1,206
+txn_normal_1833,2023-01-01 13:21:44,54.59578537243332,Eletrônicos,user_009,Curitiba,1,195
+txn_normal_0651,2023-01-01 17:57:45,344.2550491652011,Vestuário,user_079,Rio de Janeiro,1,281
+txn_normal_1233,2023-01-01 17:27:22,42.256623247945356,Viagem,user_061,Curitiba,4,222
+txn_normal_1502,2023-01-01 11:50:07,27.449953633692324,Supermercado,user_067,Rio de Janeiro,1,275
+txn_anomaly_0031,2023-01-01 16:31:15,8525.674160016584,Viagem,user_247,São Paulo,4,153
+txn_normal_0916,2023-01-01 08:04:57,48.814443504101696,Eletrônicos,user_062,Belo Horizonte,4,300
+txn_normal_0993,2023-01-01 19:38:46,116.96852478764103,Viagem,user_054,Rio de Janeiro,1,277
+txn_normal_0429,2023-01-01 13:16:50,26.886017118250003,Restaurante,user_026,Curitiba,4,240
+txn_normal_1370,2023-01-01 14:22:12,118.36232895423976,Vestuário,user_065,Belo Horizonte,1,92
+txn_normal_0239,2023-01-01 22:30:10,485.2123120884869,Supermercado,user_067,Rio de Janeiro,2,84
+txn_normal_0879,2023-01-01 21:38:23,310.9512597163156,Eletrônicos,user_059,Rio de Janeiro,4,224
+txn_normal_0620,2023-01-01 16:31:39,232.45505648785252,Viagem,user_081,São Paulo,1,81
+txn_normal_0256,2023-01-01 08:48:31,278.7648636092236,Eletrônicos,user_035,Curitiba,2,271
+txn_normal_0611,2023-01-01 20:29:55,318.98466137571523,Vestuário,user_010,Belo Horizonte,4,53
+txn_normal_0544,2023-01-01 12:08:17,458.47602060973327,Restaurante,user_085,Rio de Janeiro,1,62
+txn_normal_0771,2023-01-01 10:59:44,76.25648371929881,Vestuário,user_055,Belo Horizonte,2,89
+txn_normal_1419,2023-01-01 20:57:59,128.0881664179998,Supermercado,user_031,Curitiba,2,277
+txn_normal_1041,2023-01-01 13:02:59,25.35790774084469,Viagem,user_084,Belo Horizonte,1,108
+txn_normal_1789,2023-01-01 19:17:08,161.6459738054848,Eletrônicos,user_085,Curitiba,1,313
+txn_normal_0759,2023-01-01 15:48:24,422.6610345586867,Supermercado,user_012,São Paulo,1,192
+txn_normal_0382,2023-01-01 11:44:06,404.40432065230493,Eletrônicos,user_019,Belo Horizonte,4,124
+txn_normal_1103,2023-01-01 21:26:24,104.4186363995543,Viagem,user_085,São Paulo,3,233
+txn_normal_0973,2023-01-01 13:20:55,134.58698888457596,Vestuário,user_008,Rio de Janeiro,2,35
+txn_normal_0352,2023-01-01 19:56:40,474.0476339919743,Eletrônicos,user_050,São Paulo,4,331
+txn_normal_1605,2023-01-01 13:18:26,381.12707718220344,Eletrônicos,user_087,São Paulo,3,263
+txn_normal_1825,2023-01-01 19:44:25,276.65800103567767,Vestuário,user_040,Belo Horizonte,2,31
+txn_normal_1036,2023-01-01 19:30:10,491.60145774915605,Eletrônicos,user_002,Curitiba,1,31
+txn_normal_1107,2023-01-01 21:26:47,495.41494121436773,Vestuário,user_064,Belo Horizonte,2,118
+txn_normal_0494,2023-01-01 12:57:00,378.3683647891557,Eletrônicos,user_022,Rio de Janeiro,4,241
+txn_normal_0393,2023-01-01 18:54:40,143.06869472800952,Eletrônicos,user_072,Belo Horizonte,2,266
+txn_normal_1546,2023-01-01 19:47:24,370.14165609864875,Restaurante,user_037,São Paulo,4,170
+txn_normal_0464,2023-01-01 09:21:16,456.423664356018,Vestuário,user_014,Rio de Janeiro,3,115
+txn_normal_0886,2023-01-01 12:29:18,319.0775058845841,Supermercado,user_023,Belo Horizonte,2,212
+txn_normal_1193,2023-01-01 10:01:10,422.57192874853087,Viagem,user_041,Belo Horizonte,1,278
+txn_normal_0366,2023-01-01 21:53:18,401.3107034675481,Eletrônicos,user_012,Belo Horizonte,2,20
+txn_normal_1893,2023-01-01 12:10:54,213.11520640118874,Restaurante,user_013,Rio de Janeiro,4,285
+txn_normal_1873,2023-01-01 21:04:48,180.8643773130594,Supermercado,user_053,Rio de Janeiro,4,244
+txn_normal_0744,2023-01-01 22:06:00,160.4164182824189,Supermercado,user_090,Belo Horizonte,2,241
+txn_normal_0529,2023-01-01 11:34:46,303.53184770368694,Supermercado,user_030,São Paulo,2,327
+txn_normal_0802,2023-01-01 18:06:08,163.33057853412308,Viagem,user_001,São Paulo,3,204
+txn_normal_1223,2023-01-01 22:54:14,320.56051823643713,Restaurante,user_072,Rio de Janeiro,2,287
+txn_anomaly_0078,2023-01-01 03:11:19,158.55464904210436,Restaurante,user_246,São Paulo,1,713
+txn_anomaly_0005,2023-01-01 13:31:57,32.70063320896667,Vestuário,user_236,Curitiba,19,4
+txn_normal_1699,2023-01-01 14:06:41,396.9400707584503,Viagem,user_068,Rio de Janeiro,3,61
+txn_normal_1544,2023-01-01 13:25:49,64.67533343528828,Supermercado,user_055,Curitiba,4,274
+txn_normal_1313,2023-01-01 19:42:15,119.65140927277835,Restaurante,user_052,São Paulo,4,279
+txn_normal_0306,2023-01-01 16:28:51,243.2488833906956,Viagem,user_038,Rio de Janeiro,1,46
+txn_normal_1666,2023-01-01 17:56:23,152.33469001939477,Vestuário,user_021,Rio de Janeiro,3,119
+txn_normal_0862,2023-01-01 14:16:47,128.75331061701354,Vestuário,user_002,Curitiba,4,191
+txn_normal_1566,2023-01-01 10:08:19,129.67451317839848,Supermercado,user_050,Curitiba,2,85
+txn_normal_0530,2023-01-01 18:09:08,192.89730908675187,Eletrônicos,user_096,Curitiba,2,237
+txn_normal_0654,2023-01-01 15:54:10,471.9029967136489,Viagem,user_064,São Paulo,2,241
+txn_normal_1259,2023-01-01 12:57:35,183.9476067488315,Supermercado,user_064,Belo Horizonte,2,52
+txn_normal_0233,2023-01-01 09:14:33,248.4677812981044,Vestuário,user_006,Belo Horizonte,2,247
+txn_normal_0120,2023-01-01 13:36:10,386.21195570699103,Vestuário,user_077,Belo Horizonte,3,165
+txn_normal_1697,2023-01-01 11:37:59,249.16753777768537,Eletrônicos,user_005,Belo Horizonte,3,168
+txn_normal_0949,2023-01-01 14:12:40,349.5309123201464,Eletrônicos,user_053,São Paulo,4,17
+txn_normal_0617,2023-01-01 22:54:38,163.79899339401055,Viagem,user_081,Curitiba,1,44
+txn_normal_1178,2023-01-01 22:16:46,272.3525344006192,Eletrônicos,user_010,Curitiba,1,209
+txn_normal_0307,2023-01-01 16:16:55,447.12149758071484,Eletrônicos,user_041,São Paulo,2,64
+txn_normal_0135,2023-01-01 11:10:09,303.52438874089,Supermercado,user_046,Belo Horizonte,4,222
+txn_normal_0554,2023-01-01 14:16:11,399.2979604877604,Restaurante,user_030,São Paulo,3,218
+txn_normal_1673,2023-01-01 12:59:38,192.95549417305165,Supermercado,user_067,Rio de Janeiro,2,25
+txn_normal_0583,2023-01-01 14:21:09,330.80744692458654,Viagem,user_079,Belo Horizonte,4,283
+txn_normal_1640,2023-01-01 11:48:08,248.63785985295735,Restaurante,user_045,Curitiba,1,241
+txn_normal_0670,2023-01-01 20:01:30,92.41979132559392,Restaurante,user_008,Curitiba,3,175
+txn_normal_0834,2023-01-01 14:31:18,276.832109080791,Supermercado,user_010,Rio de Janeiro,1,85
+txn_normal_0109,2023-01-01 16:54:36,204.61027792700042,Vestuário,user_074,Belo Horizonte,1,277
+txn_normal_1164,2023-01-01 13:36:16,445.53899821277554,Supermercado,user_086,Rio de Janeiro,4,165
+txn_anomaly_0059,2023-01-01 04:57:15,183.2225820978997,Restaurante,user_248,São Paulo,2,514
+txn_normal_1464,2023-01-01 19:45:32,137.43074654067343,Eletrônicos,user_080,Rio de Janeiro,3,211
+txn_normal_1728,2023-01-01 19:52:44,250.97740998559735,Supermercado,user_066,São Paulo,2,329
+txn_normal_1242,2023-01-01 18:57:18,195.390315024497,Supermercado,user_045,Curitiba,2,86
+txn_normal_0211,2023-01-01 10:58:00,144.36544915084832,Supermercado,user_038,Belo Horizonte,2,167
+txn_normal_1767,2023-01-01 10:50:46,173.21191856599773,Vestuário,user_064,Belo Horizonte,1,17
+txn_normal_1120,2023-01-01 13:11:20,67.3615623611127,Restaurante,user_067,Rio de Janeiro,1,324
+txn_normal_0679,2023-01-01 17:18:46,107.06680319294189,Viagem,user_047,Curitiba,4,219
+txn_anomaly_0050,2023-01-01 17:25:22,5417.26144560835,Vestuário,user_245,Rio de Janeiro,3,258
+txn_normal_1838,2023-01-01 17:56:08,300.90693347514014,Viagem,user_059,Rio de Janeiro,4,290
+txn_normal_0411,2023-01-01 10:27:43,198.27741386731685,Eletrônicos,user_063,Belo Horizonte,4,79
+txn_normal_1324,2023-01-01 20:15:40,448.0466075279703,Supermercado,user_055,Curitiba,1,321
+txn_normal_0782,2023-01-01 13:50:08,309.7067455010963,Eletrônicos,user_042,Belo Horizonte,1,340
+txn_normal_1345,2023-01-01 13:17:51,442.0414801337442,Viagem,user_043,Curitiba,1,61
+txn_normal_0874,2023-01-01 19:52:35,147.02179606167107,Supermercado,user_085,Curitiba,4,12
+txn_normal_1652,2023-01-01 16:13:08,226.01900522423279,Restaurante,user_093,Belo Horizonte,4,224
+txn_normal_1278,2023-01-01 20:18:06,187.75589523736318,Eletrônicos,user_083,São Paulo,2,108
+txn_normal_0785,2023-01-01 15:51:08,293.69904681153116,Vestuário,user_063,Curitiba,1,113
+txn_normal_1818,2023-01-01 11:56:18,248.75228456927098,Eletrônicos,user_051,Belo Horizonte,1,175
+txn_normal_1198,2023-01-01 13:46:29,270.28851294160216,Vestuário,user_048,Curitiba,3,217
+txn_normal_0807,2023-01-01 22:16:59,461.87404474512925,Vestuário,user_023,Rio de Janeiro,2,210
+txn_normal_0712,2023-01-01 20:35:55,394.5371440942441,Eletrônicos,user_096,São Paulo,1,168
+txn_anomaly_0090,2023-01-01 01:38:02,186.25210393098513,Restaurante,user_203,São Paulo,1,211
+txn_normal_1659,2023-01-01 13:02:40,476.9260536461197,Restaurante,user_085,São Paulo,2,318
+txn_normal_1190,2023-01-01 12:31:53,50.62814488329577,Supermercado,user_072,Belo Horizonte,1,116
+txn_normal_1225,2023-01-01 22:31:32,99.48631382401955,Eletrônicos,user_090,São Paulo,3,219
+txn_normal_0602,2023-01-01 09:36:48,441.99166354021884,Supermercado,user_036,Rio de Janeiro,2,79
+txn_normal_0270,2023-01-01 16:17:18,338.9980880700011,Vestuário,user_074,São Paulo,3,246
+txn_normal_1384,2023-01-01 20:53:07,421.09583737029334,Viagem,user_095,São Paulo,2,153
+txn_normal_0231,2023-01-01 15:19:36,213.794609412001,Vestuário,user_092,Curitiba,2,24
+txn_normal_0049,2023-01-01 12:32:07,273.17038932636115,Viagem,user_060,Curitiba,4,9
+txn_normal_0462,2023-01-01 11:20:59,107.61548469808602,Restaurante,user_099,São Paulo,1,53
+txn_normal_1105,2023-01-01 14:37:31,447.10884150275007,Restaurante,user_062,São Paulo,3,41
+txn_normal_0855,2023-01-01 10:07:51,425.7511694590697,Vestuário,user_007,Rio de Janeiro,2,193
+txn_normal_0693,2023-01-01 13:28:35,130.79475376261166,Vestuário,user_052,Belo Horizonte,4,333
+txn_normal_1551,2023-01-01 21:28:22,146.24388668333623,Supermercado,user_007,Rio de Janeiro,1,72
+txn_normal_1872,2023-01-01 12:39:10,222.29286392091768,Eletrônicos,user_065,Rio de Janeiro,2,186
+txn_normal_0526,2023-01-01 16:48:26,355.2316697334482,Eletrônicos,user_076,Belo Horizonte,3,270
+txn_normal_0173,2023-01-01 16:44:25,349.6558536138931,Supermercado,user_016,Belo Horizonte,1,286
+txn_normal_0720,2023-01-01 14:31:10,164.31003784855892,Restaurante,user_029,Rio de Janeiro,2,20
+txn_normal_0414,2023-01-01 20:09:59,85.68527613942865,Supermercado,user_092,Belo Horizonte,3,130
+txn_normal_0237,2023-01-01 14:24:19,300.5300159175731,Supermercado,user_070,São Paulo,3,349
+txn_normal_1472,2023-01-01 15:16:39,407.04861657043296,Viagem,user_093,Rio de Janeiro,3,261
+txn_normal_1335,2023-01-01 12:36:13,358.520254108122,Restaurante,user_087,Rio de Janeiro,4,343
+txn_normal_1063,2023-01-01 20:10:36,63.116182631145136,Supermercado,user_055,Rio de Janeiro,2,122
+txn_normal_0023,2023-01-01 16:51:48,264.2074046542494,Eletrônicos,user_058,Curitiba,4,299
+txn_normal_1766,2023-01-01 09:50:47,225.4313096889908,Supermercado,user_017,Belo Horizonte,2,236
+txn_normal_0063,2023-01-01 10:22:16,56.27705077040491,Supermercado,user_008,São Paulo,2,94
+txn_normal_0289,2023-01-01 21:23:41,317.69552585859157,Restaurante,user_080,Belo Horizonte,4,18
+txn_normal_0188,2023-01-01 12:04:53,414.84079093904325,Eletrônicos,user_009,Belo Horizonte,4,245
+txn_normal_0701,2023-01-01 22:27:52,105.55440041492174,Supermercado,user_071,Rio de Janeiro,2,284
+txn_normal_1814,2023-01-01 21:12:53,151.97142425915575,Viagem,user_041,São Paulo,1,195
+txn_normal_1137,2023-01-01 14:19:32,376.2813555854136,Vestuário,user_081,São Paulo,2,148
+txn_normal_0354,2023-01-01 13:48:16,43.157497331000776,Supermercado,user_070,Rio de Janeiro,2,102
+txn_normal_0416,2023-01-01 22:03:48,284.24733797059054,Viagem,user_050,São Paulo,2,348
+txn_normal_1245,2023-01-01 10:26:24,306.4849141844944,Supermercado,user_054,São Paulo,1,244
+txn_normal_0930,2023-01-01 13:26:18,399.06708063032175,Viagem,user_076,Curitiba,1,217
+txn_normal_0196,2023-01-01 20:32:05,287.2086623579376,Restaurante,user_080,Curitiba,4,357
+txn_normal_0579,2023-01-01 20:10:53,242.22139785689032,Restaurante,user_057,Curitiba,1,98
+txn_normal_1134,2023-01-01 10:17:40,154.35563314082347,Restaurante,user_017,Belo Horizonte,2,97
+txn_normal_1813,2023-01-01 19:22:50,10.500926801279517,Viagem,user_039,São Paulo,2,226
+txn_anomaly_0034,2023-01-01 15:05:19,95.91805319719208,Supermercado,user_232,Curitiba,11,8
+txn_normal_0433,2023-01-01 15:51:44,498.10024532332613,Eletrônicos,user_081,São Paulo,1,356
+txn_normal_0100,2023-01-01 09:05:52,234.97652055674803,Supermercado,user_077,Rio de Janeiro,3,47
+txn_normal_1654,2023-01-01 18:17:49,354.93162038676144,Supermercado,user_005,São Paulo,1,98
+txn_normal_0394,2023-01-01 09:16:11,446.82520765551834,Supermercado,user_027,Curitiba,3,97
+txn_anomaly_0038,2023-01-01 11:44:03,80.55068861224284,Supermercado,user_215,Curitiba,13,7
+txn_normal_0220,2023-01-01 13:21:27,79.82281602174149,Vestuário,user_033,Rio de Janeiro,4,246
+txn_normal_1675,2023-01-01 19:26:32,37.57474417450797,Vestuário,user_086,São Paulo,3,343
+txn_normal_1497,2023-01-01 10:18:09,406.3990973107172,Restaurante,user_015,Belo Horizonte,3,94
+txn_normal_1784,2023-01-01 17:57:14,402.2013226219023,Eletrônicos,user_026,Curitiba,1,81
+txn_normal_0344,2023-01-01 11:05:25,469.3031141657736,Vestuário,user_039,Rio de Janeiro,3,133
+txn_normal_1027,2023-01-01 16:01:36,59.22419934367453,Viagem,user_080,Curitiba,4,103
+txn_normal_0888,2023-01-01 21:53:12,309.0778738308969,Restaurante,user_029,Belo Horizonte,2,108
+txn_normal_1350,2023-01-01 21:21:12,205.80327069422526,Viagem,user_021,São Paulo,3,37
+txn_normal_0552,2023-01-01 11:45:41,476.87935833122793,Eletrônicos,user_058,Belo Horizonte,4,101
+txn_normal_0743,2023-01-01 13:10:01,108.37777763077251,Vestuário,user_012,Rio de Janeiro,4,22
+txn_normal_1541,2023-01-01 21:33:26,100.50981568924277,Vestuário,user_009,Belo Horizonte,1,204
+txn_normal_0538,2023-01-01 11:44:39,128.59081919062982,Eletrônicos,user_023,Belo Horizonte,4,51
+txn_normal_0906,2023-01-01 18:08:03,47.966657158269086,Supermercado,user_049,Curitiba,4,251
+txn_normal_1394,2023-01-01 22:30:34,59.36889354019238,Eletrônicos,user_072,Curitiba,3,253
+txn_normal_0115,2023-01-01 16:54:02,37.27020978491792,Restaurante,user_031,Curitiba,1,40
+txn_normal_0829,2023-01-01 13:02:55,393.7491011526116,Restaurante,user_057,Curitiba,2,295
+txn_anomaly_0037,2023-01-01 11:42:43,2178.413639189149,Supermercado,user_205,São Paulo,4,211
+txn_normal_0808,2023-01-01 22:05:26,169.792847731161,Supermercado,user_036,Belo Horizonte,4,83
+txn_normal_1310,2023-01-01 17:31:23,269.00625870434675,Restaurante,user_037,Curitiba,3,293
+txn_normal_1004,2023-01-01 12:30:44,318.7857915946503,Eletrônicos,user_032,São Paulo,2,71
+txn_normal_0305,2023-01-01 12:25:03,140.34944622263654,Supermercado,user_052,Curitiba,4,86
+txn_normal_1100,2023-01-01 14:38:41,28.38904219058353,Supermercado,user_073,São Paulo,2,337
+txn_normal_0479,2023-01-01 12:05:37,343.01396304020284,Supermercado,user_078,Rio de Janeiro,2,227
+txn_normal_1423,2023-01-01 15:15:36,95.26511952790085,Viagem,user_012,São Paulo,4,216
+txn_normal_1075,2023-01-01 17:53:44,35.09990523811349,Viagem,user_072,Curitiba,3,104
+txn_normal_0570,2023-01-01 16:39:35,200.80842009964888,Vestuário,user_057,São Paulo,1,86
+txn_normal_0618,2023-01-01 18:20:17,192.01895868594463,Viagem,user_080,São Paulo,3,336
+txn_normal_1897,2023-01-01 10:35:19,292.76794688956505,Restaurante,user_008,Curitiba,3,132
+txn_normal_1265,2023-01-01 11:16:48,220.85504974077153,Vestuário,user_060,Curitiba,2,135
+txn_normal_0078,2023-01-01 20:12:49,222.88140379925295,Vestuário,user_058,Curitiba,4,321
+txn_anomaly_0011,2023-01-01 00:42:19,219.0140012533133,Restaurante,user_222,São Paulo,2,408
+txn_normal_0032,2023-01-01 12:36:31,483.0554821315089,Restaurante,user_009,São Paulo,3,151
+txn_normal_1537,2023-01-01 20:28:22,287.12316678092964,Supermercado,user_035,Belo Horizonte,1,336
+txn_normal_1033,2023-01-01 20:16:58,247.09985963648694,Supermercado,user_003,Curitiba,3,208
+txn_normal_1562,2023-01-01 13:55:13,293.9728208834907,Eletrônicos,user_057,Belo Horizonte,1,273
+txn_normal_0351,2023-01-01 12:02:22,489.97991178706087,Supermercado,user_037,Curitiba,1,349
+txn_normal_0163,2023-01-01 14:09:44,335.8679705276652,Eletrônicos,user_026,São Paulo,4,194
+txn_normal_0203,2023-01-01 12:28:21,97.95368847767837,Vestuário,user_020,Curitiba,4,246
+txn_normal_1053,2023-01-01 12:49:42,156.261618056732,Vestuário,user_017,Curitiba,1,138
+txn_normal_1364,2023-01-01 14:49:07,185.34216773435128,Restaurante,user_007,São Paulo,4,7
+txn_anomaly_0066,2023-01-01 10:07:27,247.79956249243926,Viagem,user_223,Cidade Pequena Distante,1,268
+txn_normal_0495,2023-01-01 11:04:10,120.19620623979712,Restaurante,user_021,Belo Horizonte,4,286
+txn_normal_1624,2023-01-01 17:31:27,404.73460495620446,Supermercado,user_077,Curitiba,4,286
+txn_anomaly_0065,2023-01-01 01:39:49,99.41773421856723,Restaurante,user_214,São Paulo,1,251
+txn_anomaly_0062,2023-01-01 17:57:38,9037.764264481726,Vestuário,user_222,Rio de Janeiro,2,211
+txn_normal_0610,2023-01-01 21:56:39,486.8076309770262,Vestuário,user_056,Belo Horizonte,4,114
+txn_normal_0432,2023-01-01 10:46:46,209.7162622011703,Vestuário,user_007,São Paulo,3,52
+txn_normal_1491,2023-01-01 14:29:09,359.93504173216525,Vestuário,user_089,Curitiba,2,109
+txn_normal_0218,2023-01-01 22:30:37,203.81709110118464,Restaurante,user_045,São Paulo,1,106
+txn_anomaly_0030,2023-01-01 02:09:32,274.440894379797,Restaurante,user_244,São Paulo,2,199
+txn_normal_1465,2023-01-01 22:50:54,66.35535904576793,Viagem,user_073,Curitiba,4,19
+txn_normal_0630,2023-01-01 13:17:16,311.47429010838283,Viagem,user_096,Rio de Janeiro,1,242
+txn_normal_1381,2023-01-01 18:29:50,448.5990142424597,Viagem,user_030,Belo Horizonte,3,126
+txn_normal_1301,2023-01-01 17:32:32,170.20162912480052,Vestuário,user_016,São Paulo,1,252
+txn_normal_0059,2023-01-01 08:55:04,467.38379095894663,Viagem,user_004,Curitiba,4,340
+txn_normal_0298,2023-01-01 19:45:50,46.56860902517004,Vestuário,user_097,Curitiba,4,107
+txn_normal_1710,2023-01-01 15:42:27,456.2909764139452,Supermercado,user_018,São Paulo,3,292
+txn_normal_0073,2023-01-01 22:11:08,355.8574271005603,Supermercado,user_058,Curitiba,1,257
+txn_normal_0162,2023-01-01 16:30:05,77.07395873371556,Restaurante,user_040,Rio de Janeiro,4,241
+txn_normal_1274,2023-01-01 16:35:18,492.6082353482833,Supermercado,user_081,São Paulo,2,154
+txn_normal_1593,2023-01-01 10:12:04,363.23767733552785,Eletrônicos,user_077,São Paulo,1,51
+txn_normal_1433,2023-01-01 18:06:28,409.5890051342666,Supermercado,user_093,São Paulo,4,180
+txn_normal_1612,2023-01-01 08:35:32,53.358578892516874,Viagem,user_027,Belo Horizonte,4,252
+txn_normal_0591,2023-01-01 13:37:30,162.9762204266258,Supermercado,user_049,Curitiba,4,187
+txn_normal_0316,2023-01-01 11:13:40,135.15260749575756,Eletrônicos,user_089,Rio de Janeiro,3,194
+txn_normal_0045,2023-01-01 15:12:59,135.54140236128444,Supermercado,user_007,São Paulo,4,177
+txn_normal_1719,2023-01-01 19:58:14,474.44008092502986,Supermercado,user_048,Curitiba,1,117
+txn_normal_1831,2023-01-01 22:45:51,88.04868830123465,Restaurante,user_062,Belo Horizonte,3,31
+txn_normal_0427,2023-01-01 09:10:53,300.57710517669284,Viagem,user_047,Curitiba,2,153
+txn_normal_0581,2023-01-01 21:31:48,230.88037910431828,Eletrônicos,user_067,Rio de Janeiro,3,226
+txn_normal_0076,2023-01-01 08:06:24,441.3763846328242,Viagem,user_004,Curitiba,2,256
+txn_anomaly_0016,2023-01-01 13:11:21,53.256904731987866,Supermercado,user_230,Curitiba,21,6
+txn_normal_1414,2023-01-01 18:52:18,207.12439225739615,Supermercado,user_089,Belo Horizonte,1,301
+txn_normal_0780,2023-01-01 08:51:23,316.5841370080628,Viagem,user_035,Rio de Janeiro,1,157
+txn_anomaly_0019,2023-01-01 14:28:31,483.7479167546536,Viagem,user_218,Cidade Pequena Distante,1,892
+txn_normal_1173,2023-01-01 20:17:09,371.0293386679965,Supermercado,user_039,Rio de Janeiro,1,299
+txn_normal_1319,2023-01-01 13:21:58,445.222504674933,Vestuário,user_029,Curitiba,4,149
+txn_normal_0937,2023-01-01 14:56:30,78.09480602444606,Vestuário,user_005,Curitiba,2,302
+txn_normal_0030,2023-01-01 08:10:27,468.99769448099994,Eletrônicos,user_089,Rio de Janeiro,3,302
+txn_normal_1091,2023-01-01 21:37:07,319.2821582494349,Viagem,user_091,Curitiba,4,38
+txn_normal_1615,2023-01-01 08:07:58,404.4586696849676,Viagem,user_027,Curitiba,2,95
+txn_normal_1229,2023-01-01 22:37:38,420.7929229840178,Eletrônicos,user_070,Curitiba,4,57
+txn_normal_0974,2023-01-01 20:47:08,319.6212780309737,Supermercado,user_010,São Paulo,2,84
+txn_normal_1084,2023-01-01 16:17:10,86.74027929739844,Supermercado,user_076,Rio de Janeiro,2,111
+txn_normal_0514,2023-01-01 11:17:48,395.2407696079184,Restaurante,user_043,Curitiba,3,82
+txn_normal_1550,2023-01-01 20:54:50,406.9614595822399,Viagem,user_095,São Paulo,4,88
+txn_normal_1567,2023-01-01 19:09:00,354.18458879367864,Viagem,user_022,Rio de Janeiro,2,176
+txn_normal_1810,2023-01-01 16:13:10,445.82891159232184,Viagem,user_034,Rio de Janeiro,2,30
+txn_normal_1573,2023-01-01 14:14:32,394.251717823719,Eletrônicos,user_013,Belo Horizonte,2,100
+txn_normal_0044,2023-01-01 16:42:53,425.8481995130905,Viagem,user_042,Belo Horizonte,2,359
+txn_normal_1686,2023-01-01 19:35:11,101.22086751557441,Restaurante,user_003,Belo Horizonte,4,233
+txn_normal_0168,2023-01-01 12:08:08,387.74697983545275,Eletrônicos,user_001,São Paulo,1,108
+txn_normal_0303,2023-01-01 17:49:44,168.51519350662213,Viagem,user_053,Rio de Janeiro,1,177
+txn_normal_0990,2023-01-01 13:35:56,158.8301726502987,Eletrônicos,user_080,Rio de Janeiro,3,69
+txn_normal_0555,2023-01-01 22:36:22,155.01201554074174,Viagem,user_032,Rio de Janeiro,4,116
+txn_anomaly_0024,2023-01-01 01:35:18,248.7718651650649,Restaurante,user_213,São Paulo,1,478
+txn_normal_0607,2023-01-01 19:38:52,72.68909301077376,Vestuário,user_049,São Paulo,4,302
+txn_normal_1618,2023-01-01 12:28:31,199.3819242033177,Vestuário,user_070,Rio de Janeiro,2,114
+txn_normal_0757,2023-01-01 20:02:47,291.19426634177717,Eletrônicos,user_060,Rio de Janeiro,1,331
+txn_normal_0438,2023-01-01 14:29:06,415.94995673006736,Restaurante,user_065,Curitiba,1,41
+txn_normal_0582,2023-01-01 21:44:31,120.27051932372734,Vestuário,user_021,Rio de Janeiro,2,273
+txn_normal_1518,2023-01-01 13:16:13,106.27649967743012,Vestuário,user_091,Rio de Janeiro,2,71
+txn_normal_0527,2023-01-01 10:15:01,263.22707017279754,Vestuário,user_024,Rio de Janeiro,2,26
+txn_normal_0342,2023-01-01 13:44:05,297.04697152623197,Eletrônicos,user_051,São Paulo,3,39
+txn_normal_1736,2023-01-01 13:03:16,383.8550004674214,Restaurante,user_034,Belo Horizonte,3,124
+txn_normal_0367,2023-01-01 20:54:52,494.3238348119175,Viagem,user_030,São Paulo,2,264
+txn_normal_0185,2023-01-01 19:05:38,136.9014992848887,Restaurante,user_062,São Paulo,2,157
+txn_normal_1116,2023-01-01 17:48:53,34.3008190278422,Eletrônicos,user_061,Belo Horizonte,3,216
+txn_normal_1754,2023-01-01 21:22:14,282.4656878971809,Restaurante,user_078,Rio de Janeiro,3,245
+txn_normal_1425,2023-01-01 09:06:44,404.1093093482032,Restaurante,user_015,São Paulo,2,231
+txn_normal_0300,2023-01-01 09:36:51,425.5277837722067,Viagem,user_099,Belo Horizonte,3,96
+txn_anomaly_0003,2023-01-01 12:29:31,548.5236941050955,Viagem,user_250,Cidade Pequena Distante,2,817
+txn_normal_0832,2023-01-01 08:35:09,260.7724237190455,Restaurante,user_017,São Paulo,3,27
+txn_normal_0543,2023-01-01 08:08:05,387.66384014372034,Restaurante,user_089,Belo Horizonte,1,288
+txn_normal_1600,2023-01-01 18:11:10,231.1897585124488,Vestuário,user_091,São Paulo,1,263
+txn_normal_0350,2023-01-01 14:20:41,72.71422218145733,Supermercado,user_014,São Paulo,1,318
+txn_anomaly_0032,2023-01-01 13:50:20,285.53236740176567,Viagem,user_206,Cidade Pequena Distante,1,501
+txn_normal_1510,2023-01-01 21:42:39,256.57741151965143,Viagem,user_098,Curitiba,4,254
+txn_normal_0978,2023-01-01 11:40:26,110.88217420737736,Supermercado,user_046,Rio de Janeiro,1,77
+txn_normal_0175,2023-01-01 18:22:28,66.48819041116934,Supermercado,user_095,Rio de Janeiro,4,107
+txn_normal_0482,2023-01-01 15:58:25,476.20060707729783,Eletrônicos,user_076,Belo Horizonte,1,93
+txn_normal_1412,2023-01-01 18:46:24,159.66205538305672,Restaurante,user_051,Rio de Janeiro,1,136
+txn_normal_1610,2023-01-01 17:35:49,411.9435506984969,Viagem,user_013,Rio de Janeiro,3,281
+txn_normal_0123,2023-01-01 21:30:48,211.80204793216157,Viagem,user_062,Curitiba,4,338
+txn_normal_0599,2023-01-01 08:14:39,407.02670748277035,Vestuário,user_022,Rio de Janeiro,2,213
+txn_normal_1794,2023-01-01 14:29:29,392.45508217610717,Supermercado,user_094,São Paulo,2,61
+txn_normal_1745,2023-01-01 14:52:49,366.60437985134257,Restaurante,user_079,São Paulo,1,276
+txn_normal_1378,2023-01-01 22:46:55,40.99870919213065,Restaurante,user_080,Rio de Janeiro,3,352
+txn_normal_1185,2023-01-01 22:41:54,172.18605432566747,Vestuário,user_061,São Paulo,2,338
+txn_normal_0485,2023-01-01 17:07:29,202.46895014657827,Vestuário,user_094,São Paulo,3,43
+txn_normal_0331,2023-01-01 10:30:54,170.19649200565877,Restaurante,user_058,Curitiba,3,136
+txn_normal_0788,2023-01-01 22:40:07,362.8771558561607,Restaurante,user_063,Rio de Janeiro,4,13
+txn_normal_0194,2023-01-01 20:27:04,117.88976895540756,Viagem,user_081,Rio de Janeiro,4,305
+txn_normal_0637,2023-01-01 09:37:36,199.78803380790387,Viagem,user_064,Belo Horizonte,2,204
+txn_normal_0471,2023-01-01 11:39:02,205.02259354770638,Viagem,user_029,Rio de Janeiro,2,209
+txn_normal_1713,2023-01-01 20:25:30,359.92467686505483,Vestuário,user_039,Belo Horizonte,4,91
+txn_normal_0322,2023-01-01 21:20:07,321.6746742276143,Vestuário,user_096,Belo Horizonte,4,90
+txn_normal_1196,2023-01-01 08:35:16,35.65011743134342,Restaurante,user_009,Rio de Janeiro,2,169
+txn_normal_0266,2023-01-01 13:06:53,218.01843834621732,Eletrônicos,user_044,Curitiba,1,51
+txn_normal_1543,2023-01-01 11:49:50,392.45568335094066,Restaurante,user_078,Rio de Janeiro,1,140
+txn_normal_1803,2023-01-01 14:04:38,288.8624203777739,Eletrônicos,user_018,São Paulo,4,230
+txn_normal_0067,2023-01-01 19:48:54,285.3146791504491,Viagem,user_023,São Paulo,3,290
+txn_normal_1737,2023-01-01 13:52:20,13.409217778612694,Supermercado,user_026,Belo Horizonte,4,235
+txn_normal_1592,2023-01-01 22:40:53,220.36815519505566,Supermercado,user_081,Curitiba,2,141
+txn_normal_1563,2023-01-01 13:58:05,54.155680137730826,Eletrônicos,user_094,Rio de Janeiro,3,142
+txn_normal_0480,2023-01-01 21:05:28,31.510971895072508,Vestuário,user_033,São Paulo,4,335
+txn_normal_1756,2023-01-01 14:21:55,132.1941361179871,Restaurante,user_013,Rio de Janeiro,4,198
+txn_anomaly_0012,2023-01-01 01:20:54,148.81352494222944,Restaurante,user_229,São Paulo,2,559
+txn_normal_1440,2023-01-01 17:58:17,259.18405683387687,Supermercado,user_013,Rio de Janeiro,2,327
+txn_normal_1460,2023-01-01 17:46:05,318.8948883246652,Restaurante,user_058,Curitiba,4,55
+txn_normal_0887,2023-01-01 15:33:52,165.83940973031474,Eletrônicos,user_008,Rio de Janeiro,1,116
+txn_normal_0422,2023-01-01 14:50:02,130.98463906711692,Supermercado,user_098,Curitiba,1,55
+txn_normal_1674,2023-01-01 11:58:02,206.17424119227965,Eletrônicos,user_088,Rio de Janeiro,1,210
+txn_normal_1449,2023-01-01 15:24:15,87.68271766496252,Vestuário,user_080,Rio de Janeiro,1,217
+txn_normal_0764,2023-01-01 21:44:12,164.52823420039758,Viagem,user_025,Curitiba,2,342
+txn_normal_0519,2023-01-01 12:07:06,339.62446716236,Restaurante,user_016,Belo Horizonte,3,183
+txn_normal_1431,2023-01-01 12:55:30,310.71690507643615,Restaurante,user_058,Curitiba,4,112
+txn_normal_0613,2023-01-01 13:23:55,390.6336327485451,Supermercado,user_031,Belo Horizonte,3,306
+txn_normal_1530,2023-01-01 15:32:52,271.78108425298774,Restaurante,user_076,Curitiba,3,170
+txn_normal_1782,2023-01-01 21:27:26,186.55735746886572,Supermercado,user_083,São Paulo,2,137
+txn_normal_1658,2023-01-01 13:41:17,196.27356955925828,Eletrônicos,user_030,Rio de Janeiro,3,190
+txn_normal_0453,2023-01-01 08:05:47,222.57053559249948,Vestuário,user_051,São Paulo,1,190
+txn_normal_0730,2023-01-01 19:42:50,387.519138326255,Viagem,user_037,Rio de Janeiro,1,92
+txn_normal_0534,2023-01-01 08:08:35,295.6337678340889,Restaurante,user_001,Rio de Janeiro,4,77
+txn_normal_0965,2023-01-01 14:00:24,328.59171155837015,Restaurante,user_084,Belo Horizonte,3,55
+txn_normal_1284,2023-01-01 17:03:54,302.58714380759665,Viagem,user_076,São Paulo,1,25
+txn_normal_1739,2023-01-01 22:21:31,293.8960664004949,Eletrônicos,user_027,Curitiba,2,113
+txn_normal_0261,2023-01-01 19:14:24,327.26260993575545,Vestuário,user_075,Belo Horizonte,3,328
+txn_normal_0535,2023-01-01 17:31:31,421.5027872655691,Eletrônicos,user_074,Rio de Janeiro,3,58
+txn_normal_0968,2023-01-01 08:02:09,175.7331739854696,Viagem,user_090,São Paulo,1,350
+txn_normal_0240,2023-01-01 17:11:29,264.68923479244864,Eletrônicos,user_001,São Paulo,4,268
+txn_normal_0819,2023-01-01 08:27:41,193.66421293149887,Eletrônicos,user_055,Curitiba,4,74
+txn_normal_0692,2023-01-01 13:35:29,93.93452933261848,Viagem,user_019,Belo Horizonte,2,145
+txn_normal_0420,2023-01-01 08:28:12,415.08660627332887,Restaurante,user_047,Rio de Janeiro,4,113
+txn_normal_1085,2023-01-01 19:28:58,177.06442280487877,Supermercado,user_073,Belo Horizonte,2,353
+txn_anomaly_0098,2023-01-01 22:03:34,6614.086779487394,Supermercado,user_245,Rio de Janeiro,3,226
+txn_normal_0365,2023-01-01 15:36:31,108.98767751722008,Vestuário,user_048,Belo Horizonte,1,264
+txn_normal_1022,2023-01-01 14:39:49,450.3471737608053,Eletrônicos,user_013,São Paulo,1,187
+txn_normal_1240,2023-01-01 20:54:50,433.625257375221,Eletrônicos,user_096,Belo Horizonte,1,188
+txn_normal_0588,2023-01-01 13:47:26,356.35054933246516,Vestuário,user_012,Belo Horizonte,1,291
+txn_normal_0736,2023-01-01 13:22:24,327.63439971584455,Supermercado,user_007,Rio de Janeiro,1,214
+txn_normal_1761,2023-01-01 12:37:47,96.94150960230313,Vestuário,user_088,Curitiba,4,256
+txn_normal_0941,2023-01-01 10:02:11,341.80103366911794,Viagem,user_048,São Paulo,3,273
+txn_normal_0071,2023-01-01 12:35:52,281.3144956494424,Eletrônicos,user_039,São Paulo,1,46
+txn_normal_1407,2023-01-01 19:18:15,368.24046167174544,Eletrônicos,user_018,Belo Horizonte,1,89
+txn_normal_0259,2023-01-01 12:14:43,83.0060094253954,Vestuário,user_015,Belo Horizonte,4,347
+txn_normal_0051,2023-01-01 20:49:59,77.79301528472267,Supermercado,user_030,Belo Horizonte,1,124
+txn_normal_0198,2023-01-01 19:06:04,352.50546163939794,Restaurante,user_045,Rio de Janeiro,1,35
+txn_normal_1788,2023-01-01 09:13:40,498.978415862021,Supermercado,user_051,Curitiba,3,17
+txn_normal_0650,2023-01-01 08:51:21,220.67923369211263,Viagem,user_062,São Paulo,1,298
+txn_normal_0332,2023-01-01 15:53:34,363.81475971934117,Supermercado,user_037,Rio de Janeiro,1,314
+txn_normal_1359,2023-01-01 08:13:40,453.8665941284098,Restaurante,user_013,Belo Horizonte,3,115
+txn_normal_0593,2023-01-01 16:03:28,297.5988882138645,Restaurante,user_043,Rio de Janeiro,2,65
+txn_normal_1391,2023-01-01 20:07:06,414.8465141298579,Restaurante,user_082,Belo Horizonte,2,253
+txn_normal_1800,2023-01-01 22:43:02,256.5818892391976,Restaurante,user_047,Belo Horizonte,2,198
+txn_normal_1314,2023-01-01 16:08:08,203.22716171182552,Restaurante,user_017,Curitiba,1,305
+txn_normal_1111,2023-01-01 13:56:04,138.5144176893426,Supermercado,user_016,Curitiba,1,100
+txn_normal_1006,2023-01-01 11:24:50,215.27531972933528,Viagem,user_044,Belo Horizonte,3,134
+txn_normal_1326,2023-01-01 09:52:58,391.7126430227785,Restaurante,user_077,Curitiba,3,197
+txn_normal_0426,2023-01-01 15:27:04,368.1008340687863,Eletrônicos,user_036,Rio de Janeiro,3,68
+txn_normal_1558,2023-01-01 12:16:34,347.2343058944682,Eletrônicos,user_029,Belo Horizonte,4,136
+txn_normal_1293,2023-01-01 21:48:21,167.03857985121817,Eletrônicos,user_057,Belo Horizonte,2,48
+txn_normal_0590,2023-01-01 20:48:34,158.9748334995198,Vestuário,user_075,Belo Horizonte,1,308
+txn_anomaly_0057,2023-01-01 14:29:50,91.66390860070733,Vestuário,user_244,Curitiba,10,3
+txn_anomaly_0076,2023-01-01 12:14:34,35.38984738099753,Supermercado,user_214,Curitiba,15,1
+txn_normal_1132,2023-01-01 21:06:08,174.8329244674256,Eletrônicos,user_097,Belo Horizonte,1,119
+txn_normal_0985,2023-01-01 13:14:15,326.50466758128925,Eletrônicos,user_098,Belo Horizonte,1,339
+txn_normal_0398,2023-01-01 08:40:16,410.1742659708519,Viagem,user_051,Belo Horizonte,3,187
+txn_normal_1511,2023-01-01 10:41:18,418.13650771252827,Eletrônicos,user_044,São Paulo,4,169
+txn_normal_0436,2023-01-01 21:20:15,268.3408286115021,Vestuário,user_066,São Paulo,4,39
+txn_normal_0192,2023-01-01 16:14:39,432.4425324600708,Eletrônicos,user_005,Belo Horizonte,3,230
+txn_normal_1435,2023-01-01 10:38:05,22.318465620593948,Supermercado,user_011,São Paulo,4,65
+txn_normal_0614,2023-01-01 12:37:09,403.8643963369028,Restaurante,user_044,Curitiba,4,347
+txn_normal_1493,2023-01-01 21:07:37,452.409557060868,Vestuário,user_026,Belo Horizonte,1,275
+txn_normal_0576,2023-01-01 17:51:16,403.4710152593402,Restaurante,user_083,Curitiba,4,33
+txn_normal_0986,2023-01-01 11:42:04,251.76928320256363,Restaurante,user_013,Rio de Janeiro,3,107
+txn_normal_1432,2023-01-01 17:38:11,166.74099256720405,Vestuário,user_048,São Paulo,3,186
+txn_normal_0706,2023-01-01 16:19:49,114.04364740057672,Restaurante,user_027,São Paulo,4,166
+txn_normal_1258,2023-01-01 13:12:21,410.33023691383903,Viagem,user_047,Belo Horizonte,2,132
+txn_normal_0141,2023-01-01 16:34:51,12.2696912722554,Eletrônicos,user_090,Belo Horizonte,2,214
+txn_normal_1357,2023-01-01 18:43:56,465.49571635280876,Vestuário,user_025,Curitiba,4,88
+txn_normal_0002,2023-01-01 13:01:59,417.8968939922066,Viagem,user_033,Curitiba,2,26
+txn_normal_1221,2023-01-01 13:29:49,247.0604793255702,Eletrônicos,user_002,Rio de Janeiro,2,261
+txn_normal_1869,2023-01-01 13:14:14,114.82755357251315,Viagem,user_016,Curitiba,1,304
+txn_normal_1622,2023-01-01 19:21:07,419.38821626521514,Supermercado,user_049,Rio de Janeiro,3,215
+txn_normal_0339,2023-01-01 18:46:10,303.130394091232,Eletrônicos,user_045,São Paulo,1,202
+txn_normal_1769,2023-01-01 12:26:18,361.54288093034427,Restaurante,user_050,Belo Horizonte,3,103
+txn_normal_1536,2023-01-01 21:53:59,419.42675129990516,Restaurante,user_014,São Paulo,3,332
+txn_normal_0483,2023-01-01 14:54:37,460.4998282406096,Supermercado,user_026,Rio de Janeiro,4,112
+txn_normal_0265,2023-01-01 17:38:12,343.74774844284156,Eletrônicos,user_042,São Paulo,2,40
+txn_normal_0376,2023-01-01 10:03:57,47.768225856215736,Eletrônicos,user_047,Rio de Janeiro,3,195
+txn_normal_0741,2023-01-01 19:59:28,82.69656527186324,Restaurante,user_047,Belo Horizonte,3,35
+txn_normal_1013,2023-01-01 21:07:33,94.65081056064285,Eletrônicos,user_073,Belo Horizonte,4,285
+txn_normal_0439,2023-01-01 12:12:39,372.8333046572244,Viagem,user_060,Curitiba,1,131
+txn_normal_0271,2023-01-01 08:34:43,84.96206240599571,Supermercado,user_033,Belo Horizonte,1,154
+txn_normal_0184,2023-01-01 16:23:03,63.639123352766426,Vestuário,user_059,Rio de Janeiro,1,65
+txn_normal_0939,2023-01-01 11:06:40,491.83697652297104,Restaurante,user_034,Rio de Janeiro,2,49
+txn_normal_0244,2023-01-01 08:54:34,35.33145024834821,Viagem,user_059,São Paulo,1,183
+txn_normal_0931,2023-01-01 08:09:46,119.94766010189979,Restaurante,user_059,Curitiba,2,107
+txn_normal_0445,2023-01-01 16:29:52,120.75420892983986,Viagem,user_021,Belo Horizonte,1,279
+txn_normal_0596,2023-01-01 13:24:13,235.9717816144159,Restaurante,user_032,Belo Horizonte,1,159
+txn_normal_0817,2023-01-01 13:21:33,261.35988141224465,Viagem,user_038,Belo Horizonte,2,101
+txn_normal_1272,2023-01-01 13:53:54,259.4500959975709,Eletrônicos,user_075,Rio de Janeiro,3,121
+txn_normal_1676,2023-01-01 10:12:58,262.39134432417467,Supermercado,user_086,São Paulo,4,134
+txn_normal_0486,2023-01-01 11:23:49,392.8609319010591,Viagem,user_086,Curitiba,1,78
+txn_normal_0680,2023-01-01 19:33:44,214.42477509664246,Eletrônicos,user_074,Rio de Janeiro,2,318
+txn_normal_0415,2023-01-01 08:37:04,302.03453266990607,Supermercado,user_048,Curitiba,4,208
+txn_normal_0273,2023-01-01 21:24:01,301.2934042412248,Restaurante,user_007,São Paulo,2,327
+txn_normal_1471,2023-01-01 12:06:07,27.435251438796694,Viagem,user_078,Rio de Janeiro,4,168
+txn_normal_1829,2023-01-01 12:59:37,285.7005186389415,Vestuário,user_075,Curitiba,4,117
+txn_normal_1454,2023-01-01 19:12:24,338.7050735802083,Vestuário,user_051,Rio de Janeiro,3,284
+txn_normal_0250,2023-01-01 08:11:26,433.658329617968,Eletrônicos,user_046,Curitiba,1,5
+txn_normal_0413,2023-01-01 12:06:03,91.76149883238888,Viagem,user_056,São Paulo,1,51
+txn_normal_1385,2023-01-01 09:49:40,144.2657723889183,Supermercado,user_098,Belo Horizonte,4,200
+txn_normal_1307,2023-01-01 11:41:40,388.17364014349045,Supermercado,user_093,Rio de Janeiro,1,93
+txn_normal_0715,2023-01-01 14:45:31,282.7234299660551,Vestuário,user_017,São Paulo,2,48
+txn_normal_0310,2023-01-01 10:04:31,264.01993075315,Vestuário,user_065,Belo Horizonte,1,12
+txn_normal_0926,2023-01-01 08:38:35,273.7278499155529,Viagem,user_004,Rio de Janeiro,1,201
+txn_normal_0381,2023-01-01 14:21:47,459.8575105775838,Eletrônicos,user_083,Rio de Janeiro,3,279
+txn_normal_1565,2023-01-01 11:55:37,197.15942933218173,Viagem,user_071,Rio de Janeiro,4,30
+txn_normal_0425,2023-01-01 09:39:21,369.94318232949246,Eletrônicos,user_024,Rio de Janeiro,3,169
+txn_normal_1874,2023-01-01 22:38:54,474.1129039358222,Supermercado,user_031,Curitiba,3,112
+txn_normal_0532,2023-01-01 12:14:58,230.0515250553639,Restaurante,user_048,São Paulo,3,252
+txn_normal_0752,2023-01-01 14:27:31,434.48329363126885,Vestuário,user_051,Belo Horizonte,1,269
+txn_normal_0765,2023-01-01 09:09:54,400.78188219527806,Viagem,user_047,Belo Horizonte,4,118
+txn_normal_1356,2023-01-01 09:16:33,287.73499145512835,Supermercado,user_054,São Paulo,3,354
+txn_normal_0408,2023-01-01 08:54:44,154.56994675053656,Supermercado,user_085,Rio de Janeiro,1,131
+txn_normal_1614,2023-01-01 18:00:24,180.32390908473897,Supermercado,user_052,Curitiba,1,239
+txn_normal_0694,2023-01-01 10:37:05,122.69693944198785,Vestuário,user_079,São Paulo,4,13
+txn_normal_1738,2023-01-01 15:54:33,455.5590317389642,Restaurante,user_016,São Paulo,1,91
+txn_normal_0548,2023-01-01 13:49:56,359.3504038508148,Eletrônicos,user_038,São Paulo,4,137
+txn_normal_0936,2023-01-01 14:47:19,347.00691111921003,Viagem,user_038,Belo Horizonte,4,92
+txn_normal_1389,2023-01-01 09:05:30,388.3977351877055,Supermercado,user_021,Rio de Janeiro,2,283
+txn_normal_1607,2023-01-01 21:49:25,81.54828374013303,Viagem,user_007,Belo Horizonte,4,338
+txn_anomaly_0039,2023-01-01 01:39:37,258.69962314498514,Restaurante,user_217,São Paulo,2,713
+txn_normal_1481,2023-01-01 11:04:37,334.22971782883656,Restaurante,user_007,Curitiba,2,56
+txn_normal_0182,2023-01-01 21:48:02,371.41532777855684,Viagem,user_014,Curitiba,2,328
+txn_anomaly_0040,2023-01-01 22:57:14,2519.193737853798,Eletrônicos,user_210,Rio de Janeiro,3,336
+txn_normal_1160,2023-01-01 17:01:16,308.9212392742982,Vestuário,user_091,São Paulo,2,294
+txn_normal_0170,2023-01-01 10:36:43,299.2130267658527,Restaurante,user_049,São Paulo,1,334
+txn_normal_0292,2023-01-01 21:15:53,248.6603402212786,Viagem,user_052,Belo Horizonte,3,29
+txn_normal_0561,2023-01-01 22:41:00,351.2506054476925,Viagem,user_050,Rio de Janeiro,3,145
+txn_normal_1456,2023-01-01 22:04:52,430.60295608292057,Supermercado,user_045,São Paulo,2,18
+txn_normal_1876,2023-01-01 12:21:54,135.51393373513693,Restaurante,user_096,Belo Horizonte,3,241
+txn_normal_1651,2023-01-01 14:57:51,475.04400288625646,Viagem,user_029,Belo Horizonte,3,293
+txn_normal_0849,2023-01-01 12:20:17,360.20088086550976,Viagem,user_024,Rio de Janeiro,1,278
+txn_normal_0272,2023-01-01 22:34:27,21.582907162704835,Restaurante,user_010,São Paulo,2,81
+txn_normal_1549,2023-01-01 08:33:43,346.42738603607216,Vestuário,user_060,São Paulo,3,26
+txn_normal_1034,2023-01-01 21:21:22,116.38058244024627,Viagem,user_009,São Paulo,3,73
+txn_normal_1743,2023-01-01 20:19:50,492.75158969643593,Viagem,user_055,São Paulo,4,156
+txn_normal_0371,2023-01-01 13:02:11,134.6177707773752,Vestuário,user_030,Rio de Janeiro,4,281
+txn_normal_1669,2023-01-01 17:02:04,457.57233970037566,Restaurante,user_038,São Paulo,2,182
+txn_normal_0721,2023-01-01 21:02:00,497.828761240437,Supermercado,user_053,Belo Horizonte,1,341
+txn_normal_0733,2023-01-01 16:25:24,294.0682714057541,Viagem,user_083,São Paulo,4,274
+txn_normal_0777,2023-01-01 11:36:53,225.86418833776742,Viagem,user_092,São Paulo,4,29
+txn_normal_0518,2023-01-01 11:30:03,433.9949218653671,Vestuário,user_023,Rio de Janeiro,4,26
+txn_normal_0334,2023-01-01 14:03:28,207.14029109641243,Restaurante,user_088,São Paulo,4,190
+txn_normal_0845,2023-01-01 22:24:22,443.00514416711496,Vestuário,user_022,Curitiba,3,207
+txn_normal_1251,2023-01-01 20:10:59,486.9632028036612,Viagem,user_090,Rio de Janeiro,4,284
+txn_normal_1052,2023-01-01 08:15:06,229.20176901275656,Restaurante,user_016,Curitiba,2,16
+txn_anomaly_0023,2023-01-01 04:03:43,183.0869319886572,Restaurante,user_234,São Paulo,1,277
+txn_normal_0015,2023-01-01 12:46:13,241.38531332935514,Restaurante,user_001,São Paulo,2,259
+txn_normal_0707,2023-01-01 16:01:11,99.89167656361236,Eletrônicos,user_076,Rio de Janeiro,1,14
+txn_normal_0900,2023-01-01 13:50:09,205.5717892180334,Vestuário,user_004,Belo Horizonte,2,340
+txn_anomaly_0079,2023-01-01 13:17:43,57.35739273310383,Vestuário,user_210,Curitiba,11,1
+txn_normal_1572,2023-01-01 20:36:42,140.4544123137227,Restaurante,user_064,Curitiba,3,294
+txn_normal_0903,2023-01-01 22:44:49,249.72135482746043,Vestuário,user_042,Curitiba,4,120
+txn_normal_0465,2023-01-01 19:53:51,171.8189618748386,Viagem,user_043,São Paulo,4,192
+txn_anomaly_0077,2023-01-01 10:25:07,226.94042306201595,Viagem,user_210,Cidade Pequena Distante,2,925
+txn_normal_0199,2023-01-01 17:31:42,414.6502077767337,Viagem,user_030,Belo Horizonte,3,86
+txn_normal_1206,2023-01-01 19:14:17,484.79425242032687,Vestuário,user_023,Rio de Janeiro,2,229
+txn_normal_1055,2023-01-01 14:32:54,249.74683791528554,Eletrônicos,user_070,São Paulo,2,241
+txn_normal_1131,2023-01-01 09:18:03,40.05849849709533,Supermercado,user_070,São Paulo,1,169
+txn_normal_1379,2023-01-01 18:57:06,499.8732234064654,Vestuário,user_093,Curitiba,4,328
+txn_normal_0998,2023-01-01 17:08:48,476.88885069358633,Eletrônicos,user_100,Curitiba,2,13
+txn_normal_0727,2023-01-01 14:50:11,329.4314241256057,Restaurante,user_026,Rio de Janeiro,3,15
+txn_normal_1771,2023-01-01 15:20:51,91.92596872816151,Eletrônicos,user_038,Belo Horizonte,4,267
+txn_anomaly_0009,2023-01-01 16:50:14,48.75560209457913,Supermercado,user_206,Curitiba,12,7
+txn_normal_1821,2023-01-01 22:57:33,309.9614481543414,Viagem,user_022,Curitiba,3,63
+txn_normal_0567,2023-01-01 19:50:53,109.68387281668468,Eletrônicos,user_071,Rio de Janeiro,1,343
+txn_normal_0043,2023-01-01 22:21:22,112.37017163152649,Supermercado,user_027,Rio de Janeiro,2,277
+txn_normal_0274,2023-01-01 20:38:40,226.93131372196828,Eletrônicos,user_075,Belo Horizonte,4,192
+txn_normal_1096,2023-01-01 21:53:35,489.6705824987509,Viagem,user_090,Rio de Janeiro,3,316
+txn_normal_0101,2023-01-01 10:46:56,127.6713532013146,Restaurante,user_016,Curitiba,4,188
+txn_normal_1231,2023-01-01 17:47:38,335.40932886246657,Vestuário,user_030,São Paulo,3,71
+txn_normal_1721,2023-01-01 16:47:30,499.7575429571731,Vestuário,user_033,São Paulo,3,132
+txn_normal_1832,2023-01-01 08:27:30,357.91438036086225,Supermercado,user_020,Curitiba,3,355
+txn_normal_0107,2023-01-01 21:25:27,462.7804619626422,Supermercado,user_026,Rio de Janeiro,3,316
+txn_normal_1617,2023-01-01 09:13:37,423.35760334083466,Eletrônicos,user_043,Belo Horizonte,1,132
+txn_normal_0497,2023-01-01 11:14:49,413.34880704734104,Vestuário,user_093,Curitiba,1,151
+txn_anomaly_0080,2023-01-01 01:52:00,54.637048931101866,Restaurante,user_236,São Paulo,2,376
+txn_normal_0881,2023-01-01 17:25:24,195.21707892681502,Restaurante,user_023,Rio de Janeiro,1,184
+txn_normal_0756,2023-01-01 11:46:03,421.1818379546687,Restaurante,user_085,Belo Horizonte,1,140
+txn_normal_0619,2023-01-01 10:59:06,246.75862302369757,Eletrônicos,user_099,Curitiba,2,299
+txn_normal_1106,2023-01-01 13:07:16,418.26391329487245,Vestuário,user_091,São Paulo,2,341
+txn_anomaly_0035,2023-01-01 05:22:27,246.52516165191778,Restaurante,user_214,São Paulo,1,89
+txn_normal_0809,2023-01-01 22:12:40,131.90797648219677,Supermercado,user_088,Curitiba,4,193
+txn_normal_1037,2023-01-01 14:36:20,466.8107731212764,Supermercado,user_005,Curitiba,1,345
+txn_normal_0072,2023-01-01 21:30:57,487.381622181861,Viagem,user_035,Belo Horizonte,1,239
+txn_normal_1283,2023-01-01 11:58:35,188.16961010313128,Restaurante,user_058,Curitiba,3,61
+txn_normal_1271,2023-01-01 14:03:26,496.45778339123956,Vestuário,user_089,Belo Horizonte,3,116
+txn_normal_1334,2023-01-01 08:40:42,295.3737991201665,Restaurante,user_090,Curitiba,4,88
+txn_normal_1458,2023-01-01 11:50:43,266.41330681560754,Restaurante,user_087,Belo Horizonte,4,94
+txn_normal_0481,2023-01-01 18:30:27,398.6400082584023,Vestuário,user_070,São Paulo,4,72
+txn_normal_1068,2023-01-01 10:48:16,35.88468801521522,Restaurante,user_095,Rio de Janeiro,2,218
+txn_normal_0506,2023-01-01 13:20:53,118.03933299766213,Viagem,user_072,São Paulo,4,63
+txn_normal_1237,2023-01-01 16:34:14,139.75999767137623,Viagem,user_085,São Paulo,4,87
+txn_normal_1861,2023-01-01 08:03:06,266.9802032914035,Eletrônicos,user_016,São Paulo,2,303
+txn_anomaly_0089,2023-01-01 16:00:53,5715.223250565168,Supermercado,user_227,Rio de Janeiro,4,41
+txn_normal_1476,2023-01-01 14:41:38,231.5233700660965,Viagem,user_048,São Paulo,1,281
+txn_normal_1866,2023-01-01 12:16:45,254.33041815573668,Viagem,user_053,São Paulo,4,196
+txn_normal_1455,2023-01-01 11:50:08,480.0253633086728,Restaurante,user_036,Rio de Janeiro,4,225
+txn_normal_0311,2023-01-01 16:22:42,30.41972129516829,Eletrônicos,user_051,Curitiba,3,156
+txn_normal_0962,2023-01-01 10:38:03,323.1628450274061,Restaurante,user_064,São Paulo,4,15
+txn_normal_0405,2023-01-01 09:50:10,342.54827876955676,Viagem,user_010,Rio de Janeiro,2,55
+txn_normal_1330,2023-01-01 21:07:42,285.0643538527756,Supermercado,user_036,Rio de Janeiro,2,357
+txn_normal_1649,2023-01-01 09:16:53,240.02308245548147,Vestuário,user_013,Curitiba,3,95
+txn_normal_0309,2023-01-01 09:07:58,322.2287236360574,Eletrônicos,user_079,São Paulo,4,347
+txn_normal_0226,2023-01-01 22:02:40,394.07795117524233,Vestuário,user_014,Belo Horizonte,2,16
+txn_normal_1857,2023-01-01 10:38:45,190.75075491304503,Supermercado,user_099,São Paulo,4,351
+txn_normal_0710,2023-01-01 19:19:38,446.2883172190804,Viagem,user_010,Rio de Janeiro,2,150
+txn_anomaly_0043,2023-01-01 12:46:47,262.91500996869723,Viagem,user_222,Cidade Pequena Distante,2,689
+txn_normal_1383,2023-01-01 10:26:26,311.5905702366924,Vestuário,user_064,Rio de Janeiro,1,195
+txn_normal_1785,2023-01-01 15:04:05,495.8015288634631,Vestuário,user_030,Rio de Janeiro,2,91
+txn_normal_0148,2023-01-01 13:50:03,206.37389982890974,Eletrônicos,user_008,São Paulo,3,135
+txn_normal_1554,2023-01-01 14:47:37,300.03805816534435,Restaurante,user_087,São Paulo,4,225
+txn_anomaly_0056,2023-01-01 16:29:20,100.54350990246627,Viagem,user_232,Cidade Pequena Distante,1,336
+txn_normal_0925,2023-01-01 22:01:35,16.956350891144613,Restaurante,user_017,São Paulo,3,250
+txn_normal_0942,2023-01-01 11:09:38,276.9525317852882,Eletrônicos,user_052,Rio de Janeiro,3,329
+txn_normal_0836,2023-01-01 13:18:17,278.0522193516331,Viagem,user_097,Belo Horizonte,3,339
+txn_normal_0575,2023-01-01 11:07:08,33.84225519423953,Supermercado,user_058,São Paulo,4,322
+txn_normal_0557,2023-01-01 13:53:32,262.31734145749715,Eletrônicos,user_032,Rio de Janeiro,3,126
+txn_normal_1235,2023-01-01 21:38:22,281.52182004555436,Supermercado,user_057,São Paulo,1,291
+txn_normal_1360,2023-01-01 10:53:15,422.80392319802263,Supermercado,user_007,São Paulo,4,173
+txn_normal_1347,2023-01-01 20:21:00,256.90551042772404,Viagem,user_048,São Paulo,2,167
+txn_normal_1161,2023-01-01 08:08:19,427.11797200740955,Viagem,user_083,Curitiba,4,172
+txn_normal_1442,2023-01-01 14:24:23,252.54156940910588,Eletrônicos,user_037,Rio de Janeiro,1,343
+txn_normal_0286,2023-01-01 09:40:20,138.925159256313,Supermercado,user_091,São Paulo,1,335
+txn_normal_1604,2023-01-01 19:22:30,30.74390133396864,Vestuário,user_029,Belo Horizonte,2,119
+txn_normal_1057,2023-01-01 08:13:39,72.05219150400345,Vestuário,user_058,Curitiba,4,113
+txn_normal_0598,2023-01-01 22:24:40,348.5331485099032,Supermercado,user_022,Belo Horizonte,1,68
+txn_normal_0932,2023-01-01 09:47:45,260.43597252147504,Restaurante,user_092,Rio de Janeiro,3,171
+txn_normal_1461,2023-01-01 20:31:15,352.00617755257065,Eletrônicos,user_077,Belo Horizonte,2,15
+txn_normal_1637,2023-01-01 09:52:13,285.6899719750203,Vestuário,user_036,Curitiba,4,218
+txn_normal_1587,2023-01-01 19:10:41,324.018526843644,Viagem,user_089,São Paulo,4,297
+txn_normal_1040,2023-01-01 10:34:11,87.02990294290758,Viagem,user_098,Rio de Janeiro,3,209
+txn_normal_1230,2023-01-01 14:09:53,499.13467265607295,Vestuário,user_079,Belo Horizonte,3,62
+txn_normal_0806,2023-01-01 11:46:34,416.48573068469443,Vestuário,user_014,Belo Horizonte,4,257
+txn_normal_0904,2023-01-01 17:00:38,156.96540476180246,Supermercado,user_017,Curitiba,3,351
+txn_normal_1679,2023-01-01 10:00:25,156.04083616776438,Eletrônicos,user_035,Rio de Janeiro,3,310
+txn_normal_1204,2023-01-01 08:31:42,397.37810081866604,Vestuário,user_003,São Paulo,4,88
+txn_normal_0767,2023-01-01 19:23:40,417.0051526115777,Eletrônicos,user_051,Belo Horizonte,3,218
+txn_normal_0609,2023-01-01 11:49:37,122.38923074845945,Supermercado,user_032,Curitiba,3,88
+txn_anomaly_0092,2023-01-01 14:51:39,21.997672034730495,Vestuário,user_228,Curitiba,13,4
+txn_normal_1564,2023-01-01 10:27:22,143.55329691954626,Vestuário,user_084,Belo Horizonte,2,223
+txn_normal_1422,2023-01-01 21:16:00,335.3963193879187,Eletrônicos,user_034,Belo Horizonte,2,132
+txn_normal_1010,2023-01-01 12:05:42,409.8678109860185,Vestuário,user_058,São Paulo,2,208
+txn_normal_0493,2023-01-01 17:44:19,452.0958376964967,Vestuário,user_087,Rio de Janeiro,3,207
+txn_normal_1320,2023-01-01 18:24:12,463.87718130571955,Viagem,user_012,São Paulo,3,231
+txn_normal_0277,2023-01-01 11:12:48,183.94818985764928,Vestuário,user_002,Curitiba,1,31
+txn_normal_1846,2023-01-01 08:07:56,215.57442581808877,Supermercado,user_028,Rio de Janeiro,2,282
+txn_normal_0358,2023-01-01 22:03:45,90.70611318182499,Vestuário,user_086,Belo Horizonte,4,236
+txn_normal_1110,2023-01-01 16:38:17,198.92072573091795,Supermercado,user_043,Curitiba,3,230
+txn_normal_0236,2023-01-01 12:37:44,98.67870682764999,Eletrônicos,user_062,Rio de Janeiro,4,115
+txn_normal_0551,2023-01-01 20:57:51,134.89230196829232,Eletrônicos,user_055,Rio de Janeiro,4,59
+txn_normal_1867,2023-01-01 10:59:06,121.16655300243212,Eletrônicos,user_065,São Paulo,1,330
+txn_normal_1812,2023-01-01 18:06:26,140.6615341449272,Eletrônicos,user_046,São Paulo,3,29
+txn_normal_0208,2023-01-01 10:12:40,472.7087811293366,Viagem,user_029,Belo Horizonte,4,292
+txn_normal_1386,2023-01-01 09:19:24,153.2716016853928,Supermercado,user_011,São Paulo,1,158
+txn_normal_1560,2023-01-01 12:49:14,466.6526284306423,Vestuário,user_061,São Paulo,1,211
+txn_normal_0058,2023-01-01 13:04:35,33.548872856546524,Supermercado,user_052,Belo Horizonte,2,254
+txn_normal_0631,2023-01-01 20:42:20,415.500995614283,Viagem,user_055,São Paulo,4,120
+txn_anomaly_0061,2023-01-01 01:50:45,67.28333395437234,Restaurante,user_238,São Paulo,2,155
+txn_normal_1859,2023-01-01 11:46:14,475.58854830084044,Supermercado,user_078,Rio de Janeiro,1,110
+txn_normal_1816,2023-01-01 14:18:33,186.6611297473074,Supermercado,user_047,Rio de Janeiro,4,189
+txn_normal_0363,2023-01-01 16:46:14,163.05105992390165,Supermercado,user_042,Curitiba,4,272
+txn_normal_0505,2023-01-01 10:13:56,133.87866698370829,Restaurante,user_047,Rio de Janeiro,4,43
+txn_normal_1165,2023-01-01 22:19:59,430.3044314351544,Supermercado,user_074,Curitiba,4,136
+txn_normal_1121,2023-01-01 13:15:07,14.92302071686748,Supermercado,user_052,Curitiba,3,299
+txn_normal_1629,2023-01-01 10:41:02,249.28410737212397,Restaurante,user_003,Curitiba,3,85
+txn_normal_1216,2023-01-01 20:39:54,430.7884925485001,Viagem,user_079,Belo Horizonte,4,114
+txn_normal_1151,2023-01-01 14:14:17,430.90046808988785,Supermercado,user_088,Rio de Janeiro,4,88
+txn_normal_1124,2023-01-01 14:32:06,481.8494173778285,Supermercado,user_024,Belo Horizonte,1,16
+txn_normal_1594,2023-01-01 22:51:09,240.20161813248106,Vestuário,user_006,Belo Horizonte,4,144
+txn_normal_0118,2023-01-01 17:50:44,272.1679987020062,Vestuário,user_005,Rio de Janeiro,2,122
+txn_normal_1249,2023-01-01 16:22:47,233.59524206997156,Viagem,user_040,Rio de Janeiro,2,173
+txn_anomaly_0093,2023-01-01 04:30:32,167.45214072072525,Restaurante,user_228,São Paulo,2,226
+txn_normal_0522,2023-01-01 15:58:32,306.6973356417795,Supermercado,user_019,Rio de Janeiro,1,51
+txn_normal_0513,2023-01-01 20:54:00,338.81708909135807,Eletrônicos,user_067,Rio de Janeiro,3,104
+txn_normal_0081,2023-01-01 20:46:20,485.24062508674314,Viagem,user_075,Curitiba,1,168
+txn_normal_0915,2023-01-01 15:00:27,34.585921656787264,Eletrônicos,user_078,São Paulo,2,217
+txn_normal_1018,2023-01-01 18:22:32,24.293247222464213,Restaurante,user_018,Rio de Janeiro,1,290
+txn_normal_0380,2023-01-01 21:58:19,488.6321609702231,Eletrônicos,user_025,Curitiba,4,274
+txn_normal_1029,2023-01-01 17:40:42,211.45236634709582,Supermercado,user_049,Curitiba,4,68
+txn_normal_1688,2023-01-01 13:03:11,386.42131622567047,Vestuário,user_095,São Paulo,1,340
+txn_normal_0084,2023-01-01 13:11:23,38.353309901276624,Vestuário,user_008,Rio de Janeiro,4,168
+txn_normal_1677,2023-01-01 21:26:06,474.5461081079162,Vestuário,user_050,Belo Horizonte,3,341
+txn_normal_0329,2023-01-01 09:40:47,311.33933776715486,Viagem,user_009,Curitiba,4,90
+txn_normal_0006,2023-01-01 16:25:52,406.11470057706595,Supermercado,user_084,Curitiba,3,268
+txn_normal_0745,2023-01-01 19:07:23,203.1266629234878,Restaurante,user_018,Belo Horizonte,2,34
+txn_normal_1553,2023-01-01 16:42:57,264.55590883484075,Viagem,user_025,São Paulo,1,117
+txn_normal_0914,2023-01-01 17:40:12,494.1807972177713,Viagem,user_010,Rio de Janeiro,2,132
+txn_normal_0873,2023-01-01 15:50:10,299.9413147572762,Eletrônicos,user_012,São Paulo,2,12
+txn_normal_0451,2023-01-01 12:43:56,11.871762102705723,Viagem,user_028,Belo Horizonte,1,69
+txn_normal_0490,2023-01-01 10:00:31,460.5702020814644,Eletrônicos,user_093,Belo Horizonte,1,327
+txn_normal_1480,2023-01-01 22:27:13,275.25433752362096,Vestuário,user_053,Curitiba,2,80
+txn_normal_0287,2023-01-01 21:22:25,414.3901930341194,Vestuário,user_082,Belo Horizonte,2,147
+txn_normal_0948,2023-01-01 14:02:34,159.0063716259291,Vestuário,user_058,Curitiba,4,73
+txn_anomaly_0085,2023-01-01 21:25:03,5189.130681571072,Eletrônicos,user_224,São Paulo,1,113
+txn_normal_1368,2023-01-01 16:26:54,83.74279405556692,Restaurante,user_045,Rio de Janeiro,3,288
+txn_normal_1146,2023-01-01 10:41:00,329.4153658873269,Vestuário,user_046,Curitiba,2,208
+txn_normal_0705,2023-01-01 20:55:40,124.33308309817005,Supermercado,user_047,São Paulo,2,212
+txn_normal_1726,2023-01-01 15:19:10,400.6060018497576,Supermercado,user_074,São Paulo,3,301
+txn_normal_1701,2023-01-01 17:03:41,20.856748413959327,Vestuário,user_079,Curitiba,1,334
+txn_normal_1628,2023-01-01 18:55:21,125.34955193234805,Eletrônicos,user_027,Rio de Janeiro,1,8
+txn_normal_1599,2023-01-01 17:34:03,320.92211734939275,Eletrônicos,user_077,Curitiba,4,186
+txn_normal_1538,2023-01-01 12:38:10,339.0407855677083,Supermercado,user_059,Belo Horizonte,3,243
+txn_normal_1405,2023-01-01 10:56:57,306.146552350576,Vestuário,user_066,Rio de Janeiro,1,310
+txn_normal_1650,2023-01-01 17:27:12,149.4590296344868,Vestuário,user_044,Curitiba,2,317
+txn_normal_0327,2023-01-01 19:04:02,407.75858626419785,Eletrônicos,user_004,Curitiba,3,228
+txn_normal_0442,2023-01-01 20:18:58,351.90057527598043,Supermercado,user_040,São Paulo,3,166
+txn_normal_0774,2023-01-01 14:22:26,331.3926234182158,Viagem,user_044,Rio de Janeiro,4,307
+txn_normal_1087,2023-01-01 15:44:18,105.52195679537832,Restaurante,user_001,Belo Horizonte,4,293
+txn_normal_1220,2023-01-01 08:24:58,399.6910460333653,Viagem,user_005,São Paulo,3,151
+txn_normal_1635,2023-01-01 20:21:36,155.77140829640743,Vestuário,user_048,Curitiba,2,308
+txn_normal_0177,2023-01-01 15:25:54,351.1815001802885,Vestuário,user_039,Belo Horizonte,4,8
+txn_normal_1322,2023-01-01 11:44:16,377.8278169980109,Supermercado,user_046,Belo Horizonte,1,146
+txn_normal_0704,2023-01-01 11:37:27,10.659672768716213,Eletrônicos,user_096,São Paulo,2,302
+txn_normal_0086,2023-01-01 13:16:08,493.2432647950054,Eletrônicos,user_084,São Paulo,4,244
+txn_normal_1883,2023-01-01 20:10:04,230.15495223916471,Eletrônicos,user_096,Curitiba,3,279
+txn_anomaly_0047,2023-01-01 05:26:55,52.02116913250272,Restaurante,user_228,São Paulo,1,408
+txn_normal_0457,2023-01-01 17:16:36,325.6331185231988,Vestuário,user_041,Belo Horizonte,3,150
+txn_normal_1828,2023-01-01 20:47:37,205.09592284653974,Vestuário,user_021,São Paulo,1,150
+txn_normal_0054,2023-01-01 16:39:44,279.12106570599906,Viagem,user_001,Curitiba,1,196
+txn_normal_1501,2023-01-01 14:25:15,273.2129675859741,Supermercado,user_066,Belo Horizonte,3,279
+txn_normal_0643,2023-01-01 08:41:17,226.97108690643134,Eletrônicos,user_063,Curitiba,4,212
+txn_normal_0677,2023-01-01 11:21:47,473.91055989919795,Restaurante,user_077,Belo Horizonte,2,7
+txn_normal_0221,2023-01-01 09:32:32,169.96604103955602,Eletrônicos,user_077,Rio de Janeiro,1,81
+txn_normal_0113,2023-01-01 15:58:44,289.6813692877668,Viagem,user_033,São Paulo,2,281
+txn_normal_0982,2023-01-01 18:00:52,19.39226488723911,Vestuário,user_094,São Paulo,3,263
+txn_normal_1228,2023-01-01 19:00:16,462.379636022762,Vestuário,user_010,Belo Horizonte,1,258
+txn_normal_0999,2023-01-01 20:49:13,143.00112349526609,Eletrônicos,user_015,Rio de Janeiro,4,174
+txn_normal_0174,2023-01-01 17:06:13,288.29316297078844,Viagem,user_007,São Paulo,3,180
+txn_normal_0781,2023-01-01 19:42:33,21.056610735620147,Eletrônicos,user_016,Rio de Janeiro,1,215
+txn_normal_0589,2023-01-01 20:09:02,402.6605160181662,Viagem,user_091,Belo Horizonte,3,147
+txn_normal_1559,2023-01-01 22:11:52,243.51829235420908,Viagem,user_017,Curitiba,1,184
+txn_normal_0018,2023-01-01 18:28:35,211.08763228745858,Viagem,user_032,Belo Horizonte,3,247
+txn_normal_0423,2023-01-01 12:45:43,96.8137533832141,Viagem,user_044,Belo Horizonte,3,328
+txn_normal_1343,2023-01-01 20:01:41,32.75249118657803,Eletrônicos,user_036,São Paulo,4,141
+txn_normal_0285,2023-01-01 19:37:51,308.15834220329776,Supermercado,user_014,Curitiba,1,155
+txn_normal_1583,2023-01-01 21:51:09,347.9079293101999,Vestuário,user_097,Belo Horizonte,2,187
+txn_normal_0428,2023-01-01 14:27:04,375.4714189272359,Eletrônicos,user_056,Curitiba,1,50
+txn_normal_1509,2023-01-01 13:56:32,415.90529134480664,Vestuário,user_037,São Paulo,3,196
+txn_normal_1318,2023-01-01 09:56:38,452.977143362734,Eletrônicos,user_007,Rio de Janeiro,3,323
+txn_normal_0669,2023-01-01 15:58:15,151.12261950278017,Vestuário,user_016,Rio de Janeiro,4,350
+txn_normal_0031,2023-01-01 19:15:25,136.39139758042626,Eletrônicos,user_060,São Paulo,2,308
+txn_normal_0940,2023-01-01 21:33:43,372.3947768386539,Supermercado,user_032,Belo Horizonte,3,218
+txn_normal_0722,2023-01-01 11:05:07,249.6275299007338,Viagem,user_051,São Paulo,3,192
+txn_normal_0994,2023-01-01 22:50:08,446.5772034984449,Eletrônicos,user_002,Curitiba,4,242
+txn_normal_0214,2023-01-01 11:06:02,423.943781777275,Viagem,user_064,Curitiba,1,28
+txn_normal_0813,2023-01-01 20:19:20,301.7295213768676,Viagem,user_022,Belo Horizonte,1,276
+txn_normal_0326,2023-01-01 14:43:46,347.55379800454443,Eletrônicos,user_008,Rio de Janeiro,2,148
+txn_normal_0560,2023-01-01 20:08:46,311.9872381036048,Eletrônicos,user_062,São Paulo,3,199
+txn_normal_1112,2023-01-01 11:21:30,251.51917993645534,Restaurante,user_010,Curitiba,1,336
+txn_normal_0700,2023-01-01 17:46:49,391.9631836977911,Vestuário,user_095,São Paulo,1,352
+txn_normal_1578,2023-01-01 15:16:44,181.95182653318295,Eletrônicos,user_070,São Paulo,1,113
+txn_normal_1189,2023-01-01 16:01:01,360.41702063747607,Eletrônicos,user_028,São Paulo,3,173
+txn_normal_0341,2023-01-01 16:51:09,298.00698682247713,Supermercado,user_003,São Paulo,3,117
+txn_normal_0629,2023-01-01 22:58:12,463.01600967863095,Viagem,user_028,São Paulo,1,276
+txn_normal_0147,2023-01-01 10:17:00,419.9167585132431,Restaurante,user_047,Rio de Janeiro,2,117
+txn_normal_1309,2023-01-01 08:30:36,429.23855809702604,Viagem,user_097,Belo Horizonte,1,8
+txn_normal_0360,2023-01-01 09:24:55,283.4105620034935,Restaurante,user_072,Curitiba,1,46
+txn_normal_0083,2023-01-01 13:02:15,317.5034592411911,Eletrônicos,user_075,Curitiba,2,228
+txn_normal_0048,2023-01-01 17:21:48,421.07741601398806,Vestuário,user_042,Rio de Janeiro,3,58
+txn_normal_0468,2023-01-01 12:05:06,190.18948889450385,Viagem,user_025,São Paulo,3,11
+txn_normal_0155,2023-01-01 12:19:10,456.20576173474893,Supermercado,user_002,Belo Horizonte,3,123
+txn_normal_0772,2023-01-01 12:24:40,222.6855662796688,Eletrônicos,user_006,Belo Horizonte,3,68
+txn_normal_1239,2023-01-01 22:05:51,263.9787222895135,Eletrônicos,user_084,Rio de Janeiro,2,30
+txn_normal_1200,2023-01-01 17:37:41,352.0545677376668,Viagem,user_039,Curitiba,2,279
+txn_normal_1402,2023-01-01 13:12:15,443.28013522518756,Vestuário,user_093,Rio de Janeiro,2,335
+txn_normal_1202,2023-01-01 20:57:08,381.02266864416504,Eletrônicos,user_014,São Paulo,4,88
+txn_normal_1630,2023-01-01 08:21:29,162.9428556702719,Eletrônicos,user_021,Curitiba,1,347
+txn_normal_0500,2023-01-01 15:23:41,349.87284816215964,Vestuário,user_067,Rio de Janeiro,1,185
+txn_normal_1764,2023-01-01 13:24:01,254.0938529230627,Restaurante,user_073,São Paulo,1,202
+txn_normal_0179,2023-01-01 14:34:41,124.15014262928055,Supermercado,user_030,Belo Horizonte,3,273
+txn_normal_1047,2023-01-01 16:20:16,258.0085278203757,Eletrônicos,user_081,Rio de Janeiro,2,97
+txn_normal_1755,2023-01-01 13:58:31,60.241923675195565,Viagem,user_040,Curitiba,3,6
+txn_normal_0950,2023-01-01 08:56:39,458.3982427001147,Viagem,user_035,Belo Horizonte,4,9
+txn_normal_1316,2023-01-01 09:48:17,365.20724584597536,Eletrônicos,user_083,Rio de Janeiro,1,140
+txn_normal_1619,2023-01-01 15:28:58,178.48825201586388,Eletrônicos,user_009,Curitiba,3,222
+txn_normal_0528,2023-01-01 14:38:26,80.53153765039312,Viagem,user_020,Belo Horizonte,1,152
+txn_normal_0346,2023-01-01 11:20:29,331.90802657089836,Vestuário,user_030,Rio de Janeiro,4,167
+txn_normal_1387,2023-01-01 14:55:51,59.95674929433594,Vestuário,user_002,Curitiba,3,134
+txn_anomaly_0060,2023-01-01 14:54:34,31.10207072901046,Supermercado,user_207,Curitiba,21,3
+txn_normal_1050,2023-01-01 13:34:55,459.7085997222754,Viagem,user_034,Curitiba,1,200
+txn_anomaly_0072,2023-01-01 03:21:15,262.7006504123782,Restaurante,user_220,São Paulo,2,134
+txn_normal_1441,2023-01-01 14:02:54,203.91496662520365,Eletrônicos,user_091,Rio de Janeiro,4,67
+txn_normal_0601,2023-01-01 15:53:19,232.2537099621887,Restaurante,user_028,Curitiba,2,98
+txn_normal_1281,2023-01-01 12:42:15,284.39689901714337,Restaurante,user_081,Belo Horizonte,2,138
+txn_normal_0243,2023-01-01 18:19:49,283.48872230099283,Supermercado,user_073,Belo Horizonte,1,24
+txn_normal_1336,2023-01-01 11:29:18,281.5488151699114,Eletrônicos,user_053,São Paulo,2,320
+txn_normal_1067,2023-01-01 19:13:07,445.48579323876834,Eletrônicos,user_035,São Paulo,1,150
+txn_normal_1475,2023-01-01 12:59:21,10.201041825195688,Viagem,user_081,São Paulo,3,182
+txn_normal_0312,2023-01-01 11:20:39,27.42972484741869,Supermercado,user_031,Rio de Janeiro,4,143
+txn_normal_0435,2023-01-01 09:31:21,463.92747729774254,Viagem,user_086,Belo Horizonte,3,58
+txn_normal_1898,2023-01-01 14:01:20,222.20929976504428,Vestuário,user_036,Curitiba,1,302
+txn_normal_1328,2023-01-01 22:04:04,365.8328470924315,Eletrônicos,user_030,São Paulo,2,93
+txn_normal_0308,2023-01-01 08:09:49,47.4442611246452,Supermercado,user_060,Curitiba,1,288
+txn_normal_0430,2023-01-01 13:54:57,379.76439858330997,Vestuário,user_075,São Paulo,2,220
+txn_normal_0660,2023-01-01 22:16:21,449.8943475897654,Restaurante,user_080,Curitiba,2,179
+txn_normal_0370,2023-01-01 09:05:18,411.3411217922115,Vestuário,user_044,São Paulo,3,217
+txn_normal_0566,2023-01-01 19:08:55,14.889600562640194,Eletrônicos,user_093,São Paulo,2,340
+txn_normal_0979,2023-01-01 08:22:09,430.7140524214241,Supermercado,user_052,São Paulo,2,129
+txn_normal_0181,2023-01-01 16:15:55,245.13905394891535,Vestuário,user_010,Rio de Janeiro,1,344
+txn_normal_1362,2023-01-01 14:12:39,216.3482631727,Eletrônicos,user_095,Curitiba,2,188
+txn_normal_0621,2023-01-01 17:13:30,293.86408866434954,Vestuário,user_039,Curitiba,1,337
+txn_normal_0818,2023-01-01 08:32:00,364.7743024987314,Vestuário,user_004,São Paulo,2,287
+txn_normal_1192,2023-01-01 10:09:46,167.6263206636416,Restaurante,user_014,Rio de Janeiro,4,49
+txn_normal_0952,2023-01-01 14:44:01,124.10069286928618,Eletrônicos,user_063,Curitiba,4,230
+txn_normal_1421,2023-01-01 13:58:34,42.28716086566663,Eletrônicos,user_018,São Paulo,1,206
+txn_normal_1840,2023-01-01 09:42:30,169.35838377357078,Viagem,user_047,Belo Horizonte,3,351
+txn_normal_0922,2023-01-01 16:44:37,229.3004090019703,Viagem,user_055,Curitiba,4,176
+txn_normal_1073,2023-01-01 15:59:06,477.9809616918559,Viagem,user_034,Belo Horizonte,2,238
+txn_normal_0296,2023-01-01 22:50:04,188.75112738081944,Restaurante,user_034,Rio de Janeiro,1,134
+txn_normal_0966,2023-01-01 21:43:09,57.53892693617383,Viagem,user_009,Rio de Janeiro,2,192
+txn_normal_0461,2023-01-01 09:02:27,329.30348263386554,Vestuário,user_044,São Paulo,4,314
+txn_normal_1302,2023-01-01 14:17:30,65.30049090925348,Vestuário,user_042,Curitiba,1,238
+txn_normal_1176,2023-01-01 08:04:15,205.25459343351505,Eletrônicos,user_028,Belo Horizonte,3,113
+txn_normal_0377,2023-01-01 16:52:52,43.56764924721999,Vestuário,user_014,Curitiba,4,43
+txn_normal_0798,2023-01-01 20:12:06,277.50253132141,Restaurante,user_010,Rio de Janeiro,4,10
+txn_normal_1102,2023-01-01 19:26:14,135.88799949922375,Eletrônicos,user_020,Rio de Janeiro,4,205
+txn_normal_0105,2023-01-01 16:21:46,401.7110954654309,Restaurante,user_063,Curitiba,1,341
+txn_normal_0126,2023-01-01 12:18:58,90.49024098618654,Supermercado,user_062,Curitiba,1,241
+txn_anomaly_0095,2023-01-01 13:47:10,7490.9778621811465,Supermercado,user_241,Rio de Janeiro,3,224
+txn_normal_0838,2023-01-01 09:54:57,355.91855592420353,Eletrônicos,user_080,Belo Horizonte,2,123
+txn_normal_0355,2023-01-01 12:04:01,247.50118069372303,Eletrônicos,user_066,Rio de Janeiro,2,148
+txn_normal_1616,2023-01-01 09:04:17,443.49074262714146,Restaurante,user_091,Rio de Janeiro,1,74
+txn_normal_0682,2023-01-01 12:20:21,125.14719599199888,Viagem,user_007,Belo Horizonte,1,68
+txn_normal_0812,2023-01-01 13:13:07,258.8013407123987,Restaurante,user_054,Rio de Janeiro,1,93
+txn_normal_1680,2023-01-01 17:02:50,385.9178709177942,Vestuário,user_036,Belo Horizonte,3,261
+txn_normal_0209,2023-01-01 21:19:21,50.36671235176292,Restaurante,user_027,Belo Horizonte,1,240
+txn_normal_1492,2023-01-01 17:19:40,249.13872989805745,Viagem,user_053,São Paulo,2,318
+txn_normal_0140,2023-01-01 22:20:46,121.42385422978519,Eletrônicos,user_053,São Paulo,2,317
+txn_anomaly_0074,2023-01-01 11:14:50,3482.1441772207,Restaurante,user_215,Rio de Janeiro,4,219
+txn_normal_1339,2023-01-01 09:39:37,287.8460639156015,Restaurante,user_081,Belo Horizonte,3,111
+txn_normal_1797,2023-01-01 13:53:25,45.450769849767916,Vestuário,user_007,Rio de Janeiro,2,124
+txn_normal_1574,2023-01-01 10:00:46,399.39348200029553,Supermercado,user_005,São Paulo,1,122
+txn_normal_1181,2023-01-01 09:42:09,402.0747977119578,Supermercado,user_002,Rio de Janeiro,2,36
+txn_normal_1393,2023-01-01 14:16:00,271.40445319408343,Supermercado,user_026,Belo Horizonte,3,37
+txn_normal_1815,2023-01-01 21:36:08,257.47832213250024,Restaurante,user_055,Curitiba,3,236
+txn_normal_0711,2023-01-01 09:57:11,72.46798326872064,Vestuário,user_045,Curitiba,2,210
+txn_normal_1793,2023-01-01 09:18:46,53.61155721151303,Vestuário,user_025,Rio de Janeiro,2,138
+txn_normal_0892,2023-01-01 21:49:14,143.05972303696797,Supermercado,user_007,Curitiba,4,359
+txn_normal_0859,2023-01-01 11:03:25,115.85540579260538,Restaurante,user_002,Rio de Janeiro,4,290
+txn_normal_0010,2023-01-01 22:52:23,376.1868539673166,Supermercado,user_089,Curitiba,4,45
+txn_normal_1694,2023-01-01 22:17:39,398.979596952822,Vestuário,user_100,São Paulo,1,318
+txn_normal_1427,2023-01-01 16:28:31,231.41583187961615,Viagem,user_059,Rio de Janeiro,1,90
+txn_normal_0282,2023-01-01 08:15:11,380.5200311586706,Vestuário,user_003,Curitiba,2,241
+txn_normal_0810,2023-01-01 21:51:48,78.23449468450495,Viagem,user_001,Rio de Janeiro,2,83
+txn_normal_1341,2023-01-01 12:25:58,320.58641118030874,Restaurante,user_028,Curitiba,2,28
+txn_normal_0291,2023-01-01 17:24:01,488.0489984213583,Eletrônicos,user_054,São Paulo,4,99
+txn_normal_0754,2023-01-01 17:14:06,276.06908497658196,Viagem,user_003,Belo Horizonte,2,352
+txn_normal_0626,2023-01-01 21:20:57,118.04708908346709,Vestuário,user_022,Curitiba,1,49
+txn_normal_0943,2023-01-01 16:26:12,363.98157838713684,Restaurante,user_021,Curitiba,2,8
+txn_normal_0861,2023-01-01 12:27:47,336.698449630219,Vestuário,user_040,Rio de Janeiro,2,91
+txn_normal_0129,2023-01-01 10:05:05,315.8766179978561,Restaurante,user_007,Belo Horizonte,4,46
+txn_normal_1175,2023-01-01 21:47:32,471.1952001191359,Supermercado,user_061,Rio de Janeiro,2,344
+txn_normal_0323,2023-01-01 16:21:27,379.06179459756737,Viagem,user_013,Rio de Janeiro,2,33
+txn_normal_1090,2023-01-01 15:33:45,50.79625244480974,Restaurante,user_048,Curitiba,3,239
+txn_normal_0843,2023-01-01 19:55:15,286.5537363661049,Eletrônicos,user_032,Belo Horizonte,2,159
+txn_normal_0963,2023-01-01 17:10:26,22.075758271798108,Eletrônicos,user_021,Belo Horizonte,3,106
+txn_normal_1864,2023-01-01 13:43:59,331.67104358978077,Eletrônicos,user_021,São Paulo,4,46
+txn_normal_0865,2023-01-01 18:53:29,170.64299056405093,Viagem,user_051,Curitiba,3,52
+txn_normal_0921,2023-01-01 08:00:44,413.5863414290145,Restaurante,user_042,São Paulo,3,237
+txn_normal_0695,2023-01-01 09:17:04,277.33523967811254,Vestuário,user_087,Rio de Janeiro,3,169
+txn_normal_0215,2023-01-01 10:19:45,461.21544542968655,Eletrônicos,user_094,Rio de Janeiro,3,277
+txn_normal_1780,2023-01-01 14:42:16,100.28988732366443,Vestuário,user_013,Belo Horizonte,4,49
+txn_normal_1261,2023-01-01 16:25:12,332.92699373851065,Restaurante,user_092,São Paulo,1,301
+txn_normal_0158,2023-01-01 08:49:50,448.3305911781048,Eletrônicos,user_014,São Paulo,4,241
+txn_normal_1058,2023-01-01 18:24:58,295.80533659815734,Vestuário,user_082,Rio de Janeiro,2,41
+txn_normal_0988,2023-01-01 08:36:47,440.5857966016956,Supermercado,user_071,Curitiba,4,280
+txn_normal_0841,2023-01-01 08:13:51,43.82809908657371,Supermercado,user_071,Rio de Janeiro,2,162
+txn_normal_0634,2023-01-01 22:11:32,126.36449280860617,Viagem,user_078,São Paulo,1,76
+txn_normal_0516,2023-01-01 08:48:39,356.0346596520457,Restaurante,user_065,São Paulo,3,340
+txn_normal_1428,2023-01-01 08:49:49,84.80250062498403,Supermercado,user_013,Rio de Janeiro,2,201
+txn_normal_1747,2023-01-01 13:13:03,104.16463927507998,Restaurante,user_055,Belo Horizonte,4,166
+txn_normal_0597,2023-01-01 09:55:22,341.99049080300546,Restaurante,user_021,Curitiba,1,347
+txn_normal_0195,2023-01-01 20:50:57,245.48742289005753,Restaurante,user_056,Curitiba,2,44
+txn_normal_1783,2023-01-01 19:25:26,253.41735543231016,Vestuário,user_049,Rio de Janeiro,1,5
+txn_normal_0869,2023-01-01 10:54:13,336.79444925475354,Supermercado,user_012,Rio de Janeiro,4,123
+txn_normal_0410,2023-01-01 20:54:08,207.90995344336062,Viagem,user_030,Curitiba,4,358
+txn_normal_0096,2023-01-01 12:20:13,216.0625315458868,Supermercado,user_075,Belo Horizonte,3,196
+txn_normal_1000,2023-01-01 20:03:17,23.77953807618264,Supermercado,user_057,São Paulo,4,235
+txn_normal_1505,2023-01-01 14:19:12,205.43229185401563,Viagem,user_043,Belo Horizonte,4,310
+txn_normal_0156,2023-01-01 12:36:37,141.35118400320937,Eletrônicos,user_098,São Paulo,4,359
+txn_normal_0419,2023-01-01 17:59:36,66.90809049825755,Restaurante,user_087,Rio de Janeiro,4,278
+txn_normal_1802,2023-01-01 16:42:20,134.56673624267722,Restaurante,user_085,São Paulo,1,192
+txn_normal_0477,2023-01-01 08:49:04,40.47958082070435,Vestuário,user_052,São Paulo,3,252
+txn_normal_1855,2023-01-01 15:11:31,440.4734324413677,Vestuário,user_055,Curitiba,2,221
+txn_normal_0668,2023-01-01 11:12:05,61.87841592443336,Supermercado,user_014,São Paulo,4,243
+txn_normal_1417,2023-01-01 08:50:42,491.37137171360763,Viagem,user_088,São Paulo,3,187
+txn_normal_1871,2023-01-01 16:19:58,319.97070146944856,Viagem,user_074,Rio de Janeiro,1,323
+txn_normal_1299,2023-01-01 14:32:04,48.38572670338327,Eletrônicos,user_092,São Paulo,4,136
+txn_normal_0447,2023-01-01 09:13:49,45.17014505099139,Vestuário,user_053,Curitiba,3,26
+txn_normal_0553,2023-01-01 20:08:05,166.1183917541675,Restaurante,user_035,Belo Horizonte,2,122
+txn_normal_0178,2023-01-01 16:12:17,397.45435077109215,Eletrônicos,user_016,São Paulo,2,112
+txn_normal_0390,2023-01-01 21:46:14,456.2315239232184,Eletrônicos,user_019,Rio de Janeiro,4,97
+txn_normal_0578,2023-01-01 12:25:35,306.6517611787178,Supermercado,user_086,Rio de Janeiro,2,336
+txn_normal_1477,2023-01-01 11:14:04,462.41675905226543,Viagem,user_051,Curitiba,2,123
+txn_normal_1706,2023-01-01 16:54:50,409.4511250071684,Eletrônicos,user_092,Belo Horizonte,1,346
+txn_normal_1287,2023-01-01 08:43:02,190.17716898249617,Supermercado,user_047,Rio de Janeiro,4,27
+txn_normal_1644,2023-01-01 21:06:51,50.35108054249989,Viagem,user_040,Curitiba,3,280
+txn_normal_1023,2023-01-01 22:51:01,118.03053568969122,Eletrônicos,user_013,Rio de Janeiro,3,190
+txn_normal_0820,2023-01-01 09:22:49,62.934189170873836,Supermercado,user_088,Curitiba,1,17
+txn_normal_1824,2023-01-01 08:44:08,405.88660383573244,Eletrônicos,user_065,São Paulo,4,13
+txn_normal_0984,2023-01-01 10:23:27,80.67761034787073,Vestuário,user_080,Curitiba,4,63
+txn_normal_1338,2023-01-01 20:12:50,79.64901826297968,Supermercado,user_019,São Paulo,4,26
+txn_normal_0664,2023-01-01 16:33:25,345.0945613993182,Viagem,user_090,Curitiba,2,202
+txn_normal_0142,2023-01-01 18:16:42,245.61011926364603,Restaurante,user_051,Rio de Janeiro,4,29
+txn_normal_1516,2023-01-01 10:22:45,150.9011936462532,Supermercado,user_061,Belo Horizonte,4,324
+txn_normal_1429,2023-01-01 12:36:02,186.3578777455281,Restaurante,user_052,Belo Horizonte,4,226
+txn_normal_0864,2023-01-01 20:45:05,177.4041452183949,Viagem,user_064,Curitiba,2,22
+txn_normal_0421,2023-01-01 13:03:04,485.6636553018516,Viagem,user_049,São Paulo,2,346
+txn_normal_0636,2023-01-01 08:32:31,71.48828543158385,Supermercado,user_093,São Paulo,1,60
+txn_normal_1406,2023-01-01 13:42:41,254.81302187939338,Eletrônicos,user_022,Curitiba,3,70
+txn_normal_0799,2023-01-01 14:05:28,348.2581949813572,Eletrônicos,user_055,São Paulo,2,156
+txn_normal_1403,2023-01-01 10:51:09,166.89124750798712,Viagem,user_060,Rio de Janeiro,3,325
+txn_normal_0615,2023-01-01 14:30:30,50.31343889576032,Supermercado,user_057,Belo Horizonte,2,185
+txn_normal_0294,2023-01-01 19:31:31,49.183043236057955,Vestuário,user_013,Belo Horizonte,2,24
+txn_normal_0923,2023-01-01 12:55:54,52.6138399254072,Restaurante,user_077,São Paulo,3,205
+txn_normal_1268,2023-01-01 15:23:08,68.76171087429377,Vestuário,user_017,Rio de Janeiro,1,65
+txn_anomaly_0002,2023-01-01 03:01:17,189.26648317097928,Restaurante,user_205,São Paulo,1,302
+txn_normal_0088,2023-01-01 09:58:44,467.0369568434665,Viagem,user_033,Rio de Janeiro,1,150
+txn_normal_0041,2023-01-01 10:59:32,483.6608613313981,Vestuário,user_063,São Paulo,1,165
+txn_normal_1801,2023-01-01 17:50:11,261.40401720308466,Supermercado,user_017,Belo Horizonte,4,14
+txn_anomaly_0033,2023-01-01 17:13:05,5193.133288751611,Eletrônicos,user_211,Rio de Janeiro,2,60
+txn_normal_0131,2023-01-01 08:36:26,84.32069106904808,Eletrônicos,user_068,Rio de Janeiro,2,14
+txn_normal_1001,2023-01-01 21:02:50,125.16533641784014,Supermercado,user_062,Rio de Janeiro,4,106
+txn_normal_1157,2023-01-01 10:34:42,124.261901666592,Viagem,user_037,São Paulo,2,58
+txn_normal_1094,2023-01-01 16:12:00,312.87045312523145,Vestuário,user_057,Belo Horizonte,2,14
+txn_normal_1854,2023-01-01 19:41:01,496.02780673989605,Supermercado,user_091,Rio de Janeiro,4,107
+txn_normal_1344,2023-01-01 22:27:37,409.5237656892251,Eletrônicos,user_042,São Paulo,2,349
+txn_normal_1498,2023-01-01 20:31:36,415.30749272953545,Vestuário,user_013,São Paulo,1,102
+txn_normal_0164,2023-01-01 09:59:53,264.2696755885904,Restaurante,user_065,Belo Horizonte,1,296
+txn_normal_0724,2023-01-01 10:37:26,218.70947714880035,Viagem,user_043,São Paulo,1,192
+txn_normal_0290,2023-01-01 12:34:01,49.65044869511357,Restaurante,user_002,Belo Horizonte,2,210
+txn_normal_1208,2023-01-01 18:28:30,277.8413204351988,Eletrônicos,user_052,Rio de Janeiro,4,317
+txn_normal_1588,2023-01-01 13:17:13,282.8933001712012,Restaurante,user_078,Curitiba,1,192
+txn_normal_1896,2023-01-01 20:19:48,22.43202914073464,Supermercado,user_035,Belo Horizonte,2,101
+txn_normal_1641,2023-01-01 13:36:07,186.46963592807964,Eletrônicos,user_060,Rio de Janeiro,3,212
+txn_normal_1361,2023-01-01 16:06:14,158.57757789210967,Vestuário,user_040,Belo Horizonte,3,169
+txn_normal_0778,2023-01-01 16:05:10,166.33208642279752,Eletrônicos,user_038,Rio de Janeiro,1,79
+txn_normal_0839,2023-01-01 20:25:34,244.0936419357726,Restaurante,user_087,São Paulo,2,101
+txn_normal_0348,2023-01-01 11:55:42,86.6270841576895,Vestuário,user_082,Rio de Janeiro,3,25
+txn_anomaly_0044,2023-01-01 11:43:47,71.20723172689361,Vestuário,user_201,Curitiba,14,8
+txn_normal_0571,2023-01-01 20:53:14,193.97977494858517,Vestuário,user_064,São Paulo,3,238
+txn_normal_0917,2023-01-01 22:18:35,219.89238227873466,Supermercado,user_033,São Paulo,2,101
+txn_normal_0976,2023-01-01 12:32:56,109.39808697665396,Eletrônicos,user_091,Curitiba,1,94
+txn_anomaly_0013,2023-01-01 14:46:22,546.0150577048905,Viagem,user_231,Cidade Pequena Distante,2,334
+txn_normal_1468,2023-01-01 10:05:54,309.56493641820737,Eletrônicos,user_044,Rio de Janeiro,4,16
+txn_normal_1591,2023-01-01 12:25:14,304.6662075663936,Restaurante,user_048,Curitiba,1,7
+txn_normal_1317,2023-01-01 16:57:04,15.772139380454586,Restaurante,user_082,Rio de Janeiro,1,99
+txn_normal_1844,2023-01-01 19:17:55,37.233549744488286,Viagem,user_016,São Paulo,2,248
+txn_normal_0136,2023-01-01 21:17:24,297.25261768823066,Eletrônicos,user_060,Belo Horizonte,4,328
+txn_normal_0458,2023-01-01 10:43:40,320.867831190426,Vestuário,user_071,São Paulo,1,214
+txn_normal_0375,2023-01-01 14:05:08,44.12416259957881,Vestuário,user_001,Curitiba,3,347
+txn_normal_1342,2023-01-01 12:55:25,305.8400204804304,Restaurante,user_032,Rio de Janeiro,1,285
+txn_normal_0333,2023-01-01 12:09:37,350.8528917834354,Vestuário,user_060,São Paulo,1,24
+txn_normal_1159,2023-01-01 21:31:31,341.748529292185,Supermercado,user_032,Rio de Janeiro,3,60
+txn_normal_1760,2023-01-01 19:49:26,392.1111510553403,Eletrônicos,user_052,Curitiba,1,22
+txn_normal_1457,2023-01-01 11:05:06,232.69653914812477,Viagem,user_053,Rio de Janeiro,3,42
+txn_normal_0816,2023-01-01 15:08:04,36.819026393243085,Supermercado,user_057,Rio de Janeiro,1,104
+txn_normal_1114,2023-01-01 13:45:21,438.3427715262135,Restaurante,user_020,Belo Horizonte,2,43
+txn_normal_1005,2023-01-01 19:28:02,59.0759487783158,Supermercado,user_057,São Paulo,2,66
+txn_normal_1856,2023-01-01 11:49:02,75.1693076665732,Eletrônicos,user_017,Belo Horizonte,2,52
+txn_anomaly_0054,2023-01-01 14:37:42,193.5865574634735,Viagem,user_227,Cidade Pequena Distante,1,524
+txn_normal_1850,2023-01-01 20:26:08,227.7529712687272,Supermercado,user_009,Rio de Janeiro,3,244
+txn_normal_0910,2023-01-01 19:30:57,366.1696840084881,Viagem,user_084,Belo Horizonte,3,160
+txn_anomaly_0029,2023-01-01 15:34:14,48.97430060465169,Supermercado,user_228,Curitiba,12,3
+txn_normal_1125,2023-01-01 11:35:27,332.6158017347505,Eletrônicos,user_013,Belo Horizonte,3,233
+txn_normal_0328,2023-01-01 09:42:24,441.11007811154997,Supermercado,user_021,Curitiba,2,235
+txn_normal_1247,2023-01-01 15:46:25,474.1803806261114,Supermercado,user_078,São Paulo,1,343
+txn_normal_0318,2023-01-01 22:15:31,295.3871025215508,Vestuário,user_098,Belo Horizonte,2,275
+txn_normal_1689,2023-01-01 13:13:12,333.09567501471776,Eletrônicos,user_071,Curitiba,1,246
+txn_normal_1358,2023-01-01 11:53:37,212.59822568797844,Viagem,user_063,Belo Horizonte,1,233
+txn_normal_1732,2023-01-01 21:46:45,169.15146853637665,Eletrônicos,user_035,Rio de Janeiro,1,46
+txn_normal_0167,2023-01-01 10:34:51,274.5229616650148,Restaurante,user_081,Rio de Janeiro,3,205
+txn_normal_0012,2023-01-01 18:50:16,12.705837390565176,Restaurante,user_035,São Paulo,3,265
+txn_anomaly_0026,2023-01-01 13:22:39,64.80031913831347,Supermercado,user_241,Curitiba,22,7
+txn_normal_0171,2023-01-01 08:46:11,348.3745138983639,Restaurante,user_008,Belo Horizonte,1,85
+txn_normal_0649,2023-01-01 14:47:00,163.8002574923634,Eletrônicos,user_066,Rio de Janeiro,3,153
+txn_normal_1061,2023-01-01 12:36:14,149.4906220347672,Viagem,user_026,Curitiba,2,88
+txn_normal_0260,2023-01-01 09:43:58,408.3630119708858,Restaurante,user_021,Belo Horizonte,3,340
+txn_normal_1366,2023-01-01 17:10:25,213.8349079078684,Eletrônicos,user_088,Curitiba,3,35
+txn_normal_1548,2023-01-01 09:05:37,121.43664707452935,Supermercado,user_052,Curitiba,4,193
+txn_normal_0901,2023-01-01 16:22:11,361.6613173188148,Supermercado,user_036,São Paulo,3,13
+txn_normal_0672,2023-01-01 09:49:04,378.67496232885605,Viagem,user_093,Belo Horizonte,4,102
+txn_normal_0258,2023-01-01 09:05:27,433.0334882901944,Viagem,user_093,Rio de Janeiro,1,16
+txn_normal_0844,2023-01-01 21:58:49,359.2061533034068,Supermercado,user_002,Belo Horizonte,4,118
+txn_normal_0867,2023-01-01 10:57:04,99.09064989029599,Viagem,user_037,São Paulo,3,97
+txn_normal_1799,2023-01-01 13:15:59,189.46397293925236,Viagem,user_092,Belo Horizonte,1,10
+txn_normal_0138,2023-01-01 15:40:21,370.8576754561142,Restaurante,user_023,São Paulo,2,105
+txn_normal_0893,2023-01-01 11:20:05,157.47349661949463,Eletrônicos,user_004,Belo Horizonte,4,30
+txn_normal_1837,2023-01-01 19:16:52,243.80842274167495,Restaurante,user_094,Rio de Janeiro,4,183
+txn_normal_0549,2023-01-01 19:20:49,395.39596737151504,Restaurante,user_047,Curitiba,3,295
+txn_normal_0319,2023-01-01 09:54:08,64.29590146810546,Eletrônicos,user_059,Rio de Janeiro,4,118
+txn_normal_1526,2023-01-01 20:18:43,87.3370558287503,Vestuário,user_050,Rio de Janeiro,2,92
+txn_normal_1805,2023-01-01 22:17:22,486.7589164059494,Vestuário,user_086,Belo Horizonte,2,44
+txn_normal_1177,2023-01-01 08:33:12,58.041823674360515,Restaurante,user_028,Rio de Janeiro,4,103
+txn_normal_0558,2023-01-01 19:50:35,183.59295033643568,Supermercado,user_073,Rio de Janeiro,4,15
+txn_normal_0139,2023-01-01 21:35:53,492.57218749154396,Eletrônicos,user_001,Belo Horizonte,2,59
+txn_normal_1734,2023-01-01 20:39:38,223.37810728526944,Vestuário,user_037,Curitiba,2,127
+txn_normal_0531,2023-01-01 18:59:01,267.6205475839761,Viagem,user_068,São Paulo,3,158
+txn_normal_0224,2023-01-01 14:30:31,468.744000659408,Eletrônicos,user_076,Curitiba,4,182
+txn_normal_0723,2023-01-01 18:43:11,72.8796724724946,Vestuário,user_020,São Paulo,3,264
+txn_normal_0786,2023-01-01 11:16:15,401.3413323747519,Restaurante,user_052,São Paulo,3,265
+txn_normal_1717,2023-01-01 10:57:56,178.33048963416414,Vestuário,user_016,Rio de Janeiro,4,60
+txn_normal_1007,2023-01-01 16:43:30,44.333660903382835,Vestuário,user_047,Rio de Janeiro,4,337
+txn_normal_0409,2023-01-01 14:23:56,178.15200305460255,Vestuário,user_021,Rio de Janeiro,3,150
+txn_normal_0325,2023-01-01 20:32:55,275.69623069100567,Restaurante,user_063,Rio de Janeiro,3,27
+txn_normal_1765,2023-01-01 10:52:14,217.9541834467825,Supermercado,user_071,Rio de Janeiro,3,108
+txn_normal_0299,2023-01-01 12:38:59,122.15835637484066,Vestuário,user_093,Curitiba,4,128
+txn_normal_1262,2023-01-01 08:47:07,256.9943390767279,Eletrônicos,user_047,Curitiba,1,272
+txn_anomaly_0045,2023-01-01 13:52:10,232.59043756516144,Viagem,user_224,Cidade Pequena Distante,1,809
+txn_normal_0025,2023-01-01 14:36:31,211.40813652593332,Eletrônicos,user_001,Belo Horizonte,2,134
+txn_normal_1858,2023-01-01 09:49:24,377.37891056154865,Supermercado,user_056,Rio de Janeiro,2,210
+txn_normal_0714,2023-01-01 21:38:30,320.5186838851092,Vestuário,user_016,São Paulo,1,91
+txn_normal_1009,2023-01-01 14:05:53,322.2780567036317,Restaurante,user_013,Belo Horizonte,2,317
+txn_normal_0193,2023-01-01 22:37:07,210.14207440464236,Restaurante,user_005,Curitiba,2,41
+txn_normal_0440,2023-01-01 10:01:39,443.3678949959688,Eletrônicos,user_034,Rio de Janeiro,2,264
+txn_normal_0573,2023-01-01 17:30:42,364.1414985970143,Restaurante,user_030,Belo Horizonte,2,66
+txn_normal_0946,2023-01-01 08:35:39,186.2410249993032,Eletrônicos,user_099,São Paulo,1,262
+txn_normal_0997,2023-01-01 10:04:16,224.50487694418294,Supermercado,user_032,Rio de Janeiro,3,341
+txn_normal_0503,2023-01-01 10:50:21,158.93183100496339,Vestuário,user_092,Curitiba,2,243
+txn_normal_0605,2023-01-01 18:52:22,344.89235092967937,Eletrônicos,user_035,Belo Horizonte,4,297
+txn_normal_1716,2023-01-01 16:46:13,373.93805743250414,Restaurante,user_076,São Paulo,2,189
+txn_normal_1163,2023-01-01 10:47:46,213.40251665891697,Viagem,user_016,São Paulo,3,41
+txn_normal_1786,2023-01-01 13:10:12,265.9628993437325,Vestuário,user_066,São Paulo,3,251
+txn_normal_0846,2023-01-01 12:47:42,37.31301825784645,Viagem,user_038,São Paulo,1,348
+txn_normal_0003,2023-01-01 16:48:26,13.462489557661529,Restaurante,user_042,Curitiba,4,192
+txn_normal_1286,2023-01-01 12:03:57,106.15479802704925,Vestuário,user_053,Curitiba,3,185
+txn_normal_1222,2023-01-01 16:15:14,207.94837881851095,Supermercado,user_047,Curitiba,4,274
+txn_normal_0467,2023-01-01 19:26:53,74.44395078902518,Viagem,user_042,Belo Horizonte,3,226
+txn_normal_0321,2023-01-01 10:57:31,326.44729820105096,Eletrônicos,user_012,São Paulo,3,22
+txn_normal_0005,2023-01-01 14:20:08,431.37079930079705,Supermercado,user_004,São Paulo,4,18
+txn_normal_0222,2023-01-01 13:38:01,48.503463605960164,Supermercado,user_046,Rio de Janeiro,2,147
+txn_normal_1374,2023-01-01 10:00:49,163.91381135379166,Restaurante,user_040,São Paulo,4,146
+txn_normal_0547,2023-01-01 18:53:23,209.74010041003132,Vestuário,user_092,Belo Horizonte,1,315
+txn_normal_0228,2023-01-01 14:52:54,99.23777868746265,Restaurante,user_044,Rio de Janeiro,2,215
+txn_normal_0039,2023-01-01 11:34:48,254.60475614352865,Eletrônicos,user_044,Curitiba,2,50
+txn_normal_0542,2023-01-01 10:09:37,395.5170566449924,Eletrônicos,user_091,Rio de Janeiro,4,183
+txn_normal_0242,2023-01-01 12:48:48,335.2642185346845,Vestuário,user_056,Curitiba,3,211
+txn_normal_0898,2023-01-01 17:37:03,188.06792667971922,Viagem,user_033,Belo Horizonte,4,109
+txn_normal_1133,2023-01-01 17:27:10,127.93397896568383,Eletrônicos,user_065,São Paulo,1,344
+txn_normal_1448,2023-01-01 17:16:11,418.7279436565567,Restaurante,user_041,São Paulo,1,63
+txn_normal_1868,2023-01-01 18:31:56,246.4012204867476,Viagem,user_037,Belo Horizonte,4,103
+txn_normal_0842,2023-01-01 21:59:16,409.0481211278499,Eletrônicos,user_074,Belo Horizonte,3,174
+txn_normal_1418,2023-01-01 18:18:28,154.4102749596697,Viagem,user_010,Curitiba,4,124
+txn_normal_1653,2023-01-01 09:59:04,239.83956670836528,Supermercado,user_076,Curitiba,3,51
+txn_anomaly_0069,2023-01-01 20:36:40,6632.580221487956,Eletrônicos,user_203,Rio de Janeiro,2,247
+txn_normal_0661,2023-01-01 13:25:12,35.37508547908026,Eletrônicos,user_038,São Paulo,4,82
+txn_normal_1210,2023-01-01 14:24:07,158.57201494224068,Viagem,user_061,Belo Horizonte,1,154
+txn_normal_0314,2023-01-01 13:31:07,279.311861422273,Supermercado,user_038,Belo Horizonte,4,224
+txn_normal_0691,2023-01-01 20:19:24,456.2933087752085,Vestuário,user_002,Rio de Janeiro,4,276
+txn_normal_1503,2023-01-01 09:45:18,330.3446065156857,Vestuário,user_026,Rio de Janeiro,3,8
+txn_normal_0424,2023-01-01 19:23:34,180.1657491249487,Viagem,user_098,Belo Horizonte,4,277
+txn_normal_0594,2023-01-01 11:47:18,200.72293112897637,Restaurante,user_098,Belo Horizonte,4,201
+txn_anomaly_0063,2023-01-01 14:01:39,67.01352411786083,Supermercado,user_223,Curitiba,20,2
+txn_normal_0622,2023-01-01 13:37:55,334.21695721830264,Vestuário,user_053,Rio de Janeiro,3,135
+txn_normal_1170,2023-01-01 19:48:32,499.611576482286,Restaurante,user_060,Rio de Janeiro,1,291
+txn_normal_1043,2023-01-01 17:38:24,155.47888039134105,Vestuário,user_009,Curitiba,2,182
+txn_normal_0227,2023-01-01 20:24:44,131.08058466497175,Restaurante,user_019,Belo Horizonte,2,177
+txn_normal_1117,2023-01-01 19:43:29,180.1713524097919,Eletrônicos,user_059,Rio de Janeiro,3,344
+txn_normal_1331,2023-01-01 20:00:22,482.69833462594585,Restaurante,user_067,Belo Horizonte,4,167
+txn_normal_1315,2023-01-01 09:58:32,214.54965910926663,Eletrônicos,user_076,Rio de Janeiro,1,9
+txn_normal_0066,2023-01-01 10:47:35,292.20304187646144,Supermercado,user_096,Curitiba,3,194
+txn_normal_0024,2023-01-01 08:36:48,253.65176788726887,Eletrônicos,user_059,São Paulo,2,134
+txn_normal_0144,2023-01-01 09:20:48,117.84763489973756,Eletrônicos,user_084,São Paulo,1,152
+txn_normal_0536,2023-01-01 11:58:20,170.2518756343907,Eletrônicos,user_028,Belo Horizonte,3,136
+txn_normal_0811,2023-01-01 16:28:33,185.02424365659198,Supermercado,user_071,São Paulo,3,196
+txn_normal_1466,2023-01-01 10:23:32,324.98836149971163,Viagem,user_087,São Paulo,3,44
+txn_normal_0085,2023-01-01 17:59:49,237.21221842059126,Vestuário,user_092,São Paulo,1,232
+txn_normal_1660,2023-01-01 15:26:53,404.05942457591266,Vestuário,user_022,Curitiba,4,113
+txn_normal_1645,2023-01-01 12:44:05,31.264617503494815,Vestuário,user_069,São Paulo,3,111
+txn_normal_1804,2023-01-01 16:56:23,375.2965118228586,Eletrônicos,user_038,Curitiba,1,245
+txn_normal_1817,2023-01-01 10:53:58,74.78364618194685,Supermercado,user_081,Rio de Janeiro,4,279
+txn_normal_1576,2023-01-01 12:24:51,438.17269236950415,Vestuário,user_057,Belo Horizonte,4,154
+txn_normal_1144,2023-01-01 14:22:26,393.14696409622235,Supermercado,user_037,Rio de Janeiro,1,26
+txn_normal_0362,2023-01-01 15:11:09,482.5935604113977,Vestuário,user_092,São Paulo,4,89
+txn_normal_1611,2023-01-01 13:56:04,227.95469257880305,Viagem,user_070,Rio de Janeiro,3,308
+txn_normal_1865,2023-01-01 17:51:28,307.0348333378288,Eletrônicos,user_017,Rio de Janeiro,2,242
+txn_normal_1026,2023-01-01 11:04:00,151.82382033471075,Restaurante,user_092,Belo Horizonte,1,214
+txn_normal_1030,2023-01-01 15:22:01,156.73428472778477,Restaurante,user_026,São Paulo,3,338
+txn_normal_1303,2023-01-01 19:50:25,394.125008341872,Eletrônicos,user_051,Curitiba,4,246
+txn_normal_1355,2023-01-01 12:58:59,122.66000172219997,Supermercado,user_097,Belo Horizonte,1,239
+txn_normal_1730,2023-01-01 09:34:33,423.0456911866368,Viagem,user_086,Belo Horizonte,3,23
+txn_normal_0665,2023-01-01 09:17:03,330.53847560018824,Eletrônicos,user_014,Rio de Janeiro,1,48
+txn_normal_0364,2023-01-01 10:44:02,91.35681357393577,Restaurante,user_040,Rio de Janeiro,1,224
+txn_normal_0077,2023-01-01 20:43:53,50.91535118234769,Restaurante,user_074,Rio de Janeiro,3,43
+txn_normal_0027,2023-01-01 13:23:04,128.65836975593868,Vestuário,user_098,Rio de Janeiro,2,244
+txn_normal_1436,2023-01-01 20:11:20,18.79935323757397,Supermercado,user_020,Rio de Janeiro,4,96
+txn_normal_0525,2023-01-01 09:05:57,488.78107419527095,Viagem,user_028,Rio de Janeiro,1,86
+txn_normal_1834,2023-01-01 13:15:31,222.69483008983042,Supermercado,user_090,Rio de Janeiro,3,298
+txn_normal_0055,2023-01-01 13:28:54,281.63348573058636,Restaurante,user_076,Rio de Janeiro,4,90
+txn_normal_0638,2023-01-01 10:50:10,389.8695853991251,Eletrônicos,user_021,Belo Horizonte,2,67
+txn_normal_0302,2023-01-01 13:14:20,215.1045045957283,Supermercado,user_087,Rio de Janeiro,4,69
+txn_normal_0718,2023-01-01 18:19:34,427.06386035873106,Viagem,user_073,São Paulo,2,99
+txn_normal_0624,2023-01-01 13:13:31,191.8730628495704,Restaurante,user_010,Belo Horizonte,4,191
+txn_normal_0007,2023-01-01 21:16:35,26.850375346457014,Supermercado,user_004,Rio de Janeiro,2,58
+txn_normal_0803,2023-01-01 11:34:58,342.08438818864704,Restaurante,user_007,Belo Horizonte,1,223
+txn_normal_1049,2023-01-01 15:17:08,37.16216458120458,Eletrônicos,user_032,São Paulo,2,21
+txn_normal_0336,2023-01-01 10:48:45,21.237077521340595,Restaurante,user_022,Curitiba,1,80
+txn_normal_0047,2023-01-01 14:21:50,56.05115052202581,Eletrônicos,user_058,Belo Horizonte,2,129
+txn_normal_1763,2023-01-01 13:58:55,211.66624823150485,Eletrônicos,user_052,Belo Horizonte,1,326
+txn_normal_0106,2023-01-01 08:07:48,145.67004759212983,Restaurante,user_052,Belo Horizonte,3,131
+txn_normal_0349,2023-01-01 08:26:06,270.8861343148564,Supermercado,user_032,Curitiba,3,152
+txn_normal_1079,2023-01-01 17:19:18,198.0485044089305,Vestuário,user_011,Curitiba,3,267
+txn_normal_0238,2023-01-01 09:34:36,485.0120379442909,Viagem,user_065,Curitiba,4,168
+txn_normal_0213,2023-01-01 21:24:16,484.4147796782137,Viagem,user_053,Curitiba,3,31
+txn_normal_1775,2023-01-01 15:26:46,197.5692109912216,Restaurante,user_099,Rio de Janeiro,4,305
+txn_normal_1138,2023-01-01 15:19:28,414.54567820443737,Vestuário,user_008,Curitiba,3,279
+txn_normal_0793,2023-01-01 16:12:57,99.40443991972012,Vestuário,user_070,Belo Horizonte,2,103
+txn_normal_1586,2023-01-01 09:38:48,210.5063554549684,Supermercado,user_034,Rio de Janeiro,4,357
+txn_normal_1582,2023-01-01 17:55:54,296.6464394668527,Vestuário,user_081,São Paulo,4,137
+txn_normal_1671,2023-01-01 14:55:34,89.49541858888297,Eletrônicos,user_029,Belo Horizonte,1,57
+txn_normal_0523,2023-01-01 08:12:19,196.9061102925226,Restaurante,user_054,São Paulo,4,33
+txn_normal_0232,2023-01-01 09:48:50,257.37399212757873,Eletrônicos,user_036,Rio de Janeiro,1,358
+txn_normal_0644,2023-01-01 13:43:26,231.87871996334923,Eletrônicos,user_016,Curitiba,4,291
+txn_normal_1507,2023-01-01 08:11:01,21.995330248467976,Restaurante,user_028,Rio de Janeiro,2,94
+txn_normal_0533,2023-01-01 09:29:24,297.91707684360694,Viagem,user_028,São Paulo,1,305
+txn_anomaly_0041,2023-01-01 03:30:10,285.1003430655464,Restaurante,user_209,São Paulo,2,715
+txn_normal_0603,2023-01-01 15:42:21,300.491688448974,Vestuário,user_008,São Paulo,4,213
+txn_normal_1329,2023-01-01 12:01:09,25.408517978884294,Viagem,user_079,São Paulo,1,292
+txn_normal_1074,2023-01-01 20:41:27,54.30529911791377,Restaurante,user_082,Rio de Janeiro,2,224
+txn_normal_1304,2023-01-01 10:33:32,183.87440448102254,Supermercado,user_024,São Paulo,1,203
+txn_normal_0060,2023-01-01 08:27:31,324.78544632109464,Restaurante,user_084,Curitiba,4,182
+txn_normal_1263,2023-01-01 13:24:00,363.9630187400713,Eletrônicos,user_001,Curitiba,2,238
+txn_normal_0092,2023-01-01 17:18:16,472.93520764238974,Viagem,user_078,São Paulo,2,5
+txn_normal_0666,2023-01-01 10:42:46,67.01565773060298,Vestuário,user_035,São Paulo,3,104
+txn_normal_0280,2023-01-01 21:51:07,368.0187500172306,Vestuário,user_058,Curitiba,1,337
+txn_normal_1113,2023-01-01 13:58:19,47.01130188688473,Viagem,user_023,São Paulo,2,191
+txn_normal_0359,2023-01-01 13:51:27,440.1367382945,Restaurante,user_040,Rio de Janeiro,4,30
+txn_normal_1128,2023-01-01 09:15:38,113.78109344193632,Viagem,user_037,São Paulo,1,128
+txn_normal_1169,2023-01-01 14:55:22,159.11071999222352,Vestuário,user_025,Belo Horizonte,1,166
+txn_normal_0847,2023-01-01 15:32:16,82.1099930365232,Viagem,user_057,Rio de Janeiro,4,322
+txn_normal_1521,2023-01-01 14:58:53,134.81304522419896,Vestuário,user_064,Belo Horizonte,2,313
+txn_normal_0110,2023-01-01 17:43:24,113.60952342830687,Eletrônicos,user_013,Curitiba,1,72
+txn_normal_0042,2023-01-01 09:24:41,165.29178252657604,Supermercado,user_067,Curitiba,2,284
+txn_normal_0125,2023-01-01 19:28:07,363.58230986812583,Restaurante,user_014,Curitiba,2,295
+txn_normal_0204,2023-01-01 08:11:21,474.1759652456056,Eletrônicos,user_010,Rio de Janeiro,1,26
+txn_normal_0052,2023-01-01 19:57:54,142.70780311841636,Supermercado,user_090,São Paulo,2,283
+txn_normal_0545,2023-01-01 19:37:57,131.70796828417167,Vestuário,user_037,Belo Horizonte,4,22
+txn_normal_0068,2023-01-01 21:19:47,452.2509242729877,Eletrônicos,user_086,São Paulo,3,23
+txn_normal_1740,2023-01-01 17:27:18,468.7125712113814,Restaurante,user_069,São Paulo,4,290
+txn_normal_1547,2023-01-01 17:22:13,363.52969483451955,Eletrônicos,user_023,Rio de Janeiro,4,145
+txn_normal_0183,2023-01-01 12:24:47,360.6211244647785,Eletrônicos,user_053,Rio de Janeiro,3,77
+txn_normal_0137,2023-01-01 12:07:41,397.1414721908025,Eletrônicos,user_092,Belo Horizonte,2,55
+txn_normal_0899,2023-01-01 10:09:42,385.0049867674393,Eletrônicos,user_015,Rio de Janeiro,3,265
+txn_normal_0796,2023-01-01 13:35:06,99.5785603842207,Restaurante,user_049,São Paulo,4,115
+txn_normal_0132,2023-01-01 17:32:53,252.0509286941227,Viagem,user_031,Belo Horizonte,4,220
+txn_normal_0080,2023-01-01 16:55:32,244.08029653131155,Viagem,user_006,Rio de Janeiro,4,177
+txn_anomaly_0086,2023-01-01 12:34:57,94.04354606897788,Vestuário,user_215,Curitiba,14,3
+txn_normal_1540,2023-01-01 17:55:37,407.11212765085355,Vestuário,user_089,Belo Horizonte,4,316
+txn_normal_0541,2023-01-01 17:17:37,476.23044798662573,Restaurante,user_036,Belo Horizonte,3,81
+txn_normal_1668,2023-01-01 20:39:18,33.31576434759509,Viagem,user_066,Belo Horizonte,2,335
+txn_normal_0983,2023-01-01 18:23:21,358.98790053680773,Vestuário,user_045,Rio de Janeiro,1,28
+txn_normal_0165,2023-01-01 20:20:10,387.78310351238446,Restaurante,user_036,São Paulo,3,299
+txn_normal_0248,2023-01-01 20:31:37,368.1064426867294,Viagem,user_086,Belo Horizonte,2,197
+txn_normal_0446,2023-01-01 13:30:16,327.4305485353589,Supermercado,user_010,Curitiba,4,58
+txn_normal_1514,2023-01-01 18:12:26,332.08622432657353,Supermercado,user_072,Curitiba,4,332
+txn_normal_0858,2023-01-01 17:13:06,277.39102471838265,Eletrônicos,user_026,São Paulo,1,216
+txn_normal_1211,2023-01-01 13:13:35,349.99950230759185,Supermercado,user_082,Belo Horizonte,2,53
+txn_normal_0097,2023-01-01 13:49:33,17.126886177262143,Supermercado,user_030,Belo Horizonte,3,312
+txn_anomaly_0073,2023-01-01 12:11:29,96.12828499998304,Supermercado,user_237,Curitiba,14,6
+txn_normal_0737,2023-01-01 17:09:56,106.84321808965377,Viagem,user_050,Rio de Janeiro,3,312
+txn_normal_1255,2023-01-01 22:14:25,337.58788060585283,Eletrônicos,user_004,São Paulo,1,261
+txn_normal_0102,2023-01-01 10:26:28,211.7139950351888,Supermercado,user_061,Rio de Janeiro,3,281
+txn_normal_0434,2023-01-01 22:37:02,127.78737046274706,Restaurante,user_069,São Paulo,3,193
+txn_normal_0074,2023-01-01 21:12:39,420.8555742443527,Supermercado,user_009,Rio de Janeiro,3,126
+txn_normal_1791,2023-01-01 21:13:15,402.2524110532569,Eletrônicos,user_060,Belo Horizonte,2,350
+txn_normal_1234,2023-01-01 13:48:56,246.17750968910485,Supermercado,user_082,Belo Horizonte,2,94
+txn_normal_0918,2023-01-01 18:48:35,288.53165762194664,Supermercado,user_010,Belo Horizonte,2,317
+txn_normal_1711,2023-01-01 19:12:22,94.20986617772779,Eletrônicos,user_092,Rio de Janeiro,3,293
+txn_normal_1670,2023-01-01 15:16:39,397.93059860885586,Supermercado,user_066,Curitiba,3,266
+txn_normal_1620,2023-01-01 18:35:31,133.06761666556,Eletrônicos,user_057,São Paulo,2,148
+txn_normal_0762,2023-01-01 10:55:26,338.5128235604896,Eletrônicos,user_096,Curitiba,4,72
+txn_normal_0989,2023-01-01 11:31:27,231.91284660360074,Viagem,user_001,Curitiba,4,39
+txn_normal_0388,2023-01-01 19:32:52,117.91039767488441,Viagem,user_073,São Paulo,1,328
+txn_normal_0235,2023-01-01 15:35:47,74.4681657123573,Supermercado,user_044,Rio de Janeiro,2,6
+txn_normal_1506,2023-01-01 11:21:21,296.8881097743674,Viagem,user_039,Rio de Janeiro,1,304
+txn_normal_0267,2023-01-01 14:21:53,476.18763768126195,Viagem,user_086,Curitiba,1,30
+txn_normal_1187,2023-01-01 20:10:15,62.55094841296457,Eletrônicos,user_075,Curitiba,3,158
+txn_normal_0117,2023-01-01 21:55:37,487.78290984311985,Restaurante,user_062,São Paulo,2,339
+txn_normal_1606,2023-01-01 15:15:16,172.0895474427112,Restaurante,user_011,Curitiba,1,329
+txn_normal_0673,2023-01-01 20:22:04,413.99104362622904,Supermercado,user_004,São Paulo,3,10
+txn_normal_0249,2023-01-01 17:42:09,420.67649192757403,Supermercado,user_082,São Paulo,2,140
+txn_normal_1452,2023-01-01 17:10:26,200.18520969110216,Restaurante,user_039,Curitiba,3,22
+txn_anomaly_0094,2023-01-01 10:27:57,413.56919703055877,Viagem,user_223,Cidade Pequena Distante,1,136
+txn_normal_0094,2023-01-01 17:57:33,65.64322017781822,Restaurante,user_050,Curitiba,1,58
+txn_normal_0033,2023-01-01 10:19:23,365.71828264641726,Eletrônicos,user_024,Curitiba,3,117
+txn_normal_1463,2023-01-01 18:19:46,20.845881004453567,Restaurante,user_045,São Paulo,4,285
+txn_normal_1667,2023-01-01 20:36:02,200.93213692117655,Restaurante,user_019,Rio de Janeiro,4,341
+txn_normal_0448,2023-01-01 11:12:58,286.0115761673692,Supermercado,user_012,Belo Horizonte,3,294
+txn_normal_0716,2023-01-01 20:26:51,328.3961429145068,Restaurante,user_078,Belo Horizonte,3,357
+txn_normal_1809,2023-01-01 11:58:42,421.8202950030147,Supermercado,user_004,São Paulo,4,232
+txn_normal_1517,2023-01-01 11:02:04,312.55674647747844,Restaurante,user_047,Belo Horizonte,2,176
+txn_normal_0000,2023-01-01 20:14:42,193.52465823520762,Viagem,user_021,Belo Horizonte,2,219
+txn_normal_1375,2023-01-01 14:44:59,366.8098450223563,Eletrônicos,user_055,Belo Horizonte,3,209
+txn_normal_1101,2023-01-01 11:24:23,340.0688176783806,Vestuário,user_017,Rio de Janeiro,1,97
+txn_normal_1108,2023-01-01 08:15:18,437.94694774230464,Viagem,user_093,São Paulo,4,94
+txn_normal_1226,2023-01-01 11:14:12,136.32732827143542,Vestuário,user_066,Curitiba,3,156
+txn_normal_0082,2023-01-01 11:56:17,281.3885993566472,Eletrônicos,user_049,Rio de Janeiro,3,5
+txn_normal_1288,2023-01-01 10:52:57,150.24991054759724,Restaurante,user_001,Belo Horizonte,3,297
+txn_normal_0676,2023-01-01 11:16:40,483.2161328116763,Restaurante,user_005,Curitiba,2,295
+txn_anomaly_0020,2023-01-01 11:35:32,594.1017463634871,Viagem,user_234,Cidade Pequena Distante,1,124
+txn_normal_1046,2023-01-01 10:25:17,151.67699202519287,Viagem,user_023,São Paulo,2,83
+txn_normal_0770,2023-01-01 10:39:15,78.59381459366381,Viagem,user_087,Curitiba,2,154
+txn_anomaly_0046,2023-01-01 13:12:04,60.99465860554521,Vestuário,user_218,Curitiba,10,6
+txn_normal_1280,2023-01-01 21:06:30,21.860961767039615,Viagem,user_048,Rio de Janeiro,2,51
+txn_normal_1580,2023-01-01 10:58:07,305.3756908107121,Vestuário,user_047,Rio de Janeiro,1,226
+txn_normal_1488,2023-01-01 14:22:33,404.27443169399186,Eletrônicos,user_069,Belo Horizonte,3,263
+txn_normal_0404,2023-01-01 19:57:50,451.157421356393,Eletrônicos,user_039,Rio de Janeiro,3,289
+txn_normal_1727,2023-01-01 20:17:48,124.67380590036855,Restaurante,user_006,Rio de Janeiro,2,284
+txn_normal_1298,2023-01-01 10:59:06,481.0946131448209,Viagem,user_061,Belo Horizonte,2,100
+txn_normal_1340,2023-01-01 13:03:10,405.18301359157016,Eletrônicos,user_090,Rio de Janeiro,4,99
+txn_normal_0104,2023-01-01 21:33:48,184.4358272932732,Supermercado,user_045,Belo Horizonte,1,286
+txn_normal_0688,2023-01-01 19:53:28,56.72685142377174,Vestuário,user_030,Belo Horizonte,4,274
+txn_normal_1305,2023-01-01 12:18:24,143.39786582796188,Restaurante,user_033,Curitiba,4,89
+txn_normal_0826,2023-01-01 08:48:23,160.8313835127984,Restaurante,user_086,Belo Horizonte,1,320
+txn_normal_0062,2023-01-01 19:28:12,453.6218145584712,Vestuário,user_095,Rio de Janeiro,2,257
+txn_normal_0852,2023-01-01 12:54:18,237.86780376824586,Supermercado,user_052,Rio de Janeiro,1,158
+txn_normal_1353,2023-01-01 12:30:27,66.49753426613418,Vestuário,user_030,Rio de Janeiro,4,159
+txn_normal_0223,2023-01-01 14:43:48,108.07361967995695,Restaurante,user_061,Belo Horizonte,3,13
+txn_normal_0145,2023-01-01 19:39:48,213.16582062624164,Eletrônicos,user_096,São Paulo,2,219
+txn_normal_1088,2023-01-01 12:16:07,227.77606925903436,Eletrônicos,user_042,Rio de Janeiro,1,91
+txn_normal_0373,2023-01-01 17:10:56,230.6719796636522,Eletrônicos,user_069,Curitiba,3,354
+txn_normal_1420,2023-01-01 09:25:48,350.6462652545735,Viagem,user_029,Curitiba,4,84
+txn_normal_1142,2023-01-01 20:42:16,133.47912860559512,Eletrônicos,user_085,São Paulo,3,344
+txn_normal_1826,2023-01-01 18:20:29,438.04420511358023,Supermercado,user_099,Belo Horizonte,2,16
+txn_normal_1494,2023-01-01 20:00:59,325.5729541848526,Restaurante,user_092,São Paulo,3,150
+txn_normal_1601,2023-01-01 19:22:47,70.06574668851967,Restaurante,user_042,Curitiba,3,138
+txn_normal_1270,2023-01-01 22:31:31,57.94993133106052,Eletrônicos,user_099,São Paulo,1,50
+txn_normal_0009,2023-01-01 22:07:13,366.3632779696462,Vestuário,user_062,Curitiba,1,212
+txn_normal_0449,2023-01-01 09:10:40,75.57589786984964,Vestuário,user_049,Belo Horizonte,1,245
+txn_normal_0708,2023-01-01 09:47:19,49.9833728023708,Vestuário,user_066,São Paulo,3,128
+txn_normal_0255,2023-01-01 12:14:00,328.0465828092526,Vestuário,user_071,Belo Horizonte,1,320
+txn_normal_0882,2023-01-01 14:28:30,218.2272243405909,Eletrônicos,user_085,Rio de Janeiro,2,179
+txn_normal_0389,2023-01-01 09:23:31,435.5902380969415,Eletrônicos,user_008,São Paulo,3,336
+txn_normal_0908,2023-01-01 17:15:56,238.77026857032115,Viagem,user_015,Belo Horizonte,4,199
+txn_normal_0924,2023-01-01 09:18:18,13.03007309403937,Supermercado,user_042,Belo Horizonte,4,333
+txn_normal_1703,2023-01-01 16:15:00,291.6860526274547,Supermercado,user_056,Belo Horizonte,3,288
+txn_normal_1232,2023-01-01 22:20:51,209.93982618538013,Viagem,user_056,Curitiba,4,243
+txn_normal_0460,2023-01-01 08:35:44,441.2768015815277,Viagem,user_034,São Paulo,4,268
+txn_normal_1269,2023-01-01 10:26:21,111.84342349562802,Supermercado,user_061,Rio de Janeiro,3,223
+txn_normal_1759,2023-01-01 20:53:07,160.64194094844024,Viagem,user_044,São Paulo,1,280
+txn_normal_1168,2023-01-01 22:14:34,222.60514375788495,Eletrônicos,user_069,São Paulo,2,324
+txn_normal_0958,2023-01-01 18:04:54,336.7983546030364,Vestuário,user_053,Belo Horizonte,1,152
+txn_normal_0501,2023-01-01 14:44:04,148.4114889213018,Viagem,user_062,São Paulo,1,253
+txn_normal_0739,2023-01-01 14:29:49,115.30910037949239,Eletrônicos,user_061,Belo Horizonte,4,257
+txn_normal_1849,2023-01-01 17:25:45,274.02148995233784,Supermercado,user_010,São Paulo,1,210
+txn_normal_0868,2023-01-01 17:20:07,150.37213149484597,Viagem,user_011,Rio de Janeiro,4,110
+txn_normal_0731,2023-01-01 20:24:53,462.81278079652697,Eletrônicos,user_004,Belo Horizonte,4,309
+txn_normal_0539,2023-01-01 08:56:45,24.45698702115091,Viagem,user_043,Curitiba,2,300
+txn_normal_1201,2023-01-01 08:12:12,36.19476917636089,Supermercado,user_028,São Paulo,2,270
+txn_normal_0697,2023-01-01 11:18:41,257.26332205777084,Restaurante,user_057,São Paulo,1,343
+txn_normal_1392,2023-01-01 22:20:45,63.546928230398365,Restaurante,user_082,Curitiba,3,14
+txn_normal_1376,2023-01-01 13:14:15,296.7778289998248,Supermercado,user_054,São Paulo,1,240
+txn_normal_1145,2023-01-01 16:14:25,334.7650090443952,Restaurante,user_088,Curitiba,2,257
+txn_normal_1031,2023-01-01 08:52:02,373.5910014210825,Supermercado,user_018,São Paulo,2,91
+txn_normal_0372,2023-01-01 17:32:20,65.34217212147504,Restaurante,user_052,Rio de Janeiro,1,311
+txn_normal_0667,2023-01-01 17:47:43,343.8629764882609,Viagem,user_017,Belo Horizonte,3,54
+txn_normal_1525,2023-01-01 11:19:47,78.9201362244967,Supermercado,user_084,Belo Horizonte,2,5
+txn_normal_0357,2023-01-01 17:34:50,405.13777244409135,Eletrônicos,user_064,Curitiba,3,281
+txn_normal_0967,2023-01-01 22:09:49,394.2929366602913,Vestuário,user_036,Rio de Janeiro,1,53
+txn_normal_0783,2023-01-01 14:17:33,107.33584267972883,Eletrônicos,user_045,Rio de Janeiro,1,126
+txn_normal_0735,2023-01-01 21:55:24,437.60098536626714,Restaurante,user_047,São Paulo,4,250
+txn_normal_1035,2023-01-01 08:01:23,34.431471735590485,Eletrônicos,user_039,Rio de Janeiro,2,169
+txn_normal_0970,2023-01-01 10:51:46,15.839811659338626,Viagem,user_080,Belo Horizonte,3,153
+txn_normal_1524,2023-01-01 22:52:34,67.35208562609981,Supermercado,user_005,Curitiba,1,164
+txn_normal_1486,2023-01-01 10:49:20,141.60400612315362,Restaurante,user_082,Curitiba,1,216
+txn_normal_1523,2023-01-01 12:44:28,166.56551138566314,Restaurante,user_047,Curitiba,3,121
+txn_normal_1490,2023-01-01 16:16:53,269.5258182472154,Eletrônicos,user_003,Belo Horizonte,2,185
+txn_normal_1642,2023-01-01 14:50:00,326.30062788456263,Eletrônicos,user_082,São Paulo,2,179
+txn_normal_1252,2023-01-01 17:03:48,430.6504237731488,Supermercado,user_043,Curitiba,1,353
+txn_normal_1693,2023-01-01 14:34:07,380.1612393047935,Supermercado,user_034,São Paulo,1,124
+txn_normal_1749,2023-01-01 21:53:13,253.54158741083126,Eletrônicos,user_018,Curitiba,3,212
+txn_normal_1236,2023-01-01 20:57:02,337.8362225053045,Restaurante,user_097,São Paulo,4,355
+txn_normal_0885,2023-01-01 17:35:32,435.5929438422358,Viagem,user_040,São Paulo,4,46
+txn_normal_0079,2023-01-01 14:00:02,413.16727241957966,Viagem,user_092,Rio de Janeiro,1,195
+txn_normal_1172,2023-01-01 12:27:03,170.84499374589515,Vestuário,user_080,Belo Horizonte,4,234
+txn_normal_0814,2023-01-01 08:42:16,428.0888099065876,Supermercado,user_002,Curitiba,1,354
+txn_normal_1285,2023-01-01 18:51:02,347.07594481310895,Viagem,user_044,Curitiba,2,324
+txn_normal_0671,2023-01-01 14:44:01,138.54805372266338,Vestuário,user_057,Curitiba,3,290
+txn_normal_1531,2023-01-01 22:44:38,260.65273517504795,Viagem,user_030,São Paulo,1,173
+txn_normal_0057,2023-01-01 17:47:20,18.408939897557616,Vestuário,user_033,Rio de Janeiro,2,27
+txn_normal_0133,2023-01-01 22:28:07,305.93935731553114,Viagem,user_029,Belo Horizonte,4,336
+txn_normal_1140,2023-01-01 08:04:25,240.64348975062018,Viagem,user_027,São Paulo,4,338
+txn_normal_0933,2023-01-01 09:43:07,437.53477639638754,Supermercado,user_071,Curitiba,2,42
+txn_normal_1684,2023-01-01 11:06:35,115.39176210469549,Eletrônicos,user_011,Curitiba,2,241
+txn_normal_0823,2023-01-01 09:41:06,405.9532303868511,Supermercado,user_065,Curitiba,2,309
+txn_normal_1214,2023-01-01 16:38:25,17.59413849483325,Supermercado,user_023,Belo Horizonte,3,13
+txn_normal_0504,2023-01-01 20:22:57,213.81251324510896,Supermercado,user_030,Rio de Janeiro,1,29
+txn_normal_1774,2023-01-01 08:58:49,241.76068087166055,Viagem,user_065,Curitiba,4,184
+txn_normal_0347,2023-01-01 21:55:09,145.05004595268326,Supermercado,user_089,São Paulo,2,48
+txn_normal_0386,2023-01-01 16:55:54,300.6785693526183,Viagem,user_062,São Paulo,4,162
+txn_normal_1024,2023-01-01 13:02:41,215.27257614853013,Restaurante,user_070,Belo Horizonte,4,196
+txn_normal_0894,2023-01-01 14:28:20,472.6623307895927,Viagem,user_091,Belo Horizonte,4,155
+txn_normal_0828,2023-01-01 22:29:47,62.33234496115818,Supermercado,user_017,Rio de Janeiro,2,211
+txn_normal_1892,2023-01-01 11:03:37,397.035372616074,Vestuário,user_005,São Paulo,4,347
+txn_normal_0475,2023-01-01 20:52:07,145.356289237825,Vestuário,user_095,Curitiba,3,325
+txn_normal_1470,2023-01-01 20:12:59,202.05118299633432,Eletrônicos,user_024,Belo Horizonte,4,17
+txn_normal_1447,2023-01-01 15:06:33,368.2983438378907,Vestuário,user_053,Rio de Janeiro,4,175
+txn_normal_1581,2023-01-01 14:44:31,219.77564917614842,Eletrônicos,user_038,São Paulo,3,142
+txn_normal_0652,2023-01-01 17:04:05,295.9664681339689,Eletrônicos,user_047,Belo Horizonte,4,95
+txn_normal_0172,2023-01-01 13:15:05,332.8038496882515,Eletrônicos,user_082,São Paulo,4,147
+txn_normal_1149,2023-01-01 13:14:02,230.40395544517006,Restaurante,user_031,Rio de Janeiro,3,60
+txn_normal_0038,2023-01-01 12:29:32,222.85323910011005,Vestuário,user_064,São Paulo,1,321
+txn_normal_0713,2023-01-01 13:02:22,311.0980309806993,Viagem,user_016,Belo Horizonte,1,153
+txn_normal_0090,2023-01-01 20:32:33,422.63827233649727,Eletrônicos,user_099,Belo Horizonte,1,315
+txn_anomaly_0036,2023-01-01 08:33:40,6960.252861425878,Vestuário,user_207,São Paulo,2,291
+txn_normal_1205,2023-01-01 18:52:48,186.31420131191757,Restaurante,user_049,Belo Horizonte,2,293
+txn_normal_0875,2023-01-01 17:11:13,389.46555235708865,Supermercado,user_085,Rio de Janeiro,1,240
+txn_normal_1351,2023-01-01 10:26:51,220.1548413616032,Eletrônicos,user_099,Curitiba,2,317
+txn_normal_1889,2023-01-01 15:03:32,380.3997781663174,Supermercado,user_013,Rio de Janeiro,2,193
+txn_normal_1093,2023-01-01 20:12:20,467.37243224149285,Supermercado,user_085,São Paulo,2,266
+txn_normal_1155,2023-01-01 11:04:10,326.7189049405914,Vestuário,user_095,Belo Horizonte,1,212
+txn_normal_1781,2023-01-01 13:19:34,471.7439025181681,Vestuário,user_063,São Paulo,1,254
+txn_anomaly_0058,2023-01-01 16:35:54,55.06662204914831,Vestuário,user_248,Curitiba,20,5
+txn_normal_0499,2023-01-01 08:02:46,440.9533196567819,Restaurante,user_040,Belo Horizonte,1,168
+txn_normal_0338,2023-01-01 14:48:54,82.25173808607913,Eletrônicos,user_018,Belo Horizonte,4,117
+txn_normal_1188,2023-01-01 16:18:30,120.81428390303802,Supermercado,user_042,São Paulo,4,27
+txn_normal_0028,2023-01-01 16:59:58,401.18911124243004,Viagem,user_003,Curitiba,4,350
+txn_normal_1217,2023-01-01 15:35:50,312.27353042293896,Eletrônicos,user_010,Curitiba,4,144
+txn_normal_1399,2023-01-01 22:22:40,43.895353347654414,Supermercado,user_098,Curitiba,3,270
+txn_normal_1820,2023-01-01 09:41:50,271.46649954993165,Vestuário,user_084,Curitiba,1,7
+txn_normal_0945,2023-01-01 19:24:39,140.72932922257712,Viagem,user_068,Rio de Janeiro,2,145
+txn_normal_0169,2023-01-01 14:34:02,223.06539591583567,Supermercado,user_044,Belo Horizonte,2,106
+txn_normal_1404,2023-01-01 17:57:11,131.30660898947448,Eletrônicos,user_072,Belo Horizonte,4,160
+txn_normal_1197,2023-01-01 11:34:52,38.52658091691643,Restaurante,user_052,Curitiba,4,159
+txn_normal_1253,2023-01-01 17:08:58,384.675350580915,Vestuário,user_060,São Paulo,3,274
+txn_normal_1613,2023-01-01 17:01:11,376.53702227737847,Eletrônicos,user_007,Belo Horizonte,4,132
+txn_normal_0912,2023-01-01 21:35:35,104.41143427848316,Vestuário,user_052,Belo Horizonte,1,304
+txn_normal_0491,2023-01-01 12:29:34,202.30451125244522,Restaurante,user_091,Rio de Janeiro,2,21
+txn_normal_0953,2023-01-01 16:11:06,136.4727451549732,Eletrônicos,user_045,Belo Horizonte,2,95
+txn_normal_1097,2023-01-01 15:53:03,92.43592376316101,Viagem,user_030,Curitiba,4,295
+txn_normal_1032,2023-01-01 08:20:26,75.67219821630597,Supermercado,user_070,Belo Horizonte,4,48
+txn_normal_0587,2023-01-01 14:39:12,370.7521524389896,Supermercado,user_002,Curitiba,3,186
+txn_normal_0750,2023-01-01 09:03:48,414.9069973655915,Supermercado,user_093,Curitiba,2,176
+txn_normal_0657,2023-01-01 17:12:58,60.599854348773725,Viagem,user_054,Curitiba,2,98
+txn_normal_0234,2023-01-01 13:11:02,300.2516610107475,Viagem,user_018,Curitiba,1,229
+txn_normal_0732,2023-01-01 17:10:27,341.2914626490324,Eletrônicos,user_087,São Paulo,3,32
+txn_anomaly_0088,2023-01-01 11:28:36,7389.69318176679,Vestuário,user_223,Rio de Janeiro,4,301
+txn_normal_1632,2023-01-01 20:02:01,449.320047234946,Viagem,user_071,São Paulo,4,36
+txn_normal_1156,2023-01-01 15:53:25,320.55380952617094,Supermercado,user_080,Rio de Janeiro,2,325
+txn_normal_1469,2023-01-01 15:58:28,35.67878636598742,Supermercado,user_022,São Paulo,2,307
+txn_normal_1424,2023-01-01 10:57:46,62.00145509680219,Vestuário,user_021,Rio de Janeiro,1,62
+txn_normal_1627,2023-01-01 20:09:49,408.25085811560814,Viagem,user_053,Rio de Janeiro,1,355
+txn_normal_0934,2023-01-01 16:58:08,138.6176538712896,Restaurante,user_035,Rio de Janeiro,1,224
+txn_normal_1209,2023-01-01 13:19:32,339.4184997314445,Eletrônicos,user_046,São Paulo,2,317
+txn_normal_1065,2023-01-01 18:38:24,257.6232974365348,Viagem,user_010,Belo Horizonte,3,215
+txn_normal_0108,2023-01-01 10:46:22,75.22729500786434,Restaurante,user_018,Rio de Janeiro,2,231
+txn_normal_1542,2023-01-01 14:20:54,293.5068208105454,Vestuário,user_057,Rio de Janeiro,1,130
+txn_normal_0568,2023-01-01 16:44:14,412.0933912615275,Restaurante,user_011,São Paulo,2,34
+txn_normal_1167,2023-01-01 16:27:34,384.4832830540038,Eletrônicos,user_010,São Paulo,2,89
+txn_normal_1174,2023-01-01 22:03:59,280.6375337133962,Viagem,user_020,Rio de Janeiro,3,109
+txn_normal_0890,2023-01-01 14:25:25,15.17005000059303,Vestuário,user_016,Belo Horizonte,4,258
+txn_normal_0947,2023-01-01 11:01:51,14.815500759196045,Vestuário,user_043,Belo Horizonte,2,26
+txn_normal_1048,2023-01-01 10:52:38,203.1533423539549,Viagem,user_082,Belo Horizonte,2,242
+txn_normal_1352,2023-01-01 21:32:15,124.454412768956,Viagem,user_041,Rio de Janeiro,1,179
+txn_normal_1777,2023-01-01 19:42:35,114.86348545519837,Restaurante,user_006,São Paulo,3,269
+txn_normal_1446,2023-01-01 18:15:54,281.69966601737366,Supermercado,user_033,Belo Horizonte,4,51
+txn_normal_0884,2023-01-01 21:43:52,312.4375956672845,Supermercado,user_087,Curitiba,1,143
+txn_normal_1672,2023-01-01 08:07:11,270.65829240375655,Supermercado,user_079,São Paulo,4,222
+txn_normal_0850,2023-01-01 11:36:44,367.1462041992872,Supermercado,user_017,São Paulo,2,161
+txn_normal_0734,2023-01-01 21:27:16,89.34227324978471,Restaurante,user_080,Rio de Janeiro,2,97
+txn_normal_0717,2023-01-01 10:16:27,16.68067171385252,Restaurante,user_054,Rio de Janeiro,3,292
+txn_normal_0454,2023-01-01 20:32:59,30.722957119113786,Restaurante,user_089,Curitiba,3,179
+txn_normal_0264,2023-01-01 08:12:03,360.91383036936486,Supermercado,user_089,Rio de Janeiro,3,267
+txn_normal_0075,2023-01-01 20:36:37,81.83636262909249,Restaurante,user_008,Curitiba,1,325
+txn_normal_1657,2023-01-01 22:49:00,249.8979221590932,Restaurante,user_055,Rio de Janeiro,1,176
+txn_normal_0444,2023-01-01 09:38:02,113.44511087140673,Restaurante,user_093,Belo Horizonte,1,299
+txn_normal_0395,2023-01-01 10:39:13,241.75595958679997,Restaurante,user_048,São Paulo,4,316
+txn_normal_0176,2023-01-01 22:23:34,28.133741010591386,Vestuário,user_060,São Paulo,2,135
+txn_normal_1042,2023-01-01 15:23:49,379.2030466687755,Vestuário,user_016,Rio de Janeiro,4,336
+txn_normal_1735,2023-01-01 21:08:37,467.35399457956464,Eletrônicos,user_083,Curitiba,4,52
+txn_normal_1401,2023-01-01 11:47:50,61.701686736588535,Eletrônicos,user_095,Rio de Janeiro,2,340
+txn_normal_1380,2023-01-01 19:04:54,449.97007133938354,Viagem,user_030,São Paulo,2,215
+txn_normal_0595,2023-01-01 12:50:20,320.2056002147614,Vestuário,user_050,Curitiba,2,117
+txn_normal_0061,2023-01-01 08:32:50,290.9498504192473,Restaurante,user_012,Belo Horizonte,1,172
+txn_normal_1296,2023-01-01 17:40:30,337.0336099615772,Viagem,user_003,Belo Horizonte,2,56
+txn_normal_0872,2023-01-01 11:17:04,312.4251712873137,Restaurante,user_002,Curitiba,1,334
+txn_normal_1489,2023-01-01 10:37:03,425.20397641558975,Viagem,user_059,São Paulo,3,335
+txn_normal_1878,2023-01-01 17:37:24,73.00285779047046,Vestuário,user_041,Belo Horizonte,1,45
+txn_normal_0278,2023-01-01 15:37:07,323.68242967580136,Supermercado,user_067,Rio de Janeiro,4,62
+txn_normal_0036,2023-01-01 21:20:47,18.856928171605226,Vestuário,user_008,Belo Horizonte,3,132
+txn_anomaly_0075,2023-01-01 16:07:29,93.76741228578653,Vestuário,user_204,Curitiba,16,2
+txn_normal_0662,2023-01-01 10:45:13,457.31729792092193,Viagem,user_015,Rio de Janeiro,1,287
+txn_anomaly_0053,2023-01-01 05:02:04,217.73972526088806,Restaurante,user_219,São Paulo,1,599
+txn_normal_1444,2023-01-01 12:13:52,96.78951422518554,Viagem,user_042,Rio de Janeiro,1,264
+txn_normal_0977,2023-01-01 08:42:27,225.96213013128914,Vestuário,user_072,Belo Horizonte,1,46
+txn_normal_1571,2023-01-01 14:05:01,257.1465451063957,Viagem,user_047,Belo Horizonte,1,294
+txn_normal_0738,2023-01-01 19:52:59,155.70715034115145,Supermercado,user_004,São Paulo,4,222
+txn_normal_0191,2023-01-01 15:02:58,234.14172790911658,Vestuário,user_029,São Paulo,3,230
+txn_normal_0919,2023-01-01 17:26:20,448.02742022829534,Vestuário,user_080,Curitiba,2,186
+txn_normal_0456,2023-01-01 22:24:29,475.87862678835563,Eletrônicos,user_021,Curitiba,3,215
+txn_normal_0675,2023-01-01 15:58:02,290.7906783033177,Supermercado,user_011,Belo Horizonte,1,100
+txn_normal_0760,2023-01-01 21:40:35,70.40905185648396,Eletrônicos,user_023,Belo Horizonte,2,29
+txn_normal_1807,2023-01-01 20:01:27,104.83625288739057,Supermercado,user_023,Belo Horizonte,4,95
+txn_normal_1602,2023-01-01 19:26:20,316.32158494934345,Vestuário,user_013,Rio de Janeiro,3,51
+txn_normal_0728,2023-01-01 18:18:05,30.373690324830946,Vestuário,user_042,Curitiba,1,359
+txn_normal_0412,2023-01-01 17:58:56,295.2773858311158,Vestuário,user_033,Curitiba,3,294
+txn_normal_1098,2023-01-01 22:37:42,326.16644583113253,Vestuário,user_052,Curitiba,3,26
+txn_normal_0825,2023-01-01 15:50:05,477.480709888262,Vestuário,user_088,Belo Horizonte,2,332
+txn_normal_1639,2023-01-01 08:32:30,436.92320696555737,Supermercado,user_090,São Paulo,4,136
+txn_normal_0616,2023-01-01 16:21:12,215.11756470998168,Eletrônicos,user_048,Rio de Janeiro,3,110
+txn_normal_0114,2023-01-01 14:47:03,84.9009782003227,Restaurante,user_062,Rio de Janeiro,2,99
+txn_normal_0417,2023-01-01 18:44:03,257.67300777612047,Supermercado,user_027,Rio de Janeiro,2,238
+txn_anomaly_0010,2023-01-01 13:16:41,62.642444919060445,Supermercado,user_203,Curitiba,24,7
+txn_normal_0969,2023-01-01 19:25:07,360.50793215927644,Viagem,user_015,Belo Horizonte,4,261
+txn_normal_0604,2023-01-01 11:54:15,307.35500821466815,Restaurante,user_007,Curitiba,1,243
+txn_anomaly_0018,2023-01-01 00:43:36,165.28544447017498,Restaurante,user_232,São Paulo,1,394
+txn_normal_0089,2023-01-01 08:10:20,493.7653033643228,Supermercado,user_063,São Paulo,2,319
+txn_normal_0848,2023-01-01 11:16:16,408.0398283210602,Viagem,user_050,Curitiba,2,172
+txn_normal_1519,2023-01-01 15:24:21,122.94247030224523,Viagem,user_030,Curitiba,3,239
+txn_anomaly_0017,2023-01-01 13:26:37,364.9553042804746,Viagem,user_241,Cidade Pequena Distante,1,289
+txn_normal_0753,2023-01-01 13:31:04,20.300342295846406,Viagem,user_042,São Paulo,4,334
+txn_normal_0498,2023-01-01 21:27:45,300.9632155967116,Eletrônicos,user_091,Curitiba,2,275
+txn_normal_1276,2023-01-01 13:20:08,245.26612042280286,Viagem,user_075,São Paulo,4,6
+txn_normal_1325,2023-01-01 08:22:53,380.42326597631154,Vestuário,user_049,São Paulo,4,262
+txn_normal_0011,2023-01-01 20:00:24,155.17401779500037,Eletrônicos,user_088,São Paulo,4,140
+txn_normal_0396,2023-01-01 20:37:48,299.5250462228103,Eletrônicos,user_062,Curitiba,3,357
+txn_normal_0284,2023-01-01 12:19:05,422.59631424444643,Supermercado,user_072,Belo Horizonte,4,165
+txn_normal_1066,2023-01-01 12:59:51,336.16874530672027,Vestuário,user_096,Rio de Janeiro,3,145
+txn_normal_1191,2023-01-01 13:39:57,104.49140838170035,Vestuário,user_037,São Paulo,1,334
+txn_normal_1744,2023-01-01 17:44:47,77.09022375787482,Supermercado,user_083,São Paulo,1,349
+txn_normal_0690,2023-01-01 11:18:12,349.96472291403177,Supermercado,user_021,Curitiba,1,31
+txn_normal_1752,2023-01-01 15:12:22,307.361305822455,Eletrônicos,user_062,Rio de Janeiro,4,346
+txn_normal_1875,2023-01-01 10:01:51,157.46661544167821,Viagem,user_011,Rio de Janeiro,1,295
+txn_normal_0689,2023-01-01 20:51:59,378.7094854173822,Viagem,user_037,São Paulo,3,232
+txn_normal_0851,2023-01-01 09:58:19,176.02350638717562,Restaurante,user_009,São Paulo,3,159
+txn_normal_0159,2023-01-01 16:53:21,207.24952136252045,Restaurante,user_004,Rio de Janeiro,2,33
+txn_normal_0895,2023-01-01 21:03:39,476.52686930993264,Viagem,user_025,Curitiba,4,94
+txn_normal_1575,2023-01-01 10:20:23,490.1580720633664,Vestuário,user_018,São Paulo,2,156
+txn_normal_0257,2023-01-01 21:13:09,305.68981075687515,Supermercado,user_046,São Paulo,3,89
+txn_normal_0335,2023-01-01 11:55:23,285.12744810016665,Supermercado,user_030,Rio de Janeiro,3,163
+txn_normal_1879,2023-01-01 10:13:20,62.15931852822287,Restaurante,user_037,São Paulo,2,20
+txn_normal_1039,2023-01-01 16:02:32,247.79241069024053,Eletrônicos,user_051,São Paulo,1,52
+txn_normal_0515,2023-01-01 21:33:54,354.81289201823495,Vestuário,user_088,Belo Horizonte,1,343
+txn_normal_1348,2023-01-01 10:36:06,22.61378077613594,Restaurante,user_045,São Paulo,2,70
+txn_normal_1015,2023-01-01 10:49:41,223.2934348519407,Viagem,user_039,Curitiba,1,293
+txn_normal_0768,2023-01-01 13:18:17,98.63703167566018,Vestuário,user_055,Curitiba,4,191
+txn_normal_1746,2023-01-01 20:19:01,343.79253633255894,Restaurante,user_047,Belo Horizonte,3,169
+txn_normal_0761,2023-01-01 20:42:13,79.85271196622664,Vestuário,user_018,Belo Horizonte,4,323
+txn_normal_1246,2023-01-01 14:03:40,408.2391231092929,Viagem,user_051,Belo Horizonte,4,42
+txn_normal_1203,2023-01-01 08:16:23,45.47080514951207,Viagem,user_062,Belo Horizonte,3,116
+txn_normal_1467,2023-01-01 14:13:58,142.4877853022216,Viagem,user_094,São Paulo,3,159
+txn_anomaly_0083,2023-01-01 17:07:17,173.63690424916336,Viagem,user_227,Cidade Pequena Distante,1,829
+txn_normal_0521,2023-01-01 19:16:05,103.79956344477583,Eletrônicos,user_005,São Paulo,4,338
+txn_normal_0022,2023-01-01 08:50:41,247.56668596590177,Vestuário,user_024,Belo Horizonte,3,164
+txn_normal_0356,2023-01-01 20:38:21,211.76511537640917,Vestuário,user_088,Belo Horizonte,4,298
+txn_normal_1277,2023-01-01 15:42:41,264.38988939152483,Viagem,user_057,São Paulo,3,199
+txn_normal_1312,2023-01-01 15:13:32,476.1842225173636,Supermercado,user_080,Curitiba,4,194
+txn_normal_1682,2023-01-01 21:11:48,94.57846532211452,Supermercado,user_024,São Paulo,2,22
+txn_normal_0340,2023-01-01 22:26:14,321.72690870703406,Vestuário,user_075,Belo Horizonte,1,94
+txn_normal_0431,2023-01-01 18:10:56,226.19961969111,Restaurante,user_081,Belo Horizonte,1,223
+txn_normal_0473,2023-01-01 11:49:10,394.7428761427201,Vestuário,user_022,São Paulo,1,63
+txn_normal_0217,2023-01-01 15:10:12,299.229330053955,Eletrônicos,user_072,São Paulo,2,324
+txn_normal_0911,2023-01-01 12:14:16,162.57715054736633,Supermercado,user_037,São Paulo,3,49
+txn_normal_1227,2023-01-01 18:58:21,299.16242890400565,Supermercado,user_041,Belo Horizonte,4,77
+txn_normal_1596,2023-01-01 21:02:48,303.65384749213456,Viagem,user_067,Rio de Janeiro,2,279
+txn_normal_1011,2023-01-01 09:10:38,211.36185065155385,Supermercado,user_090,Rio de Janeiro,1,104
+txn_anomaly_0049,2023-01-01 08:47:20,3989.9461303294584,Supermercado,user_203,Rio de Janeiro,2,227
+txn_normal_0093,2023-01-01 20:03:00,477.485003356774,Eletrônicos,user_032,Rio de Janeiro,4,99
+txn_normal_1008,2023-01-01 17:41:43,423.0432864035366,Supermercado,user_056,Belo Horizonte,3,166
+txn_normal_1070,2023-01-01 21:27:13,254.56324247272718,Vestuário,user_030,São Paulo,4,330
+txn_normal_1092,2023-01-01 19:16:32,267.7138226817151,Vestuário,user_080,São Paulo,1,293
+txn_anomaly_0014,2023-01-01 13:02:20,553.4364159095264,Viagem,user_204,Cidade Pequena Distante,1,249
+txn_normal_1308,2023-01-01 21:19:02,133.76714327551485,Restaurante,user_082,Rio de Janeiro,4,232
+txn_normal_0696,2023-01-01 11:28:43,50.19160575362072,Supermercado,user_077,Rio de Janeiro,1,110
+txn_normal_1827,2023-01-01 21:20:37,359.8948763097441,Viagem,user_060,Rio de Janeiro,4,147
+txn_normal_0996,2023-01-01 18:36:17,119.57018369840574,Vestuário,user_012,São Paulo,3,274
+txn_normal_0153,2023-01-01 21:30:54,79.13010590107965,Supermercado,user_007,Rio de Janeiro,3,165
+txn_normal_1099,2023-01-01 15:32:57,212.9244421437582,Viagem,user_064,Belo Horizonte,3,11
+txn_normal_1718,2023-01-01 13:07:18,18.98581061521844,Eletrônicos,user_058,Rio de Janeiro,2,26
+txn_anomaly_0097,2023-01-01 00:14:35,193.77159034627883,Restaurante,user_246,São Paulo,2,74
+txn_normal_0789,2023-01-01 18:34:36,77.43856985519706,Viagem,user_042,São Paulo,4,145
+txn_normal_0580,2023-01-01 17:43:10,435.63342351347853,Eletrônicos,user_090,Rio de Janeiro,2,350
+txn_normal_0703,2023-01-01 17:26:48,168.92139490224383,Supermercado,user_049,Curitiba,2,320
+txn_normal_1212,2023-01-01 08:26:56,412.21171598537694,Restaurante,user_075,São Paulo,1,75
+txn_normal_1295,2023-01-01 13:30:15,410.77304664789534,Eletrônicos,user_046,São Paulo,1,56
+txn_normal_1665,2023-01-01 14:42:26,208.06782150767594,Eletrônicos,user_034,São Paulo,1,66
+txn_normal_1260,2023-01-01 08:29:20,45.14855152930511,Vestuário,user_013,São Paulo,1,243
+txn_normal_0487,2023-01-01 19:27:41,394.36622042167465,Restaurante,user_085,Curitiba,2,256
+txn_normal_0559,2023-01-01 14:46:53,130.2226339414434,Restaurante,user_015,Rio de Janeiro,4,156
+txn_normal_1141,2023-01-01 22:50:48,157.81449839926293,Restaurante,user_048,Belo Horizonte,2,16
+txn_normal_1119,2023-01-01 17:10:37,365.8887151807208,Restaurante,user_062,Belo Horizonte,2,149
+txn_normal_0801,2023-01-01 17:47:20,77.27701603062941,Restaurante,user_072,Belo Horizonte,4,116
+txn_normal_0512,2023-01-01 11:51:52,114.56274050808787,Restaurante,user_081,Belo Horizonte,1,80
+txn_normal_0633,2023-01-01 13:46:00,224.7075204916888,Vestuário,user_099,Belo Horizonte,2,212
+txn_anomaly_0021,2023-01-01 16:16:27,154.07537801183287,Viagem,user_222,Cidade Pequena Distante,2,244
+txn_normal_1787,2023-01-01 19:27:21,438.3108600724433,Restaurante,user_024,Belo Horizonte,3,290
+txn_normal_1545,2023-01-01 15:30:16,404.4572912578544,Eletrônicos,user_061,Curitiba,4,245
+txn_normal_1150,2023-01-01 22:44:51,141.1575342252058,Vestuário,user_010,Rio de Janeiro,3,61
+txn_normal_0790,2023-01-01 17:59:55,340.69766949653587,Eletrônicos,user_052,Belo Horizonte,2,250
+txn_normal_0116,2023-01-01 13:01:19,498.6552120365132,Vestuário,user_075,Curitiba,3,138
+txn_normal_0740,2023-01-01 11:49:51,134.58800340798365,Restaurante,user_043,Belo Horizonte,4,338
+txn_normal_1690,2023-01-01 10:57:43,62.17606400950613,Restaurante,user_068,Rio de Janeiro,4,322
+txn_normal_1081,2023-01-01 16:47:44,213.4262812680821,Supermercado,user_025,Curitiba,2,112
+txn_normal_0830,2023-01-01 08:51:20,382.83412905903975,Viagem,user_070,São Paulo,1,183
+txn_normal_0119,2023-01-01 11:32:19,358.36671463000664,Eletrônicos,user_012,Belo Horizonte,1,94
+txn_normal_0656,2023-01-01 08:39:59,301.4752159559357,Restaurante,user_030,Belo Horizonte,4,112
+txn_anomaly_0007,2023-01-01 22:39:55,5201.878029101237,Vestuário,user_225,São Paulo,3,190
+txn_normal_0635,2023-01-01 19:00:42,461.96006748835043,Supermercado,user_062,Belo Horizonte,3,107
+txn_normal_0369,2023-01-01 11:33:25,24.388437960172237,Viagem,user_099,São Paulo,4,269
+txn_normal_0268,2023-01-01 17:23:57,113.90197155503105,Eletrônicos,user_042,Curitiba,4,212
+txn_normal_0655,2023-01-01 12:55:58,47.07394091301432,Viagem,user_093,São Paulo,1,63
+txn_normal_0935,2023-01-01 14:19:24,348.1603276641839,Vestuário,user_076,Rio de Janeiro,3,210
+txn_normal_0822,2023-01-01 13:50:29,388.8599156167915,Supermercado,user_098,Rio de Janeiro,4,327
+txn_normal_0866,2023-01-01 11:26:52,296.12045173795633,Restaurante,user_048,Belo Horizonte,3,73
+txn_normal_0046,2023-01-01 15:45:15,105.1942372209007,Vestuário,user_087,Belo Horizonte,4,358
+txn_normal_1373,2023-01-01 13:32:06,325.3523491425119,Vestuário,user_095,Curitiba,2,55
+txn_normal_1708,2023-01-01 13:36:36,172.71620650367203,Eletrônicos,user_033,Curitiba,1,266
+txn_normal_0991,2023-01-01 10:21:23,62.53897316215885,Restaurante,user_053,Curitiba,4,72
+txn_normal_0876,2023-01-01 14:19:23,180.03114435197796,Eletrônicos,user_001,Rio de Janeiro,2,298
+txn_normal_0773,2023-01-01 18:22:31,368.1310154278818,Viagem,user_018,Belo Horizonte,3,229
+txn_normal_1219,2023-01-01 18:08:49,299.49977869879876,Eletrônicos,user_099,Curitiba,4,181
+txn_anomaly_0099,2023-01-01 14:28:22,341.2692037333363,Viagem,user_221,Cidade Pequena Distante,1,297
+txn_normal_0004,2023-01-01 21:46:50,189.51730321390895,Vestuário,user_055,Curitiba,4,135
+txn_normal_1003,2023-01-01 08:27:51,212.7159556359149,Viagem,user_008,Curitiba,2,240
+txn_normal_1723,2023-01-01 20:13:16,438.50759456865774,Vestuário,user_093,Curitiba,4,284
+txn_normal_0263,2023-01-01 20:46:27,338.34705695936145,Restaurante,user_008,Curitiba,2,162
+txn_normal_1569,2023-01-01 14:42:49,411.362589827067,Eletrônicos,user_018,Curitiba,2,66
+txn_normal_1830,2023-01-01 08:57:02,385.9663675162876,Viagem,user_023,São Paulo,2,343
+txn_normal_0443,2023-01-01 13:59:01,399.31261680046686,Supermercado,user_090,São Paulo,4,115
+txn_normal_1002,2023-01-01 09:57:19,18.28727196158759,Supermercado,user_089,São Paulo,2,200
+txn_normal_1077,2023-01-01 19:38:38,356.5418808843574,Vestuário,user_078,São Paulo,2,136
+txn_normal_0837,2023-01-01 17:32:14,477.27997783654786,Vestuário,user_055,Curitiba,3,189
+txn_normal_1790,2023-01-01 18:23:33,357.5432857182084,Vestuário,user_033,Belo Horizonte,1,58
+txn_normal_0304,2023-01-01 08:34:48,30.890272550646042,Vestuário,user_011,Belo Horizonte,1,312
+txn_normal_1365,2023-01-01 22:45:28,309.3214409232567,Supermercado,user_052,Rio de Janeiro,4,248
+txn_normal_1557,2023-01-01 17:10:30,389.0872235771137,Vestuário,user_095,Rio de Janeiro,3,176
+txn_normal_0313,2023-01-01 10:06:50,485.66747925862836,Vestuário,user_051,Belo Horizonte,2,265
+txn_normal_0149,2023-01-01 17:18:45,192.92156497707893,Supermercado,user_097,Belo Horizonte,3,292
+txn_normal_1148,2023-01-01 16:57:55,465.59794408894646,Eletrônicos,user_031,Belo Horizonte,1,270
+txn_normal_1213,2023-01-01 15:28:14,348.1126537309208,Restaurante,user_076,Rio de Janeiro,4,135
+txn_normal_0574,2023-01-01 16:27:30,422.7394973274677,Vestuário,user_098,São Paulo,4,211
+txn_normal_0050,2023-01-01 13:44:31,234.059929190727,Vestuário,user_094,Belo Horizonte,3,315
+txn_normal_1552,2023-01-01 13:04:49,23.0352561623163,Supermercado,user_087,Rio de Janeiro,4,19
+txn_normal_0726,2023-01-01 10:25:22,482.10517426242046,Restaurante,user_077,Curitiba,1,24
+txn_normal_0833,2023-01-01 12:06:43,490.58896465314655,Supermercado,user_046,São Paulo,4,210
+txn_normal_1377,2023-01-01 19:45:09,484.72005632685455,Restaurante,user_029,Rio de Janeiro,4,151
+txn_normal_1115,2023-01-01 09:10:53,80.56157972071284,Eletrônicos,user_031,Belo Horizonte,2,38
+txn_normal_1166,2023-01-01 20:24:12,335.5808219756972,Supermercado,user_088,Rio de Janeiro,4,37
+txn_normal_0470,2023-01-01 16:31:10,425.05980522211075,Eletrônicos,user_087,São Paulo,4,49
+txn_normal_0971,2023-01-01 18:37:25,435.98262748625024,Supermercado,user_062,Belo Horizonte,2,178
+txn_normal_0653,2023-01-01 19:34:21,466.4619080116457,Restaurante,user_040,Rio de Janeiro,2,349
+txn_normal_0399,2023-01-01 20:10:45,438.36903709573613,Restaurante,user_011,São Paulo,3,50
+txn_normal_0511,2023-01-01 16:16:33,426.73109123281046,Restaurante,user_041,São Paulo,1,145
+txn_normal_0320,2023-01-01 21:19:20,472.10716049490674,Vestuário,user_032,Belo Horizonte,2,117
+txn_normal_0019,2023-01-01 09:41:44,88.99843075446216,Eletrônicos,user_006,Curitiba,4,112
+txn_normal_0684,2023-01-01 12:58:25,202.51860335765772,Eletrônicos,user_047,Belo Horizonte,4,302
+txn_normal_0035,2023-01-01 21:17:01,149.1212776213582,Restaurante,user_080,São Paulo,1,165
+txn_normal_0902,2023-01-01 09:42:34,436.0714991893401,Eletrônicos,user_098,São Paulo,2,264
+txn_normal_1778,2023-01-01 12:26:12,88.43631168849801,Eletrônicos,user_066,Rio de Janeiro,1,284
+txn_normal_0827,2023-01-01 21:28:21,214.5234433412825,Restaurante,user_084,Rio de Janeiro,1,46
+txn_normal_1853,2023-01-01 13:33:07,463.07050202287456,Eletrônicos,user_045,Rio de Janeiro,4,260
+txn_normal_0407,2023-01-01 13:02:15,452.20212057006245,Supermercado,user_081,São Paulo,2,272
+txn_normal_0920,2023-01-01 12:55:20,446.316064520532,Supermercado,user_047,Rio de Janeiro,1,97
+txn_normal_0537,2023-01-01 16:26:25,222.8576263132388,Restaurante,user_092,São Paulo,3,45
+txn_normal_0758,2023-01-01 13:33:40,58.023765542563126,Eletrônicos,user_044,São Paulo,2,212
+txn_anomaly_0004,2023-01-01 03:09:21,73.13886146525707,Restaurante,user_243,São Paulo,1,593
+txn_normal_1062,2023-01-01 11:21:49,60.142767971690944,Restaurante,user_090,Belo Horizonte,3,198
+txn_normal_1199,2023-01-01 19:03:10,426.7507094687627,Viagem,user_073,Curitiba,4,333
+txn_normal_0245,2023-01-01 17:19:52,30.370700934692128,Supermercado,user_088,Belo Horizonte,3,130
+txn_normal_1416,2023-01-01 09:25:39,409.8564161280135,Restaurante,user_055,Belo Horizonte,4,138
+txn_normal_1127,2023-01-01 09:38:14,424.2116880874761,Eletrônicos,user_075,Rio de Janeiro,3,200
+txn_normal_0784,2023-01-01 16:47:42,43.01466704574361,Supermercado,user_010,Rio de Janeiro,1,248
+txn_normal_1742,2023-01-01 18:45:07,384.40557010436095,Viagem,user_035,Belo Horizonte,4,311
+txn_normal_0489,2023-01-01 20:44:09,245.6361718354744,Vestuário,user_009,Rio de Janeiro,4,251
+txn_normal_0154,2023-01-01 10:47:18,111.8642650215534,Vestuário,user_029,Curitiba,2,6
+txn_normal_0961,2023-01-01 17:47:30,419.13715498465154,Restaurante,user_009,Curitiba,1,186
+txn_normal_0853,2023-01-01 19:48:17,177.64497405482854,Viagem,user_003,Rio de Janeiro,1,302
+txn_normal_1311,2023-01-01 20:11:10,153.40900842211784,Eletrônicos,user_038,Curitiba,2,23
+txn_normal_0625,2023-01-01 18:30:28,175.3653595807001,Viagem,user_062,Curitiba,1,131
+txn_normal_0685,2023-01-01 20:03:38,298.2925882817451,Supermercado,user_090,Belo Horizonte,3,287
+txn_normal_1561,2023-01-01 08:47:48,318.71694299579474,Eletrônicos,user_020,São Paulo,3,73
+txn_normal_0569,2023-01-01 09:50:47,327.40937414566764,Supermercado,user_096,Curitiba,2,10
+txn_anomaly_0008,2023-01-01 10:26:07,8410.977999003673,Eletrônicos,user_241,São Paulo,4,253
+txn_normal_0017,2023-01-01 14:48:51,25.400300986499783,Viagem,user_096,Curitiba,2,235
+txn_normal_0127,2023-01-01 09:39:07,298.2702711395778,Restaurante,user_038,São Paulo,3,67
+txn_normal_1346,2023-01-01 09:31:21,491.46367226618025,Restaurante,user_057,São Paulo,3,91
+txn_normal_1279,2023-01-01 20:22:01,391.1928184604573,Supermercado,user_075,Belo Horizonte,1,84
+txn_anomaly_0068,2023-01-01 08:51:14,8236.86914033972,Viagem,user_202,São Paulo,1,108
+txn_normal_0927,2023-01-01 11:23:28,38.29312893884764,Eletrônicos,user_068,Belo Horizonte,4,18
+txn_normal_0980,2023-01-01 20:57:05,408.2969760530113,Viagem,user_066,Rio de Janeiro,2,86
+txn_anomaly_0064,2023-01-01 16:08:48,2089.594442045633,Eletrônicos,user_204,Rio de Janeiro,1,6
+txn_normal_0190,2023-01-01 13:12:55,409.7582312454027,Viagem,user_089,São Paulo,4,102
+txn_normal_1139,2023-01-01 22:21:59,471.5337377576059,Supermercado,user_082,Rio de Janeiro,2,117
+txn_normal_0992,2023-01-01 12:17:49,462.6283839796203,Eletrônicos,user_018,Rio de Janeiro,2,25
+txn_anomaly_0055,2023-01-01 05:48:10,136.62522184143626,Restaurante,user_217,São Paulo,1,292
+txn_normal_1656,2023-01-01 21:26:43,271.6735878885117,Supermercado,user_033,Rio de Janeiro,2,172
+txn_normal_0606,2023-01-01 22:30:54,449.70927423755666,Eletrônicos,user_008,Belo Horizonte,3,226
+txn_normal_0180,2023-01-01 10:58:38,269.1791956733339,Vestuário,user_029,Rio de Janeiro,1,322
+txn_normal_0301,2023-01-01 14:36:21,246.00107480208254,Viagem,user_055,Rio de Janeiro,2,223
+txn_normal_0496,2023-01-01 20:59:06,421.43323129730726,Supermercado,user_040,São Paulo,1,136
+txn_normal_1720,2023-01-01 20:56:57,306.42099846689996,Restaurante,user_099,Curitiba,4,358
+txn_normal_1709,2023-01-01 21:38:40,404.9480872555038,Viagem,user_014,São Paulo,4,235
+txn_normal_1887,2023-01-01 10:18:44,372.3973799423419,Vestuário,user_099,Rio de Janeiro,2,136
+txn_anomaly_0091,2023-01-01 15:02:14,5339.7964486253295,Viagem,user_232,Rio de Janeiro,1,334
+txn_normal_0517,2023-01-01 20:47:34,432.6938308630977,Restaurante,user_076,Curitiba,3,47
+txn_anomaly_0084,2023-01-01 11:04:38,523.7870148951313,Viagem,user_207,Cidade Pequena Distante,2,448
+txn_normal_1069,2023-01-01 19:35:11,14.905101173976849,Viagem,user_066,Rio de Janeiro,3,341
+txn_normal_0476,2023-01-01 11:37:23,179.14418216216316,Vestuário,user_057,Belo Horizonte,3,178
+txn_normal_0157,2023-01-01 13:43:23,474.74212041145677,Eletrônicos,user_074,Rio de Janeiro,4,63
+txn_normal_1243,2023-01-01 17:28:16,113.15895933590038,Vestuário,user_044,São Paulo,1,127
+txn_normal_1195,2023-01-01 22:18:07,216.6693785487017,Vestuário,user_008,Belo Horizonte,3,240
+txn_normal_0016,2023-01-01 18:08:14,135.47347815304875,Supermercado,user_042,Curitiba,1,183
+txn_normal_1535,2023-01-01 12:18:27,497.33397889877244,Eletrônicos,user_094,Belo Horizonte,3,254
+txn_normal_1072,2023-01-01 18:21:53,469.3657744755613,Eletrônicos,user_018,Curitiba,4,317
+txn_anomaly_0071,2023-01-01 17:07:33,6023.152623523354,Restaurante,user_216,Rio de Janeiro,3,159
+txn_normal_0546,2023-01-01 13:10:57,414.1241863000337,Eletrônicos,user_077,Curitiba,2,260
+txn_normal_1539,2023-01-01 22:30:12,173.17374019559966,Eletrônicos,user_089,São Paulo,1,339
+txn_normal_0658,2023-01-01 22:57:20,137.23871108570285,Supermercado,user_031,Curitiba,1,80
+txn_normal_1625,2023-01-01 10:45:26,286.42220244337824,Supermercado,user_100,Belo Horizonte,1,119
+txn_normal_1019,2023-01-01 20:38:32,456.7466456874,Supermercado,user_048,São Paulo,1,138
+txn_normal_1662,2023-01-01 17:20:09,193.9943247901529,Restaurante,user_013,Curitiba,1,200
+txn_normal_1504,2023-01-01 10:06:54,277.4922540407357,Supermercado,user_019,Curitiba,1,160
+txn_normal_0959,2023-01-01 18:29:57,316.76680740059265,Viagem,user_027,Rio de Janeiro,4,11
+txn_normal_1881,2023-01-01 08:50:04,401.5459755482361,Vestuário,user_080,Belo Horizonte,3,310
+txn_normal_0283,2023-01-01 10:39:53,68.71621098864671,Viagem,user_084,Curitiba,4,325
+txn_normal_0797,2023-01-01 10:07:17,141.03348645133275,Vestuário,user_080,Curitiba,3,46
+txn_normal_1626,2023-01-01 14:38:00,157.3212638747646,Supermercado,user_071,Curitiba,3,204
+txn_normal_0225,2023-01-01 11:46:58,316.39928350483444,Restaurante,user_084,Curitiba,4,318
+txn_normal_0026,2023-01-01 17:31:05,270.15794582539684,Vestuário,user_055,Belo Horizonte,4,127
+txn_normal_1770,2023-01-01 10:41:47,113.78165140495838,Viagem,user_041,Curitiba,3,340
+txn_normal_0437,2023-01-01 16:29:46,113.24543229492956,Restaurante,user_019,Rio de Janeiro,4,286
+txn_anomaly_0048,2023-01-01 13:19:17,598.9810330478431,Viagem,user_223,Cidade Pequena Distante,2,556
+txn_normal_1388,2023-01-01 11:48:12,421.30993842854326,Vestuário,user_035,Curitiba,2,132
+txn_normal_0229,2023-01-01 15:40:58,121.94282325233638,Restaurante,user_028,Rio de Janeiro,3,39
+txn_normal_0037,2023-01-01 19:58:50,288.4712156343811,Viagem,user_051,Rio de Janeiro,4,287
+txn_normal_0749,2023-01-01 12:57:32,197.77552931415332,Vestuário,user_059,Belo Horizonte,2,15
+txn_normal_1045,2023-01-01 15:17:48,359.6935387249554,Supermercado,user_007,Curitiba,2,64
+txn_normal_1398,2023-01-01 08:19:57,173.35024067711578,Supermercado,user_075,Rio de Janeiro,1,286
+txn_normal_0469,2023-01-01 21:11:15,180.56684065246117,Restaurante,user_100,São Paulo,3,232
+txn_normal_1692,2023-01-01 22:01:10,331.9619394411433,Restaurante,user_008,Belo Horizonte,4,138
+txn_anomaly_0067,2023-01-01 14:15:39,468.3429379346827,Viagem,user_240,Cidade Pequena Distante,2,402
+txn_normal_0687,2023-01-01 20:16:55,404.76791462803754,Vestuário,user_085,Curitiba,1,94
+txn_normal_1843,2023-01-01 11:14:06,290.78370051354364,Supermercado,user_017,Curitiba,2,218
+txn_normal_0639,2023-01-01 14:27:58,30.334591919708927,Eletrônicos,user_006,Belo Horizonte,4,32
+txn_normal_1712,2023-01-01 21:16:39,369.858274846191,Supermercado,user_086,São Paulo,4,300
+txn_normal_1218,2023-01-01 21:43:47,459.3109454202194,Viagem,user_063,Curitiba,1,272
+txn_normal_1158,2023-01-01 19:28:42,192.60199364813215,Restaurante,user_010,Belo Horizonte,2,208
+txn_normal_1415,2023-01-01 21:38:53,469.4934109180628,Restaurante,user_062,Belo Horizonte,1,325
+txn_normal_1527,2023-01-01 21:04:40,148.1796828156361,Supermercado,user_080,São Paulo,3,84
+txn_normal_1655,2023-01-01 09:20:57,258.5005024937887,Vestuário,user_008,São Paulo,3,272
+txn_normal_1300,2023-01-01 08:56:04,418.11786149474244,Supermercado,user_026,São Paulo,4,43
+txn_normal_1822,2023-01-01 11:50:53,396.9668482859015,Eletrônicos,user_023,Belo Horizonte,4,333
+txn_normal_0800,2023-01-01 22:50:33,123.32716487481817,Vestuário,user_003,Belo Horizonte,2,193
+txn_normal_1603,2023-01-01 12:45:17,354.9285945906371,Vestuário,user_037,São Paulo,2,351
+txn_normal_0160,2023-01-01 14:36:10,94.12285006566871,Supermercado,user_085,Rio de Janeiro,4,45
+txn_normal_0956,2023-01-01 12:29:50,51.781487389721924,Supermercado,user_079,Rio de Janeiro,3,180
+txn_normal_1186,2023-01-01 22:47:38,428.98840912514714,Eletrônicos,user_019,São Paulo,3,245
+txn_normal_0821,2023-01-01 13:12:48,49.77046998722011,Viagem,user_043,Belo Horizonte,1,83
+txn_normal_1681,2023-01-01 08:06:52,406.4269296177674,Vestuário,user_052,Curitiba,3,146
+txn_normal_0877,2023-01-01 19:21:43,27.989342306702653,Supermercado,user_062,Rio de Janeiro,2,149
+txn_normal_0913,2023-01-01 19:52:03,121.46598580983459,Restaurante,user_034,Rio de Janeiro,1,59
+txn_normal_0152,2023-01-01 09:34:31,126.709562712896,Restaurante,user_016,Curitiba,4,169
+txn_normal_1870,2023-01-01 22:33:28,109.2090956269175,Restaurante,user_009,Belo Horizonte,3,302
+txn_normal_1776,2023-01-01 20:17:55,51.08440182219571,Eletrônicos,user_025,Belo Horizonte,3,110
+txn_normal_0509,2023-01-01 12:36:37,360.06784039490867,Eletrônicos,user_065,Belo Horizonte,1,55
+txn_normal_1135,2023-01-01 17:52:16,148.77735106673703,Viagem,user_025,Rio de Janeiro,3,346
+txn_normal_1250,2023-01-01 18:04:56,309.7112810665469,Eletrônicos,user_071,Belo Horizonte,3,253
+txn_normal_1683,2023-01-01 08:37:39,116.77319020953861,Supermercado,user_013,Rio de Janeiro,1,10
+txn_normal_0103,2023-01-01 19:41:21,92.77818090536063,Viagem,user_070,São Paulo,1,237
+txn_normal_1445,2023-01-01 18:16:49,471.073236042969,Viagem,user_057,Rio de Janeiro,3,308
+txn_normal_1443,2023-01-01 15:43:20,339.5359780766883,Vestuário,user_040,Belo Horizonte,3,66
+txn_normal_0586,2023-01-01 15:45:49,283.09521309077394,Eletrônicos,user_056,Rio de Janeiro,3,236
+txn_normal_1768,2023-01-01 08:35:49,318.89645375763973,Vestuário,user_048,São Paulo,3,248
+txn_normal_1143,2023-01-01 16:56:33,114.01598248990206,Supermercado,user_074,Belo Horizonte,4,220
+txn_normal_0053,2023-01-01 19:52:00,219.8740927206528,Supermercado,user_001,Belo Horizonte,2,100
+txn_normal_0151,2023-01-01 13:56:46,19.658163499638434,Viagem,user_067,Belo Horizonte,1,96
+txn_normal_0403,2023-01-01 21:32:35,66.09894265229352,Supermercado,user_019,Belo Horizonte,4,88
+txn_anomaly_0042,2023-01-01 16:08:35,46.032396986366976,Supermercado,user_226,Curitiba,16,6
+txn_normal_0207,2023-01-01 18:57:22,411.20496524497594,Supermercado,user_098,Rio de Janeiro,2,289
+txn_normal_1894,2023-01-01 09:50:43,446.1564167918066,Vestuário,user_082,Rio de Janeiro,3,256
+txn_normal_1122,2023-01-01 08:11:44,90.20107522756665,Supermercado,user_071,Rio de Janeiro,3,133
+txn_normal_1890,2023-01-01 09:29:50,95.84915783277961,Vestuário,user_033,São Paulo,1,334
+txn_normal_0008,2023-01-01 13:28:17,277.888036878207,Supermercado,user_044,Rio de Janeiro,2,274
+txn_normal_1014,2023-01-01 18:14:07,335.5262896367843,Restaurante,user_087,Belo Horizonte,4,30
+txn_anomaly_0006,2023-01-01 13:05:08,452.14213493963774,Viagem,user_212,Cidade Pequena Distante,1,951
+txn_normal_1060,2023-01-01 18:10:30,63.936142488718026,Eletrônicos,user_100,Rio de Janeiro,3,19
+txn_normal_0452,2023-01-01 16:26:33,73.66566302249363,Vestuário,user_068,Curitiba,2,311
+txn_normal_0253,2023-01-01 16:10:03,287.83796788346723,Supermercado,user_004,Rio de Janeiro,3,86
+txn_normal_1327,2023-01-01 11:52:12,379.12333662083597,Viagem,user_041,Belo Horizonte,2,11
+txn_normal_0896,2023-01-01 08:27:08,410.1610691687955,Vestuário,user_069,Rio de Janeiro,4,186
+txn_normal_1733,2023-01-01 13:59:16,247.68527292595513,Eletrônicos,user_014,Curitiba,1,310
+txn_normal_0880,2023-01-01 19:47:41,62.01857323825894,Restaurante,user_074,Rio de Janeiro,1,184
+txn_normal_1595,2023-01-01 10:45:32,273.5085207250653,Supermercado,user_095,Belo Horizonte,3,296
+txn_normal_1888,2023-01-01 09:28:34,49.8995674663984,Vestuário,user_038,Curitiba,4,176
+txn_normal_0623,2023-01-01 09:15:21,99.59051213572039,Viagem,user_038,Curitiba,3,76
+txn_normal_0345,2023-01-01 11:05:40,392.30440108075015,Vestuário,user_060,São Paulo,3,88
+txn_normal_1702,2023-01-01 13:15:46,432.8026627933484,Restaurante,user_029,Curitiba,3,22
+txn_normal_0262,2023-01-01 13:18:33,467.873653134702,Viagem,user_068,Curitiba,1,56
+txn_normal_1634,2023-01-01 12:17:59,39.16109685634744,Restaurante,user_057,São Paulo,3,58
+txn_normal_1321,2023-01-01 13:49:55,180.17095641481055,Vestuário,user_009,São Paulo,2,33
+txn_normal_1438,2023-01-01 16:44:38,23.885350687858477,Supermercado,user_009,Rio de Janeiro,4,346
+txn_normal_0150,2023-01-01 20:07:00,360.8263921352248,Eletrônicos,user_067,Curitiba,3,259
+txn_normal_0472,2023-01-01 14:43:25,376.2477592323801,Vestuário,user_090,Curitiba,1,123
+txn_normal_0640,2023-01-01 14:36:50,425.5735251576587,Vestuário,user_068,Rio de Janeiro,2,181
+txn_anomaly_0082,2023-01-01 14:51:22,5560.888277761025,Supermercado,user_245,São Paulo,3,152
+txn_normal_1882,2023-01-01 22:13:30,340.7728449220607,Supermercado,user_061,São Paulo,2,236
+txn_normal_0550,2023-01-01 08:03:11,404.8638209827382,Vestuário,user_027,Curitiba,2,27
+txn_normal_1779,2023-01-01 17:33:59,29.839033920869177,Eletrônicos,user_002,Belo Horizonte,4,282
+txn_normal_0928,2023-01-01 17:56:18,154.75679779374482,Vestuário,user_082,São Paulo,2,348
+txn_normal_0488,2023-01-01 14:07:47,97.16518078402149,Restaurante,user_022,São Paulo,3,353
+txn_normal_1811,2023-01-01 14:15:57,233.41363102664403,Restaurante,user_096,Rio de Janeiro,2,316
+txn_normal_1171,2023-01-01 21:28:57,486.53602286049437,Vestuário,user_036,São Paulo,3,12
+txn_normal_0146,2023-01-01 15:18:31,219.1265636150072,Viagem,user_049,São Paulo,1,290
+txn_normal_1704,2023-01-01 17:21:52,89.65786364510451,Vestuário,user_013,São Paulo,4,90
+txn_anomaly_0028,2023-01-01 14:50:03,394.26284069668185,Viagem,user_206,Cidade Pequena Distante,2,527
+txn_normal_0402,2023-01-01 21:44:46,11.030883156182872,Eletrônicos,user_047,Curitiba,2,150
+txn_normal_0954,2023-01-01 13:01:21,314.3420992059995,Vestuário,user_089,Belo Horizonte,4,353
+txn_normal_1877,2023-01-01 11:41:33,363.90180326128734,Vestuário,user_018,Belo Horizonte,4,24
+txn_normal_0659,2023-01-01 13:39:36,266.5573777585119,Eletrônicos,user_065,São Paulo,3,186
+txn_normal_1372,2023-01-01 14:00:48,221.7844619166615,Eletrônicos,user_029,Rio de Janeiro,3,239
+txn_normal_0463,2023-01-01 17:52:43,64.64098403742543,Viagem,user_074,Rio de Janeiro,1,169
+txn_normal_1349,2023-01-01 11:24:43,319.91137918162394,Vestuário,user_047,Curitiba,3,178
+txn_normal_0186,2023-01-01 11:58:07,374.24288321787583,Vestuário,user_093,Belo Horizonte,2,247
+txn_normal_1147,2023-01-01 19:41:49,44.84424702458403,Restaurante,user_036,Curitiba,3,293
+txn_normal_1224,2023-01-01 14:48:07,463.0021985592859,Vestuário,user_023,Curitiba,2,97
+txn_normal_0608,2023-01-01 10:45:10,469.60296340260817,Supermercado,user_050,Belo Horizonte,4,62
+txn_normal_0143,2023-01-01 13:52:23,254.20020864234507,Eletrônicos,user_049,São Paulo,3,154
+txn_normal_0751,2023-01-01 17:24:54,468.3352990404875,Eletrônicos,user_085,Belo Horizonte,3,148
+txn_normal_1534,2023-01-01 20:54:16,267.53389329049844,Eletrônicos,user_088,Curitiba,2,50
+txn_normal_0981,2023-01-01 19:21:36,418.88454389948737,Vestuário,user_024,Curitiba,4,69
+txn_normal_0197,2023-01-01 16:12:42,87.09692325423772,Viagem,user_089,São Paulo,2,195
+txn_normal_1633,2023-01-01 21:24:20,206.81003162454633,Vestuário,user_059,São Paulo,4,318
+txn_normal_0883,2023-01-01 09:19:34,216.63918258769903,Restaurante,user_018,Rio de Janeiro,2,92
+txn_normal_0279,2023-01-01 13:01:22,173.170937398517,Vestuário,user_002,Rio de Janeiro,1,295
+txn_normal_0293,2023-01-01 09:07:20,336.4903740591695,Supermercado,user_068,São Paulo,3,72
+txn_normal_1823,2023-01-01 16:45:54,221.5490836829961,Viagem,user_080,Belo Horizonte,4,315
+txn_normal_0400,2023-01-01 15:43:18,90.94993027554658,Vestuário,user_072,Curitiba,1,113
+txn_normal_0122,2023-01-01 08:36:08,406.8384784687711,Eletrônicos,user_009,Belo Horizonte,3,42
+txn_normal_1207,2023-01-01 22:06:14,426.7104489626747,Vestuário,user_046,Curitiba,2,253
+txn_normal_0202,2023-01-01 10:29:06,72.93987186566378,Supermercado,user_096,Rio de Janeiro,3,64
+txn_normal_1462,2023-01-01 16:39:31,32.666512738029105,Vestuário,user_078,São Paulo,3,232
+txn_normal_0835,2023-01-01 13:21:31,256.63911399701544,Eletrônicos,user_084,São Paulo,2,243
+txn_normal_0246,2023-01-01 09:28:56,476.3877748573871,Restaurante,user_050,Belo Horizonte,4,298
+txn_normal_1439,2023-01-01 19:00:43,115.27875714824907,Restaurante,user_019,Curitiba,3,119
+txn_normal_1753,2023-01-01 14:40:34,177.14032976320445,Restaurante,user_034,São Paulo,2,85
+txn_anomaly_0001,2023-01-01 12:27:00,116.31211070319011,Viagem,user_210,Cidade Pequena Distante,1,828
+txn_normal_1707,2023-01-01 19:06:45,268.5062234648347,Viagem,user_014,Rio de Janeiro,4,131
+txn_normal_1880,2023-01-01 22:06:13,483.5405551004802,Viagem,user_015,Curitiba,4,133
+txn_normal_1153,2023-01-01 10:01:20,185.91037635883922,Vestuário,user_061,Belo Horizonte,1,92
+txn_normal_1661,2023-01-01 15:05:47,260.0043290742798,Supermercado,user_081,Rio de Janeiro,1,219
+txn_normal_1426,2023-01-01 18:58:14,295.0091530097733,Restaurante,user_006,Curitiba,3,348
+txn_normal_0384,2023-01-01 16:13:10,239.69630307760787,Viagem,user_099,São Paulo,3,338
+txn_normal_1758,2023-01-01 11:56:29,29.331456932118805,Vestuário,user_046,Curitiba,3,348
+txn_normal_0854,2023-01-01 19:32:11,281.2436810045554,Eletrônicos,user_056,Belo Horizonte,3,53
+txn_normal_1589,2023-01-01 17:16:58,253.30940866489732,Restaurante,user_072,São Paulo,1,313
+txn_normal_0219,2023-01-01 18:21:50,454.8311399624737,Eletrônicos,user_017,Curitiba,1,50
+txn_normal_0641,2023-01-01 17:12:51,147.99186063175955,Supermercado,user_032,São Paulo,1,232
+txn_normal_0001,2023-01-01 15:52:35,38.460969962417735,Restaurante,user_022,São Paulo,2,348
+txn_normal_0112,2023-01-01 19:18:41,297.4023629837719,Eletrônicos,user_006,Curitiba,2,324
+txn_normal_0698,2023-01-01 09:58:51,492.73553199443063,Supermercado,user_002,Rio de Janeiro,4,277
+txn_anomaly_0015,2023-01-01 08:05:06,5727.551607439878,Restaurante,user_239,Rio de Janeiro,3,69
+txn_normal_0951,2023-01-01 21:06:52,263.9570631374684,Supermercado,user_034,Belo Horizonte,4,35
+txn_normal_1648,2023-01-01 20:47:17,276.82033352320894,Eletrônicos,user_081,São Paulo,3,88
+txn_normal_1636,2023-01-01 13:33:13,233.59087671250492,Vestuário,user_013,Belo Horizonte,4,109
+txn_normal_1885,2023-01-01 16:17:50,52.047278137625035,Supermercado,user_045,Curitiba,2,60
+txn_normal_1410,2023-01-01 11:08:28,41.132503987720106,Restaurante,user_010,Curitiba,2,129
+txn_normal_1409,2023-01-01 16:11:01,124.46842569775605,Viagem,user_062,São Paulo,4,346
+txn_normal_1533,2023-01-01 10:41:17,368.90276827552754,Eletrônicos,user_032,São Paulo,2,41
+txn_normal_1291,2023-01-01 12:42:30,92.42343529243539,Viagem,user_026,São Paulo,2,231
+txn_normal_1808,2023-01-01 14:37:34,272.7861992406214,Vestuário,user_074,Rio de Janeiro,1,258
+txn_normal_0441,2023-01-01 13:10:34,209.48217967155753,Restaurante,user_014,Curitiba,1,177
+txn_normal_1520,2023-01-01 08:36:12,404.0135305699545,Viagem,user_046,São Paulo,1,51
+txn_normal_1136,2023-01-01 11:05:51,85.87228337725293,Viagem,user_077,Rio de Janeiro,1,93
+txn_normal_1715,2023-01-01 20:57:28,399.08970668254995,Eletrônicos,user_026,Curitiba,1,81
+txn_normal_1256,2023-01-01 21:21:10,418.2727470993227,Supermercado,user_059,Rio de Janeiro,1,168
+txn_normal_1863,2023-01-01 18:19:32,203.03268969838646,Supermercado,user_096,Curitiba,4,225
+txn_normal_1631,2023-01-01 16:53:56,259.1189285558672,Vestuário,user_049,Rio de Janeiro,3,33
+txn_normal_1695,2023-01-01 16:27:49,221.5089185503469,Vestuário,user_036,São Paulo,3,292
+txn_normal_1397,2023-01-01 22:58:20,222.39721286923063,Viagem,user_056,São Paulo,2,267
+txn_normal_0663,2023-01-01 22:52:55,392.9377673936692,Restaurante,user_060,Rio de Janeiro,1,62
+txn_normal_1835,2023-01-01 11:20:55,104.07605561308714,Restaurante,user_092,Rio de Janeiro,4,52
+txn_normal_1257,2023-01-01 17:47:20,491.2462403737137,Viagem,user_009,Belo Horizonte,3,74
+txn_normal_1773,2023-01-01 17:02:36,152.87308121236606,Viagem,user_045,Curitiba,2,289
+txn_normal_1700,2023-01-01 21:17:07,65.42182068584272,Restaurante,user_037,Belo Horizonte,3,208
+txn_normal_0317,2023-01-01 17:20:35,448.94915271222214,Vestuário,user_091,Curitiba,2,273
+txn_normal_0648,2023-01-01 09:22:30,211.48676955244744,Supermercado,user_084,Curitiba,3,136
+txn_normal_1434,2023-01-01 15:30:16,90.13738654382824,Eletrônicos,user_097,Rio de Janeiro,1,269
+txn_normal_1479,2023-01-01 12:39:24,201.92104230241898,Viagem,user_035,São Paulo,3,297
+txn_normal_0709,2023-01-01 13:26:01,364.88471847457527,Eletrônicos,user_078,Rio de Janeiro,1,19
+txn_normal_1382,2023-01-01 20:48:56,262.9614333680296,Eletrônicos,user_041,Rio de Janeiro,1,131
+txn_normal_1282,2023-01-01 16:49:16,347.92287463286397,Vestuário,user_023,Rio de Janeiro,2,258
+txn_normal_0972,2023-01-01 15:07:32,469.4541157021301,Viagem,user_071,Curitiba,2,25
+txn_normal_0627,2023-01-01 09:48:19,436.62782672150365,Vestuário,user_077,São Paulo,2,277
+txn_normal_0632,2023-01-01 11:09:43,338.3159435257077,Viagem,user_087,Curitiba,4,317
+txn_normal_1306,2023-01-01 11:07:41,396.6298960590031,Viagem,user_009,São Paulo,1,262
+txn_normal_1400,2023-01-01 20:56:22,191.1715273276175,Restaurante,user_017,Curitiba,1,118
+txn_normal_1408,2023-01-01 16:03:24,67.7899506883744,Viagem,user_090,São Paulo,1,104
+txn_normal_1248,2023-01-01 14:30:06,99.95401740402154,Restaurante,user_031,Curitiba,2,235
+txn_anomaly_0052,2023-01-01 20:58:44,7260.750657951017,Restaurante,user_222,São Paulo,3,271
+txn_normal_1254,2023-01-01 22:01:23,334.331772471245,Vestuário,user_024,Belo Horizonte,1,226
+txn_normal_1496,2023-01-01 17:21:28,238.9482587603302,Eletrônicos,user_038,Curitiba,1,295
+txn_normal_1371,2023-01-01 14:22:27,153.22849281187038,Restaurante,user_056,Rio de Janeiro,3,199
+txn_normal_1529,2023-01-01 10:38:28,292.7561374396367,Supermercado,user_080,Belo Horizonte,4,49
+txn_normal_1663,2023-01-01 20:53:33,388.5239445871938,Viagem,user_041,São Paulo,3,310
+txn_normal_1354,2023-01-01 16:38:48,20.245661044265134,Restaurante,user_060,Rio de Janeiro,1,221
+txn_anomaly_0025,2023-01-01 10:44:22,50.52968353412831,Vestuário,user_240,Curitiba,13,5
+txn_anomaly_0000,2023-01-01 12:57:14,24.65070328214629,Supermercado,user_220,Curitiba,20,9
+txn_normal_1643,2023-01-01 19:09:08,338.7877759538548,Viagem,user_048,Belo Horizonte,2,347
+txn_normal_1848,2023-01-01 22:56:06,415.20502229121433,Vestuário,user_052,Curitiba,4,211
+txn_normal_0795,2023-01-01 15:40:03,393.8597377979608,Eletrônicos,user_055,Belo Horizonte,3,274
+txn_normal_0645,2023-01-01 21:44:24,83.73141279293876,Supermercado,user_067,Rio de Janeiro,4,122
+txn_normal_1012,2023-01-01 21:43:21,55.84410938704442,Viagem,user_059,Rio de Janeiro,2,259
+txn_normal_1839,2023-01-01 09:57:35,308.6885816102474,Viagem,user_009,Rio de Janeiro,1,337
+txn_normal_0556,2023-01-01 08:54:39,67.60013707360778,Viagem,user_066,São Paulo,2,112
+txn_normal_0681,2023-01-01 22:40:24,176.86696938514947,Restaurante,user_048,Rio de Janeiro,2,103
+txn_normal_0577,2023-01-01 19:08:27,199.44388459057876,Viagem,user_058,São Paulo,4,219
+txn_normal_1109,2023-01-01 19:11:54,112.05606082523744,Eletrônicos,user_079,São Paulo,3,180
+txn_normal_1266,2023-01-01 09:03:16,359.811457364333,Supermercado,user_037,Rio de Janeiro,2,275
+txn_normal_1722,2023-01-01 19:22:14,450.090643625927,Supermercado,user_030,São Paulo,1,84
+txn_normal_1183,2023-01-01 12:49:18,468.22770046454434,Restaurante,user_011,São Paulo,3,280
+txn_normal_0524,2023-01-01 22:09:40,169.37441390303044,Eletrônicos,user_008,Rio de Janeiro,2,161
+txn_normal_1059,2023-01-01 19:34:07,354.1753733294933,Vestuário,user_054,Rio de Janeiro,2,57
+txn_normal_0540,2023-01-01 09:02:57,183.88180706561243,Eletrônicos,user_075,Curitiba,2,98
+txn_normal_1194,2023-01-01 21:33:48,419.1007198985518,Supermercado,user_042,Rio de Janeiro,4,214
+txn_normal_1678,2023-01-01 21:19:59,46.58420587615979,Viagem,user_003,Rio de Janeiro,2,228
+txn_normal_0748,2023-01-01 12:43:53,325.5387239293306,Supermercado,user_003,Belo Horizonte,3,214
+txn_normal_1851,2023-01-01 15:28:16,135.6395075124581,Vestuário,user_071,Belo Horizonte,4,267
+txn_normal_1430,2023-01-01 11:35:32,15.228362233019755,Supermercado,user_048,Curitiba,1,139
+txn_normal_0484,2023-01-01 18:33:16,398.3716069813078,Restaurante,user_043,São Paulo,4,251
+txn_normal_1757,2023-01-01 13:40:27,424.9236833127263,Supermercado,user_064,Curitiba,1,45
+txn_normal_0095,2023-01-01 21:29:58,484.3071450655133,Eletrônicos,user_017,Curitiba,3,307
+txn_normal_1020,2023-01-01 13:41:23,402.4008689312776,Supermercado,user_027,São Paulo,4,334
+txn_normal_0563,2023-01-01 14:23:25,467.2323448600711,Eletrônicos,user_071,São Paulo,1,286
+txn_normal_1264,2023-01-01 10:59:42,448.93850771840596,Viagem,user_050,Rio de Janeiro,1,149
+txn_normal_0742,2023-01-01 08:38:47,301.8831138391495,Supermercado,user_048,Belo Horizonte,1,136
+txn_normal_0863,2023-01-01 14:11:39,469.97017133327716,Supermercado,user_100,Rio de Janeiro,4,343
+txn_normal_1598,2023-01-01 18:47:37,319.3749438337603,Restaurante,user_083,Rio de Janeiro,4,113
+txn_normal_1714,2023-01-01 19:13:55,115.58002204711352,Supermercado,user_027,Curitiba,2,84
+txn_normal_1484,2023-01-01 11:08:52,335.4348548766962,Eletrônicos,user_052,Belo Horizonte,3,139
+txn_normal_0891,2023-01-01 22:36:12,385.51013442127964,Viagem,user_075,Rio de Janeiro,4,337
+txn_normal_1577,2023-01-01 15:05:27,195.31621126882732,Restaurante,user_039,Rio de Janeiro,3,330
+txn_normal_1038,2023-01-01 22:37:19,235.18585897770572,Supermercado,user_025,Rio de Janeiro,1,30
+txn_normal_0206,2023-01-01 19:06:28,301.2539710219872,Restaurante,user_033,Rio de Janeiro,3,83
+txn_normal_0392,2023-01-01 19:03:21,261.0582509974374,Vestuário,user_045,Belo Horizonte,2,198
+txn_normal_0794,2023-01-01 13:19:04,219.45859880167765,Restaurante,user_086,Belo Horizonte,4,322
+txn_normal_0870,2023-01-01 16:09:57,136.86309464863842,Eletrônicos,user_017,Belo Horizonte,2,227
+txn_normal_0397,2023-01-01 12:52:48,176.04171817598828,Supermercado,user_054,Rio de Janeiro,1,269
+txn_normal_0766,2023-01-01 14:10:18,317.59525329969483,Restaurante,user_053,Rio de Janeiro,2,18
+txn_normal_1841,2023-01-01 12:42:27,465.9340200621974,Vestuário,user_057,Curitiba,4,40
+txn_normal_1241,2023-01-01 21:27:57,74.69723667609782,Viagem,user_013,Belo Horizonte,4,55
+txn_normal_1028,2023-01-01 18:54:57,271.321097604783,Viagem,user_035,Curitiba,2,147
+txn_normal_1792,2023-01-01 16:14:51,408.1035269352631,Viagem,user_018,Rio de Janeiro,4,145
+txn_normal_0642,2023-01-01 21:18:57,315.11787506540077,Vestuário,user_099,Rio de Janeiro,4,188
+txn_normal_1891,2023-01-01 10:06:56,115.8097199698662,Restaurante,user_088,Belo Horizonte,1,302
+txn_normal_0612,2023-01-01 20:31:35,183.31137642455963,Viagem,user_026,Rio de Janeiro,4,227
+txn_normal_1762,2023-01-01 10:16:08,189.45817875547138,Eletrônicos,user_099,Curitiba,1,144
+txn_normal_0960,2023-01-01 12:58:37,76.4741189085851,Viagem,user_087,Curitiba,2,57
+txn_normal_1570,2023-01-01 10:38:14,154.86278257202173,Viagem,user_088,Curitiba,3,84
+txn_normal_0725,2023-01-01 19:51:46,386.07442698944567,Viagem,user_086,Belo Horizonte,3,204
+txn_normal_0683,2023-01-01 16:41:17,146.0823528019135,Restaurante,user_075,Curitiba,1,247
+txn_normal_0098,2023-01-01 08:23:14,278.24869038056465,Vestuário,user_030,Belo Horizonte,2,55
+txn_normal_0804,2023-01-01 14:43:22,116.67913135929425,Eletrônicos,user_075,Rio de Janeiro,1,182
+txn_normal_1751,2023-01-01 17:16:48,197.58386190211687,Eletrônicos,user_100,São Paulo,2,120
+txn_normal_1597,2023-01-01 13:04:09,193.93490341066672,Eletrônicos,user_033,São Paulo,4,359
+txn_normal_0406,2023-01-01 16:38:27,457.510604312356,Restaurante,user_084,Rio de Janeiro,3,121
+txn_normal_0502,2023-01-01 13:36:56,40.05216826520848,Supermercado,user_040,Belo Horizonte,3,89
+txn_normal_1071,2023-01-01 13:26:17,155.63491578409705,Viagem,user_024,Rio de Janeiro,2,172
+txn_normal_1056,2023-01-01 21:57:53,427.7458959889952,Supermercado,user_031,Curitiba,3,289
+txn_normal_0929,2023-01-01 14:16:00,410.4236148560541,Vestuário,user_009,Belo Horizonte,4,192
+txn_normal_0779,2023-01-01 15:02:54,296.5656275398375,Viagem,user_099,São Paulo,4,23
+txn_normal_0200,2023-01-01 21:12:28,410.80384181834046,Vestuário,user_039,Rio de Janeiro,4,17
+txn_normal_0134,2023-01-01 18:30:50,388.2221704931401,Restaurante,user_036,Curitiba,2,303
+txn_normal_1051,2023-01-01 15:20:10,489.3820957618514,Restaurante,user_016,Rio de Janeiro,1,257
+txn_normal_0040,2023-01-01 10:59:40,458.2835512080198,Viagem,user_024,São Paulo,1,306
+txn_normal_1017,2023-01-01 12:04:48,225.68836106162465,Supermercado,user_005,Rio de Janeiro,3,273
+txn_normal_0230,2023-01-01 13:14:32,118.0749512119384,Vestuário,user_049,Rio de Janeiro,1,163
+txn_normal_1513,2023-01-01 19:11:50,471.875323237526,Eletrônicos,user_049,Curitiba,4,156
+txn_normal_1796,2023-01-01 08:54:19,270.3668075306807,Restaurante,user_078,Curitiba,1,29
+txn_normal_0378,2023-01-01 19:12:14,405.62405486657616,Supermercado,user_097,Rio de Janeiro,3,223
+txn_normal_0288,2023-01-01 12:51:41,496.1574272634232,Vestuário,user_049,Rio de Janeiro,2,86
+txn_normal_0418,2023-01-01 13:58:14,203.76279131652805,Viagem,user_030,Rio de Janeiro,1,126
+txn_normal_1698,2023-01-01 16:29:23,126.09370115840926,Vestuário,user_078,São Paulo,4,285
+txn_normal_0391,2023-01-01 12:50:37,93.58513666297411,Vestuário,user_029,Belo Horizonte,4,315
+txn_normal_0592,2023-01-01 18:57:34,420.18861763701955,Restaurante,user_080,São Paulo,1,129
+txn_normal_1522,2023-01-01 12:08:45,176.19062093726654,Vestuário,user_063,Rio de Janeiro,2,56
+txn_normal_1162,2023-01-01 16:40:21,176.22629685914484,Supermercado,user_076,Rio de Janeiro,3,171
+txn_normal_1086,2023-01-01 09:43:54,279.21179770987266,Viagem,user_060,São Paulo,3,10
+txn_normal_1495,2023-01-01 09:31:28,19.99678923722111,Eletrônicos,user_060,Rio de Janeiro,3,279
+txn_normal_0647,2023-01-01 18:15:48,66.25049435312725,Restaurante,user_076,São Paulo,1,48
+txn_normal_1152,2023-01-01 17:06:37,214.80456892680468,Supermercado,user_005,Belo Horizonte,1,294
+txn_normal_1367,2023-01-01 10:15:14,252.13722574038414,Restaurante,user_018,Belo Horizonte,1,322
+txn_normal_0520,2023-01-01 15:59:32,15.956818023919535,Eletrônicos,user_012,Rio de Janeiro,1,335
+txn_normal_1862,2023-01-01 16:50:12,401.2850484882227,Restaurante,user_052,Belo Horizonte,1,169
+txn_normal_0064,2023-01-01 10:40:06,176.9060390374776,Vestuário,user_058,São Paulo,2,79
+txn_normal_1836,2023-01-01 22:32:43,150.69460022170023,Eletrônicos,user_002,São Paulo,4,49
+txn_normal_0014,2023-01-01 14:23:36,41.143591640151584,Restaurante,user_044,Curitiba,2,39
+txn_normal_1180,2023-01-01 11:35:53,74.13175789125222,Supermercado,user_025,Belo Horizonte,1,219
+txn_normal_1064,2023-01-01 16:34:10,207.77668868224958,Vestuário,user_076,Belo Horizonte,1,82
+txn_normal_0492,2023-01-01 11:28:19,395.8990520708018,Viagem,user_091,Rio de Janeiro,4,118
+txn_normal_0379,2023-01-01 18:33:55,284.6159091804156,Vestuário,user_072,Rio de Janeiro,3,151
+txn_normal_0187,2023-01-01 17:42:33,261.2173703980892,Eletrônicos,user_090,São Paulo,1,263
+txn_normal_0763,2023-01-01 09:47:02,96.77030514467202,Supermercado,user_008,Rio de Janeiro,4,284
+txn_normal_0216,2023-01-01 11:35:08,307.5801596487089,Eletrônicos,user_060,Belo Horizonte,2,121
+txn_normal_0791,2023-01-01 14:38:39,211.2344901750386,Viagem,user_023,São Paulo,2,183
+txn_normal_1076,2023-01-01 08:33:29,388.6916408789866,Supermercado,user_057,São Paulo,2,11
+txn_normal_0878,2023-01-01 13:23:50,315.52440563533565,Supermercado,user_072,São Paulo,4,74
+txn_normal_0337,2023-01-01 13:52:30,394.5995187846191,Vestuário,user_064,Belo Horizonte,4,177
+txn_normal_1772,2023-01-01 20:22:28,289.48978943009007,Viagem,user_084,São Paulo,1,118
+txn_normal_0719,2023-01-01 20:04:59,196.18974869304336,Restaurante,user_089,Curitiba,3,133
+txn_normal_1748,2023-01-01 10:46:32,226.65551575542554,Supermercado,user_080,São Paulo,4,28
+txn_normal_0295,2023-01-01 19:05:31,225.36072743012596,Viagem,user_043,Rio de Janeiro,2,64
+txn_normal_1725,2023-01-01 16:46:29,240.439128768986,Supermercado,user_051,Belo Horizonte,2,344
+txn_normal_1016,2023-01-01 10:32:46,226.91991396404356,Supermercado,user_096,Curitiba,4,137
+txn_normal_1275,2023-01-01 22:55:27,355.9352974513768,Eletrônicos,user_044,Curitiba,3,326
+txn_normal_1750,2023-01-01 11:31:59,118.42552962243018,Vestuário,user_073,Belo Horizonte,2,184
+txn_normal_1485,2023-01-01 11:04:04,48.801340463226666,Restaurante,user_092,Curitiba,1,259
+txn_normal_0455,2023-01-01 12:42:12,91.80701348612737,Viagem,user_033,Curitiba,4,15
+txn_anomaly_0096,2023-01-01 11:51:55,63.22353941378931,Supermercado,user_228,Curitiba,10,7
+txn_normal_0815,2023-01-01 14:24:04,302.06455672286563,Viagem,user_020,Curitiba,4,311
+txn_normal_1886,2023-01-01 17:17:15,190.62411972416146,Eletrônicos,user_007,Curitiba,2,14
+txn_normal_0269,2023-01-01 18:36:03,282.75215838899146,Supermercado,user_024,Belo Horizonte,4,64
+txn_normal_0995,2023-01-01 08:34:57,238.83875459565343,Supermercado,user_051,Curitiba,2,247
+txn_normal_0201,2023-01-01 08:40:16,312.29419000411366,Supermercado,user_060,Curitiba,4,167
+txn_normal_0161,2023-01-01 08:36:24,144.28705813673093,Supermercado,user_076,Belo Horizonte,1,346
+txn_normal_1579,2023-01-01 09:28:11,140.1486342565433,Restaurante,user_065,Belo Horizonte,4,348
+txn_normal_0729,2023-01-01 18:51:53,406.8629659484207,Restaurante,user_061,Curitiba,1,158
+txn_normal_0401,2023-01-01 08:44:25,307.87355490444486,Vestuário,user_069,Curitiba,1,351
+txn_normal_0702,2023-01-01 10:25:10,260.7029054343169,Supermercado,user_043,Belo Horizonte,1,199
+txn_normal_1500,2023-01-01 19:43:13,212.2515769359228,Supermercado,user_034,São Paulo,1,136
+txn_normal_1845,2023-01-01 16:53:26,480.1254019131708,Eletrônicos,user_036,Belo Horizonte,3,325
+txn_normal_1795,2023-01-01 08:33:15,355.34995970477144,Supermercado,user_072,Rio de Janeiro,3,70
+txn_normal_1129,2023-01-01 13:07:12,419.2695894778442,Viagem,user_066,São Paulo,2,207
+txn_normal_0565,2023-01-01 18:02:14,430.081362156812,Viagem,user_032,Rio de Janeiro,4,148
+txn_normal_1413,2023-01-01 15:50:51,60.54191283039692,Restaurante,user_074,Rio de Janeiro,4,74
+txn_normal_1021,2023-01-01 21:28:57,50.02308478451345,Supermercado,user_039,Curitiba,3,282
+txn_normal_1025,2023-01-01 10:17:38,297.0461131654697,Eletrônicos,user_076,São Paulo,3,143
+txn_normal_1411,2023-01-01 10:09:05,354.7288866889499,Eletrônicos,user_005,Rio de Janeiro,2,195
+txn_normal_1895,2023-01-01 21:14:15,308.5191047569838,Supermercado,user_030,Rio de Janeiro,2,35
+txn_normal_1585,2023-01-01 12:23:37,25.367168714248315,Restaurante,user_095,Rio de Janeiro,1,233
+txn_normal_1104,2023-01-01 18:53:04,484.2536373161641,Viagem,user_028,Belo Horizonte,1,103
+txn_normal_0205,2023-01-01 18:17:49,314.24860370606376,Viagem,user_076,Curitiba,3,231
+txn_normal_0034,2023-01-01 13:39:19,89.19806990636074,Restaurante,user_089,Belo Horizonte,1,353
+txn_normal_0775,2023-01-01 17:06:49,22.34755646232412,Vestuário,user_091,Rio de Janeiro,3,141
+txn_normal_0508,2023-01-01 17:21:56,141.73490380189324,Eletrônicos,user_068,Curitiba,4,115
+txn_normal_1451,2023-01-01 20:51:30,40.80016886146667,Eletrônicos,user_079,Rio de Janeiro,3,246
+txn_normal_1478,2023-01-01 13:06:25,86.81384432365438,Supermercado,user_008,São Paulo,3,8
+txn_anomaly_0070,2023-01-01 21:37:34,8695.394639274335,Eletrônicos,user_233,Rio de Janeiro,4,321
+txn_normal_1390,2023-01-01 11:09:28,422.48626742412125,Eletrônicos,user_052,Belo Horizonte,2,166
+txn_normal_0091,2023-01-01 08:04:30,433.71396436497605,Viagem,user_003,São Paulo,3,57
+txn_normal_1363,2023-01-01 13:27:31,317.35661631162935,Vestuário,user_074,Rio de Janeiro,2,328
+txn_normal_0897,2023-01-01 10:04:33,314.38129787510076,Supermercado,user_077,Belo Horizonte,2,62
+txn_normal_0564,2023-01-01 14:57:48,448.8806410332015,Viagem,user_065,São Paulo,2,21
+txn_normal_1369,2023-01-01 13:08:11,449.28708296990743,Viagem,user_052,Belo Horizonte,2,101
+txn_normal_0776,2023-01-01 16:30:20,374.9209966363129,Supermercado,user_040,Curitiba,1,81
+txn_normal_0241,2023-01-01 08:56:53,312.4010434359747,Vestuário,user_028,São Paulo,3,179
+txn_normal_0013,2023-01-01 17:40:27,463.887430471541,Eletrônicos,user_072,Curitiba,2,37
+txn_normal_0315,2023-01-01 15:39:24,450.46140376305533,Eletrônicos,user_066,Belo Horizonte,2,53
+txn_normal_0600,2023-01-01 21:49:19,420.30986908737384,Supermercado,user_033,Belo Horizonte,3,47
+txn_normal_0387,2023-01-01 18:45:49,220.29947076421487,Viagem,user_021,São Paulo,4,280
+txn_normal_1297,2023-01-01 19:18:22,77.74032716068798,Viagem,user_096,São Paulo,1,252
+txn_normal_0166,2023-01-01 13:33:54,309.09828683389924,Viagem,user_056,São Paulo,2,40
+txn_normal_0840,2023-01-01 14:06:02,469.6514283883843,Supermercado,user_032,Belo Horizonte,2,47
+txn_normal_0020,2023-01-01 21:10:57,101.41932885415756,Vestuário,user_089,Belo Horizonte,2,229
+txn_normal_0646,2023-01-01 17:19:39,334.33767999213563,Supermercado,user_083,Belo Horizonte,4,9
+txn_normal_1842,2023-01-01 09:24:34,456.5053535693696,Vestuário,user_078,Belo Horizonte,2,268
+txn_normal_1508,2023-01-01 19:07:19,481.8065420608867,Vestuário,user_099,São Paulo,4,237
+txn_normal_1154,2023-01-01 19:21:19,45.69419579714788,Supermercado,user_001,Rio de Janeiro,2,357
+txn_normal_1528,2023-01-01 21:13:43,52.67020429980003,Eletrônicos,user_033,Curitiba,4,11
+txn_normal_0831,2023-01-01 12:52:15,243.49797070779627,Vestuário,user_061,Rio de Janeiro,4,30
+txn_normal_1267,2023-01-01 18:54:19,387.6390656725146,Viagem,user_064,Rio de Janeiro,4,98
+txn_normal_1590,2023-01-01 21:04:23,140.28866859335838,Vestuário,user_062,Belo Horizonte,1,233
+txn_normal_1899,2023-01-01 16:10:22,128.97273491487485,Supermercado,user_075,São Paulo,2,199
+txn_normal_0562,2023-01-01 09:28:47,436.5582134719983,Viagem,user_048,São Paulo,1,324
+txn_anomaly_0051,2023-01-01 14:22:46,571.3860005526383,Viagem,user_227,Cidade Pequena Distante,2,897
+txn_normal_0686,2023-01-01 15:06:46,287.3751067596009,Vestuário,user_012,São Paulo,2,47
+txn_normal_0957,2023-01-01 14:32:15,499.534254070786,Restaurante,user_098,Curitiba,2,354
+txn_normal_0189,2023-01-01 17:34:49,95.20867211754877,Supermercado,user_062,São Paulo,4,7
+txn_normal_1806,2023-01-01 22:38:19,85.44732357447624,Viagem,user_065,Curitiba,4,284
+txn_normal_0975,2023-01-01 20:53:36,436.11206428880826,Eletrônicos,user_093,Curitiba,2,170
+txn_normal_0699,2023-01-01 21:38:52,255.34835365996895,Restaurante,user_088,São Paulo,3,345
+txn_normal_1499,2023-01-01 14:00:59,159.94047705575207,Supermercado,user_012,São Paulo,3,48
+txn_normal_1705,2023-01-01 10:14:57,67.98921352176018,Vestuário,user_063,Curitiba,4,325
+txn_normal_0510,2023-01-01 16:23:01,190.94757740561514,Restaurante,user_070,São Paulo,3,171
+txn_normal_1082,2023-01-01 14:54:14,282.8509603982181,Restaurante,user_074,Belo Horizonte,4,151
+txn_normal_0474,2023-01-01 14:41:56,365.5573281344638,Supermercado,user_025,Rio de Janeiro,3,305
+txn_normal_1584,2023-01-01 20:26:17,168.2215236031715,Vestuário,user_074,Rio de Janeiro,2,73
+txn_normal_0856,2023-01-01 08:48:24,374.9642870096574,Supermercado,user_080,Curitiba,2,204
+txn_normal_0747,2023-01-01 14:28:32,52.20474814120337,Restaurante,user_062,São Paulo,3,262
+txn_normal_0252,2023-01-01 16:32:40,33.62389904167245,Eletrônicos,user_048,São Paulo,1,249
+txn_normal_0021,2023-01-01 18:56:51,143.3448021984713,Viagem,user_003,Belo Horizonte,2,141
+txn_normal_1337,2023-01-01 17:47:30,146.9400262025278,Viagem,user_023,Belo Horizonte,2,222
+txn_normal_0459,2023-01-01 11:30:01,280.51398868015514,Eletrônicos,user_073,Rio de Janeiro,3,314
+txn_normal_1184,2023-01-01 09:56:49,296.9460422413585,Supermercado,user_098,Rio de Janeiro,2,205
+txn_normal_0276,2023-01-01 08:35:02,51.972542302250964,Eletrônicos,user_008,São Paulo,3,74
+txn_normal_0955,2023-01-01 08:51:32,254.7786842502889,Supermercado,user_005,Belo Horizonte,2,170
+txn_normal_1215,2023-01-01 18:50:51,452.245636273047,Eletrônicos,user_038,Curitiba,1,195
+txn_normal_0385,2023-01-01 11:58:03,374.16466737848566,Vestuário,user_008,Rio de Janeiro,1,129
+txn_normal_0805,2023-01-01 12:40:58,206.87863620361802,Eletrônicos,user_099,Curitiba,1,52
+txn_normal_1437,2023-01-01 12:59:11,55.71594918360432,Supermercado,user_099,São Paulo,4,58
+txn_normal_1515,2023-01-01 21:27:01,148.02288369251724,Eletrônicos,user_043,Curitiba,1,217
+txn_normal_0343,2023-01-01 10:04:28,220.53183824207818,Viagem,user_084,São Paulo,1,78
+txn_normal_0769,2023-01-01 19:58:51,192.33890546843236,Viagem,user_049,São Paulo,2,103
+txn_normal_1332,2023-01-01 10:28:29,282.2072833507326,Supermercado,user_075,Belo Horizonte,1,320
+txn_normal_1685,2023-01-01 09:47:04,236.5409637550485,Viagem,user_088,Curitiba,1,30
+txn_normal_0130,2023-01-01 22:46:28,78.24331560505976,Eletrônicos,user_094,Belo Horizonte,3,161
+txn_normal_1687,2023-01-01 09:15:22,375.66489823160066,Restaurante,user_073,Belo Horizonte,3,130
+txn_normal_0871,2023-01-01 19:38:03,270.9107448631097,Supermercado,user_013,Rio de Janeiro,2,89
+txn_normal_1123,2023-01-01 12:36:51,200.45062782876573,Eletrônicos,user_007,Belo Horizonte,2,213
+txn_normal_1396,2023-01-01 12:24:21,99.76714011205108,Vestuário,user_039,Belo Horizonte,4,184
+txn_normal_0087,2023-01-01 21:34:05,89.68230027899673,Supermercado,user_069,Belo Horizonte,1,14
+txn_normal_1482,2023-01-01 14:11:28,403.2566218308258,Vestuário,user_015,São Paulo,1,53
+txn_normal_0330,2023-01-01 17:53:11,425.5434176540782,Eletrônicos,user_078,Rio de Janeiro,1,24
+txn_normal_1238,2023-01-01 22:20:53,60.94009419707089,Supermercado,user_064,Belo Horizonte,2,151
+txn_normal_0466,2023-01-01 08:19:54,204.8473140000977,Vestuário,user_016,Belo Horizonte,1,108
+txn_normal_0121,2023-01-01 15:09:04,190.9229359398491,Supermercado,user_044,Rio de Janeiro,1,172
+txn_normal_1638,2023-01-01 18:55:59,81.7228026285942,Viagem,user_060,Rio de Janeiro,1,35
+txn_normal_1044,2023-01-01 18:31:49,315.33754833643445,Vestuário,user_063,São Paulo,2,212
+txn_normal_1724,2023-01-01 15:19:14,334.0556757797442,Viagem,user_068,Rio de Janeiro,2,288
+txn_normal_1095,2023-01-01 16:02:10,337.64873359996756,Vestuário,user_010,São Paulo,1,181
+txn_normal_1130,2023-01-01 20:25:06,463.8345633431671,Eletrônicos,user_083,Rio de Janeiro,3,161
+txn_normal_1294,2023-01-01 20:37:48,192.9878496612634,Vestuário,user_055,Belo Horizonte,2,165
+txn_normal_0860,2023-01-01 17:43:32,156.83765508233049,Viagem,user_078,Curitiba,2,102
+txn_normal_1459,2023-01-01 19:07:42,33.49928889412395,Eletrônicos,user_003,Curitiba,1,146
+txn_normal_1126,2023-01-01 08:11:33,35.64310007732479,Restaurante,user_031,São Paulo,4,194
